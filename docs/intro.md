@@ -1,5 +1,6 @@
 ---
-sidebar_position: 1
+title: 1. Intro
+sidebar_label: yes
 ---
 
 # Tutorial Intro
