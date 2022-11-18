@@ -64,10 +64,9 @@ const config = {
         },
         items: [
           {
-            type: 'doc',
-            docId: 'dashboard',
             position: 'left',
             label: 'Dashboard',
+            to: '/dashboard',
           },
           {
             type: 'doc',
