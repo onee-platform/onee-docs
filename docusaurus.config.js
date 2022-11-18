@@ -8,16 +8,16 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Onee Platform | Documentations',
   tagline: 'Onee Platform from Indonesia',
-  url: 'https://docs.onee.id',
+  url: 'https://onee.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'favicon.ico',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'onee-indo', // Usually your GitHub org/user name.
+  projectName: 'onee-docs', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -57,12 +57,18 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Onee Docs',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Onee Logo',
+          src: 'img/onee-big-ico.svg',
         },
         items: [
+          {
+            type: 'doc',
+            docId: 'dashboard',
+            position: 'left',
+            label: 'Dashboard',
+          },
           {
             type: 'doc',
             docId: 'intro',
@@ -81,28 +87,44 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Developer Guide',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Dashboard Graph API',
+                to: '/docs/intro',
+              },
+              {
+                label: 'Front Graph API',
+                to: '/docs/intro',
+              },
+              {
+                label: 'Design Website',
+                to: '/docs/intro',
+              },
+              {
+                label: 'Integrations',
                 to: '/docs/intro',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Connect With Us',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Tik-Tok',
+                href: 'https://tiktok.com/@onee.id',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Instagram',
+                href: 'https://instagram.com/onee.indo',
+              },
+              {
+                label: 'Facebook',
+                href: 'https://facebook.com/onee.indo',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/onee_indo',
               },
             ],
           },
@@ -110,17 +132,17 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Support',
+                href: 'https://bendt.io',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Live Chat',
+                href: 'https://bendt.io',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Onee Indonesia.`,
       },
       prism: {
         theme: lightCodeTheme,
