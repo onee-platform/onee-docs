@@ -1,5 +1,5 @@
 ---
-title: 2. Baju
-sidebar_label: tws
+title: 2. Konfirmasi E-mail
+sidebar_label: 2. Konfirmasi E-mail
 ---
 q﻿fq
