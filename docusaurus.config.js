@@ -60,10 +60,10 @@ const config = {
           {
             position: 'left',
             label: 'Dashboard',
-            to: '/docs/dashboard',
+            to: '/intro',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/onee-indo/onee-docs',
             label: 'GitHub',
             position: 'right',
           },
@@ -77,19 +77,19 @@ const config = {
             items: [
               {
                 label: 'Dashboard Graph API',
-                to: '/docs/intro',
+                href: '/',
               },
               {
                 label: 'Front Graph API',
-                to: '/docs/intro',
+                href: '/',
               },
               {
                 label: 'Design Website',
-                to: '/docs/intro',
+                href: '/',
               },
               {
                 label: 'Integrations',
-                to: '/docs/intro',
+                href: '/',
               },
             ],
           },

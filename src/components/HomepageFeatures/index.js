@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Dengan memiliki website sendiri, Anda tidak hanya membangun  <code>Brand</code> yang kuat, menciptakan <code>Perjalanan Pelanggan</code> dari waktu ke waktu, dan terbebas dari persaingan harga secara langsung.
+        Dengan memiliki website sendiri, Anda tidak hanya membangun  <code>Brand</code> yang kuat, menciptakan <code>Perjalanan Pelanggan</code> dari waktu ke waktu, dan <code>Bebas</code> dari <code>Persaingan Harga</code> secara langsung.
       </>
     ),
   },
@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Onee membantu Anda menghemat pengeluaran berlebih untuk perawatan aplikasi & juga menghindari biaya tak terduga seperti kenaikan layanan marketplace yang tidak dapat di prediksi, membuat Anda selangkah lebih maju dalam persaingan digital.
+        Onee membantu Anda menghemat pengeluaran berlebih untuk perawatan aplikasi & menghindari biaya tak terduga seperti kenaikan layanan marketplace yang tidak dapat di prediksi, membuat Anda selangkah lebih maju dalam persaingan digital.
       </>
     ),
   },
