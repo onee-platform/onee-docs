@@ -66,7 +66,7 @@ const config = {
           {
             position: 'left',
             label: 'Dashboard',
-            to: '/dashboard',
+            to: '/docs/dashboard',
           },
           {
             type: 'doc',
