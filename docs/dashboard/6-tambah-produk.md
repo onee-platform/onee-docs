@@ -1,6 +1,6 @@
 ---
-title: 6. Tambah Produk
-sidebar_label: 6. Tambah Produk
+title: 6. Daftar Pilihan Opsi
+sidebar_label: 6. Daftar Pilihan Opsi
 ---
 M﻿enambahkan Produk.
 
