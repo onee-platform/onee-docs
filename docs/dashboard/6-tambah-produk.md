@@ -24,4 +24,8 @@ K﻿lik Tambah, kemudian isi Urutan Ke, Label Opsi (Wajib), Kode, dan Status Akt
 
 ![](/img/6.1-daftar-pilihan-opsi-edit-menambahkan-opsi-pada-variasi-ukuran.png)
 
-T﻿idak harus Warna dan juga Ukuran, Kalian juga dapat menambahkan variasi Tipe HP dengan variant 64GB, 128GB dll.
+T﻿idak harus Warna dan juga Ukuran, Kalian juga dapat menambahkan variasi Tipe HP dengan variant 64GB, 128GB dll. 
+
+K﻿alian juga dapat mengubah sekaligus variasi yang ingin kalian ubah. Contoh: pada variasi warna dan ukuran ingin di non aktifkan atau dijadikan draft, maka Anda bisa melakukannya secara bersamaan dengan cara centang box warna dan ukuran, kemudian klik **Ubah Sekaligus**, lalu pilih Ubah menjadi Draft. Maka variasi warna dan ukuran akan terupdate secara bersamaan.
+
+![](/img/6.2-daftar-pilihan-opsi-ubah-sekaligus-menjadi-non-aktif.png)
