@@ -16,7 +16,7 @@ c﻿. Status Aktif : sudah default aktif, dan bisa diubah menjadi non-aktif jika
 
 ![](/img/6.-daftar-pilihan-opsi.png)
 
-\    2﻿.  Edit Variasi Ukuran
+\    2. Edit Variasi Ukuran
 
 Menambahkan opsi ukuran produk yang tersedia. 
 
