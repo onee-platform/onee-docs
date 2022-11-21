@@ -1,6 +1,6 @@
 ---
-title: 11. Pengaturan E-mail
-sidebar_label: 11. Pengaturan E-mail
+title: 11. Pengaturan E-mail(s)
+sidebar_label: 11. Pengaturan E-mail(s)
 ---
 1. M﻿engatur isi pesan E-mail.
 
