@@ -18,8 +18,8 @@ c﻿. Status Aktif : sudah default aktif, dan bisa diubah menjadi non-aktif jika
 
 \    2. Edit Variasi Ukuran
 
-Menambahkan opsi ukuran produk yang tersedia. 
+Menambahkan opsi Ukuran produk yang tersedia. 
 
-K﻿lik Tambah, kemudian isi Urutan Ke, Label Opsi (Wajib), Kode, dan Status Aktif / Tampil (default), Submit
+K﻿lik Tambah, kemudian isi Urutan Ke, Label Opsi (Wajib), Kode, dan Status Aktif / Tampil (default), Submit.
 
 ![](/img/6.1-daftar-pilihan-opsi-edit-menambahkan-opsi-pada-variasi-ukuran.png)
