@@ -26,6 +26,8 @@ sidebar_label: 12. Tambah Produk
    b﻿. Satuan: Flag opsi / pilihan : G, KG, LB, OZ.
 
    c﻿. Estimasi Waktu untuk metode pickup ( menit ): *Number Field*, berapa menitkah waktu yang disiapkan untuk packing hingga siap untuk di pickup. 
+
+   N﻿OTE: pada informasi di bagian pickup & pengiriman produk ini, untuk menentukan volume pada paket yang ingin dikirim. Volume inilah yang akan menentukan harga pengiriman pada ekspedisi tsb. Misal untuk barang / paket yang besar tetapi ringan itu akan tetap dihitung volumenya.
 3. S﻿tock Produk: Dicentang jika history stock produk ingin disimpan.
 4. V﻿ariasi Produk: Opsi / Pilihan, jika menjual pakaian tentunya ada warna dan juga ukuran, maka dari itu Anda bisa memilih 2 variasi Ukuran dan Warna ( tidak bisa lebih dari 2 variasi, tetapi bisa lebih dari 1 variant ). 
 
