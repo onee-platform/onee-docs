@@ -23,3 +23,5 @@ Menambahkan opsi Ukuran produk yang tersedia.
 K﻿lik Tambah, kemudian isi Urutan Ke, Label Opsi (Wajib), Kode, dan Status Aktif / Tampil (default), Submit.
 
 ![](/img/6.1-daftar-pilihan-opsi-edit-menambahkan-opsi-pada-variasi-ukuran.png)
+
+T﻿idak harus Warna dan juga Ukuran, Kalian juga dapat menambahkan variasi Tipe HP dengan variant 64GB, 128GB dll.
