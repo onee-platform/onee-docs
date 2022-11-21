@@ -33,4 +33,4 @@ sidebar_label: 12. Tambah Produk
 
    ![](/img/12.1-tambah-produk-variasi-produk..png)
 
-   K﻿alian juga dapat menambahkan Variasi dan Variant produk baru sendiri. Lihat disini
+   Anda juga dapat menambahkan Variasi dan Variant produk baru. Lihat disini (
