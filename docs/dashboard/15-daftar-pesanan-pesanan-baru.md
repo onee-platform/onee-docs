@@ -16,4 +16,10 @@ B﻿erikut panduan untuk membuat pesanan baru:
    (﻿*) Kolom wajib diisi.
 
    ![](/img/15.1-daftar-pesanan-isi-kolom-cabang-dan-tanggal.png)
-3.
+3. I﻿nformasi Pembeli
+
+   ![](/img/15.2-daftar-pesanan-informasi-pembeli.png)
+
+   P﻿ada informasi pembeli ini terdapat 2 opsi Pelanggan dan Non Pelanggan.
+
+   P﻿ilih pelanggan, jika Anda sudah memiliki data pelanggan, dan pilih Non Pelanggan jika Anda belum memiliki data pelanggan atau buat pelanggan baru. Berikut contoh memilih Non Pelanggan.
