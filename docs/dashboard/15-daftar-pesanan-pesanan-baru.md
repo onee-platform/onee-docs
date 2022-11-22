@@ -13,7 +13,7 @@ B﻿erikut panduan untuk membuat pesanan baru:
    ![](/img/15.-tombol-tambah-pesanan.png)
 2. Isi kolom Cabang\*, Tanggal Pesan\* & Berlaku Hingga.
 
-   (﻿*) Kolom wajib diisi.
+   *(﻿*) Kolom wajib diisi.*
 
    ![](/img/15.1-daftar-pesanan-isi-kolom-cabang-dan-tanggal.png)
 3. I﻿nformasi Pembeli
@@ -26,5 +26,6 @@ B﻿erikut panduan untuk membuat pesanan baru:
 
    K﻿etika data pelanggan sudah diisi, maka informasi pengiriman akan otomatis dimunculkan dan lanjutkan ke pengisian di Informasi Pengiriman. ( seperti gambar dibawah ). 
 
+   *(﻿*) Kolom wajib diisi.*
+
    ![](/img/15.3-daftar-pesanan-isi-data-informasi-pembeli-dan-informasi-pengiriman.png)
-4.
