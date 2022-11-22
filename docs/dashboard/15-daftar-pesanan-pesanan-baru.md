@@ -29,3 +29,4 @@ B﻿erikut panduan untuk membuat pesanan baru:
    *(﻿*) Kolom wajib diisi.*
 
    ![](/img/15.3-daftar-pesanan-isi-data-informasi-pembeli-dan-informasi-pengiriman.png)
+4.
