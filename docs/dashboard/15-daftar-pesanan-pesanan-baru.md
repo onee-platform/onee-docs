@@ -11,3 +11,6 @@ B﻿erikut panduan untuk membuat pesanan baru:
 1. K﻿lik tombol **Pesanan+** pada Tab Pesanan Baru.
 
    ![](/img/15.-tombol-tambah-pesanan.png)
+2. L﻿engkapi kolom Cabang\*, Tanggal Pesan\* & Berlaku Hingga.
+
+   (﻿*) Kolom wajib diisi.
