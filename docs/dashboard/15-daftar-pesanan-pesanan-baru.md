@@ -24,4 +24,7 @@ B﻿erikut panduan untuk membuat pesanan baru:
 
    P﻿ilih pelanggan, jika Anda sudah memiliki data pelanggan, dan pilih Non Pelanggan jika Anda belum memiliki data pelanggan atau buat pelanggan baru. Berikut contoh memilih Non Pelanggan.
 
-   K﻿etika data pelanggan sudah diisi, maka informasi pengiriman akan otomatis dimunculkan.
+   K﻿etika data pelanggan sudah diisi, maka informasi pengiriman akan otomatis dimunculkan dan lanjutkan ke pengisian di Informasi Pengiriman. ( seperti gambar dibawah ). 
+
+   ![](/img/15.3-daftar-pesanan-isi-data-informasi-pembeli-dan-informasi-pengiriman.png)
+4.
