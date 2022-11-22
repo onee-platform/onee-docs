@@ -23,3 +23,5 @@ B﻿erikut panduan untuk membuat pesanan baru:
    P﻿ada informasi pembeli ini terdapat 2 opsi Pelanggan dan Non Pelanggan.
 
    P﻿ilih pelanggan, jika Anda sudah memiliki data pelanggan, dan pilih Non Pelanggan jika Anda belum memiliki data pelanggan atau buat pelanggan baru. Berikut contoh memilih Non Pelanggan.
+
+   K﻿etika data pelanggan sudah diisi, maka informasi pengiriman akan otomatis dimunculkan.
