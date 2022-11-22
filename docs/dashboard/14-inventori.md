@@ -16,4 +16,12 @@ sidebar_label: 14. Inventori
 
 \- Memiliki Stock & Histori (Hijau) ATAU Tidak memiliki histori stock namun selalu tersedia untuk dijual ( Abu-abu ).
 
-D﻿an Produk yang tidak di aktifkan akan masuk ke Tab Non-Aktif.
+Produk yang tidak di aktifkan akan masuk ke Tab Non-Aktif. Dan jika ingin mengaktifkannya kembali secara bersamaan maka langkahnya sebagai berikut: 
+
+![](/img/14.-inventori-ubah-sekaligus.png)
+
+\-﻿ Pertama Anda harus ke Tab Non- Aktif, kemudian centang box ( pilih barang yang ingin diaktifkan secara bersamaan)
+
+\-﻿ Kemudian, klik *button* Ubah Sekaligus > pilih Set Aktif. 
+
+\-﻿ Barang yang dipilih akan aktif kembali.
