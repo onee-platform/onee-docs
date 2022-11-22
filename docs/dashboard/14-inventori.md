@@ -14,4 +14,6 @@ sidebar_label: 14. Inventori
 
 \- Produk Fisik (Hijau) ATAU Digital ( Abu-abu )
 
-\- Memiliki Stock & Histori (Hijau) ATAU Tidak memiliki histori stock namun selalu tersedia untuk dijual ( Abu-abu )
+\- Memiliki Stock & Histori (Hijau) ATAU Tidak memiliki histori stock namun selalu tersedia untuk dijual ( Abu-abu ).
+
+D﻿an Produk yang tidak di aktifkan akan masuk ke Tab Non-Aktif.
