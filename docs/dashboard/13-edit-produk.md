@@ -8,7 +8,9 @@ sidebar_label: 13. Edit Produk
 
    ![](/img/13.-edit-produk.png)
 
-   b﻿. Klik variant yang baru saja ditambahkan ( lambang merah ) untuk Anda mengatur harga, Status, dan informasi Pickup & Pengiriman Produk. Dan klik tanda hijau dikolom IN-STOCK untuk mengatur stock. Input satu per satu pada setiap variant yang baru saja di tambahkan. 
+   b﻿. Klik variant yang baru saja ditambahkan ( lambang merah ) untuk Anda mengatur harga, Status, dan informasi Pickup & Pengiriman Produk. Dan klik tanda hijau dikolom IN-STOCK untuk mengatur stock. Input satu per satu pada setiap variant yang baru saja di tambahkan. Jika sudah terisi semua variant, jangan lupa untuk selalu klik **Simpan Perubahan**.
 
    ![](/img/13.-edit-produk-input-harga.png)
+
+
 2.
