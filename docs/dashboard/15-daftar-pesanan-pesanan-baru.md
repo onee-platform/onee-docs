@@ -44,3 +44,8 @@ B﻿erikut panduan untuk membuat pesanan baru:
    \- Tersedia 5 : menampilkan jumlah stock yang tersedia, karena pada produk tersebut telah di atur untuk menampilkan histori stock.
 
    \-﻿ Ready Stock: pada produk tersebut telah diatur untuk tidak menampilkan histori stock namun selalu tersedia untuk dijual.
+5. P﻿ilih Kurir Pengiriman.
+
+   ![](/img/15.6-daftar-pesanan-pilih-ekspedisi.png)
+
+   A﻿nda juga bisa menambahkan opsi kurir pengiriman [di sini](https://onee.netlify.app/dashboard/integrasi-kurir-pengiriman) .
