@@ -15,3 +15,5 @@ K﻿ami menyediakan aplikasi Midtrans sebagai solusi payment gateway Anda. Jika 
    ![](/img/9.-integrasi-aplikasi-midtrans-sandbox-testing-.png)
 
    d﻿an akan menampilkan Merchant ID, Server Key & Client Key untuk Anda copy dan tempel di menu Integrasi > Aplikasi pada [dashboard.onee.id](https://dashboard.onee.id)
+
+   ![](/img/9.1-integrasi-aplikasi.png)
