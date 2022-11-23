@@ -6,6 +6,8 @@ sidebar_label: 8. Pengaturan Lainnya
 
    M﻿engatur pesanan sebelum memulai jualan. Atur semua field yang tersedia sesuai dengan SOP Anda.
 
+   a﻿. PPN (%) : Input nilai PPN jika penjualan
+
 ![](/img/8.-pengaturan-lainnya-pesanan.png)
 
 2. M﻿engatur Booking
