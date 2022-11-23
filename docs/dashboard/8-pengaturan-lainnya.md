@@ -4,7 +4,7 @@ sidebar_label: 8. Pengaturan Lainnya
 ---
 1. ﻿Mengatur Pesanan. 
 
-   M﻿engatur pesanan sebelum memulai jualan. Atur semua field yang tersedia sesuai dengan SOP.
+   M﻿engatur pesanan sebelum memulai jualan. Atur semua field yang tersedia sesuai dengan SOP Anda.
 
 ![](/img/8.-pengaturan-lainnya-pesanan.png)
 
