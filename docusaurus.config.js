@@ -10,7 +10,7 @@ const config = {
   tagline: 'Onee Platform from Indonesia',
   url: 'https://onee.netlify.app',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'favicon.ico',
 
