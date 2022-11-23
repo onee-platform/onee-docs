@@ -13,7 +13,7 @@ K﻿ami menyediakan aplikasi Midtrans sebagai solusi payment gateway Anda. Jika 
    D﻿isini kami memakai Sandbox untuk testing, lalu buka halaman  ﻿<https://dashboard.sandbox.midtrans.com/settings/config_info>
 
    ![](/img/9.-integrasi-aplikasi-midtrans-sandbox-testing-.png)
-2. D﻿an akan menampilkan Merchant ID, Server Key & Client Key untuk Anda copy dan tempel di menu Integrasi > Aplikasi pada [dashboard.onee.id](https://dashboard.onee.id)
+2. Di halaman tersebut akan menampilkan Merchant ID, Server Key & Client Key untuk Anda copy dan tempel di menu Integrasi > Aplikasi pada [dashboard.onee.id](https://dashboard.onee.id)
 
    ![](/img/9.1-integrasi-aplikasi.png)
 
