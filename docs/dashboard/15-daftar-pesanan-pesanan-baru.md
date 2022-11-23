@@ -49,3 +49,4 @@ B﻿erikut panduan untuk membuat pesanan baru:
    ![](/img/15.6-daftar-pesanan-pilih-ekspedisi.png)
 
    A﻿nda juga bisa menambahkan opsi kurir pengiriman [di sini](https://onee.netlify.app/dashboard/integrasi-kurir-pengiriman) .
+6. L﻿angkah terakhir, jika semua field sudah terisi selanjutnya klik **Buat Pesanan.** Pesanan masih dalam status **DRAFT.**
