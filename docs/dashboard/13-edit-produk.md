@@ -21,6 +21,4 @@ sidebar_label: 13. Semua Produk & Jasa - Edit Produk
 
    ![](/img/13.-edit-produk-penggunaan-tombol-update-sekaligus.png)
 
-   K﻿etika telah di klik terapkan ke semua variasi, maka semua variasi untuk field harga dan harga discount telah terupdate.
-
-   D﻿ikarenakan hanya mengubah field harga dan harga promo, untuk field yang lainnya tidak ikut berubah / tetap sama. Jika penggunaan tombol Update Sekaligus digunakan untuk mengubah semua field
+   K﻿etika telah di klik terapkan ke semua variasi, maka semua variasi untuk field harga dan harga discount telah terupdate dan untuk field - field lainnya akan tetap sama ( tidak berubah ).
