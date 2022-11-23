@@ -20,3 +20,5 @@ K﻿ami menyediakan aplikasi Midtrans sebagai solusi payment gateway Anda. Jika 
    J﻿ika sudah maka klik simpan, dan midtrans akan terhubung.
 
    L﻿angkah selanjutnya, buka halaman <https://dashboard.sandbox.midtrans.com/settings/vtweb_configuration> kemudian masukan link <https://api.onee.id/midtrans/notification> pada kolom Payment Notification URL*.
+
+   ![](/img/9.2-integrasi-payment-notif-midtrans.png)
