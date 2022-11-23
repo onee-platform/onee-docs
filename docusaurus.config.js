@@ -23,8 +23,8 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'id',
+    locales: ['id'],
   },
 
   presets: [
@@ -63,6 +63,16 @@ const config = {
             to: '/intro',
           },
           {
+            position: 'left',
+            label: 'Admin API',
+            to: '/admin-graph-api',
+          },
+          {
+            position: 'left',
+            label: 'Storefront API',
+            to: '/storefront-graph-api',
+          },
+          {
             href: 'https://github.com/onee-indo/onee-docs',
             label: 'GitHub',
             position: 'right',
@@ -81,14 +91,10 @@ const config = {
               },
               {
                 label: 'Front Graph API',
-                href: '/',
+                href: '/storefront-graph-api',
               },
               {
-                label: 'Design Website',
-                href: '/',
-              },
-              {
-                label: 'Integrations',
+                label: 'Customize Themes',
                 href: '/',
               },
             ],
