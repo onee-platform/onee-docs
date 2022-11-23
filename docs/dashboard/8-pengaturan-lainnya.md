@@ -18,6 +18,8 @@ sidebar_label: 8. Pengaturan Lainnya
 
    (﻿ Case untuk yang pembayaran expired : Pelanggan melakukan pembayaran menggunakan Qris, dimana Qris memiliki waktu tersendiri dalam pembatalan pembayaran, maka sistem akan mengikuti waktu yang telah ditentukan oleh Qris ).
 
+   f﻿. Allow Self Pickup: opsi akan dimunculkan ketika Anda membuat [Pesanan Baru](https://onee.netlify.app/dashboard/daftar-pesanan-pesanan-baru)
+
 ![](/img/8.-pengaturan-lainnya-pesanan.png)
 
 2. M﻿engatur Booking
