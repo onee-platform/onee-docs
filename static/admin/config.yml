@@ -32,7 +32,7 @@ collections:
       - { name: body, label: Body, widget: markdown }
   - name: admin_graph_api
     label: "Admin Graph API"
-    folder: "docs/admin_graph_api"
+    folder: "docs/admin-graph-api"
     identifier_field: title
     extension: md
     widget: "list"

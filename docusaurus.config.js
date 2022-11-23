@@ -64,11 +64,6 @@ const config = {
           },
           {
             position: 'left',
-            label: 'Admin API',
-            to: '/admin-graph-api',
-          },
-          {
-            position: 'left',
             label: 'Storefront API',
             to: '/storefront-graph-api',
           },
