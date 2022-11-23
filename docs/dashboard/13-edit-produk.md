@@ -15,6 +15,12 @@ sidebar_label: 13. Semua Produk & Jasa - Edit Produk
 
    ![](/img/update-sekaligus.png)
 
-   T﻿ombol ini digunakan jika ada salah satu field yang ingin di update. Contoh ada perubahan harga pada produk dan ingin memberikan discount. Caranya:
+   T﻿ombol ini digunakan jika ada salah satu field yang ingin di update ( tidak harus semua field ), contoh ada perubahan harga pada produk dan ingin memberikan discount, berikut caranya:
 
-   \- K﻿lik tombol Update Sekaligus, lalu masukan nilai perubahan harga dan harga discount, kemudian klik Terapkan ke Semua Variasi.
+   \- K﻿lik tombol Update Sekaligus, lalu masukan nilai perubahan harga dan harga discount saja, kemudian klik Terapkan ke Semua Variasi > Simpan Perubahan.
+
+   ![](/img/13.-edit-produk-penggunaan-tombol-update-sekaligus.png)
+
+   K﻿etika telah di klik terapkan ke semua variasi, maka semua variasi untuk field harga dan harga discount telah terupdate.
+
+   D﻿ikarenakan hanya mengubah field harga dan harga promo, untuk field yang lainnya tidak ikut berubah / tetap sama. Jika penggunaan tombol Update Sekaligus digunakan untuk mengubah semua field
