@@ -29,4 +29,6 @@ B﻿erikut panduan untuk membuat pesanan baru:
    *(﻿**) Kolom wajib diisi.
 
    ![](/img/15.3-daftar-pesanan-isi-data-informasi-pembeli-dan-informasi-pengiriman.png)
-4.
+4. C﻿ari Produk / Variasi Produk.
+
+   Ketik untuk mencari produk yang ingin dijual ( min 2 karakter ).
