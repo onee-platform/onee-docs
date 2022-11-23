@@ -31,4 +31,16 @@ B﻿erikut panduan untuk membuat pesanan baru:
    ![](/img/15.3-daftar-pesanan-isi-data-informasi-pembeli-dan-informasi-pengiriman.png)
 4. C﻿ari Produk / Variasi Produk.
 
-   Ketik untuk mencari produk yang ingin dijual ( min 2 karakter ).
+   \- Ketik dan pilih produk yang ingin dijual.
+
+   ![](/img/15.4-daftar-pesanan-input-produk-yang-ingin-dijual.png)
+
+   \-﻿ Atur quantity stock, tombol (+) untuk menambahkan stok dan (-) untuk mengurangi jumlah stok.
+
+   ![](/img/15.5-daftar-pesanan-atur-qty-yg-ingin-dijual.png)
+
+   K﻿eterangan stok : 
+
+   \- Tersedia 5 : menampilkan jumlah stock yang tersedia, karena pada produk tersebut telah di atur untuk menampilkan histori stock.
+
+   \-﻿ Ready Stock: pada produk tersebut telah diatur untuk tidak menampilkan histori stock namun selalu tersedia untuk dijual.
