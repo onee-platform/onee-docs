@@ -10,4 +10,5 @@ K﻿ami menyediakan aplikasi Midtrans sebagai solusi payment gateway Anda. Jika 
 
    \-﻿ Kemudian, ketika Anda sudah berhasil login, pada bagian Environment terdapat 2 pilihan, ada Production ( untuk development ) dan ada Sandbox ( untuk Testing ). 
 
-   D﻿isini kami memakai Sandbox untuk testing, buka halaman  ﻿https://dashboard.sandbox.midtrans.com/settings/config_info
+   D﻿isini kami memakai Sandbox untuk testing, lalu buka halaman  ﻿<https://dashboard.sandbox.midtrans.com/settings/config_info>
+2.
