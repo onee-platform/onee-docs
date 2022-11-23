@@ -11,7 +11,7 @@ sidebar_label: 16. Buat Tagihan Pesanan
 
    \-﻿ Pembayaran Online: pembayaran akan dilakukan dengan menggunakan third party *midtrans,* untuk pilihan pembayarannya bisa di settings pada backend *midtrans.*
 
-   \-﻿ Bank Transfer: Pembayaran akan dilakukan oleh pembeli dengan cara transfer ke rekening bank yang terdaftar. Metode ini membutuhkan verifikasi manual ( pengecekan saldo mutasi bank ).
+   \-﻿ Bank Transfer: Pembayaran akan dilakukan oleh pembeli dengan cara transfer ke rekening bank yang terdaftar. Metode ini membutuhkan verifikasi manual ( pengecekan saldo mutasi bank ). Untuk menambahkan daftar Bank Transfer Anda bisa membuatnya [disini](https://onee.netlify.app/dashboard/rekening-bank).
 
    \-﻿ Cash / Lain - Lain: Pastikan Anda telah menerima pembayaran untuk pesanan ini.\
    Pesanan akan langsung dianggap lunas dan dapat di proses untuk pengiriman / pickup.
