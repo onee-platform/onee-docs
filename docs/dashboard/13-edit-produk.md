@@ -15,6 +15,6 @@ sidebar_label: 13. Semua Produk & Jasa - Edit Produk
 
    ![](/img/update-sekaligus.png)
 
-   *B﻿utton* Update Sekaligus ini berfungsi untuk mengupdate harga ataupun Status Aktif pada semua Variant secara bersamaan. 
+   T﻿ombol ini digunakan jika ada salah satu field yang ingin di update. Contoh ada perubahan harga pada produk dan ingin memberikan discount. Caranya:
 
-   C﻿ase: ada perubahan harga pada barang untuk semua variant, maka hanya perlu klik **Update Sekaligus**, lalu input harga baru, kemudian klik *button* **Terapkan Ke Semua Variasi.**
+   \- K﻿lik tombol Update Sekaligus, lalu masukan nilai perubahan harga dan harga discount, kemudian klik Terapkan ke Semua Variasi.
