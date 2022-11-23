@@ -4,7 +4,7 @@ sidebar_label: 13. Semua Produk & Jasa - Edit Produk
 ---
 1. M﻿enambahkan variant warna produk baju.
 
-   a﻿. Kolom Variasi Produk > Warna tersedia: Field Opsi / Pilihan, pilih warna yang ingin ditambahkan, kemudian **Simpan Perubahan**, agar bisa diatur stock. Jika warna belum tersedia pada opsi, Anda juga bisa menambahkannya terlebih dulu di menu ini ( LINK ).
+   a﻿. Kolom Variasi Produk > Warna tersedia: Field Opsi / Pilihan, pilih warna yang ingin ditambahkan, kemudian **Simpan Perubahan**, agar bisa diatur stock. Jika warna belum tersedia pada opsi, Anda juga bisa menambahkannya terlebih dahulu lihat disini [menambahkan variasi / variant produk](https://onee.netlify.app/dashboard/daftar-pilihan-opsi).
 
    ![](/img/13.-edit-produk.png)
 
