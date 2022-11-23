@@ -13,7 +13,7 @@ B﻿erikut panduan untuk membuat pesanan baru:
    ![](/img/15.-tombol-tambah-pesanan.png)
 2. Isi kolom Cabang\*, Tanggal Pesan\* & Berlaku Hingga.
 
-   *(**﻿) Kolom wajib diisi.
+   (*)Kolom wajib diisi.
 
    ![](/img/15.1-daftar-pesanan-isi-kolom-cabang-dan-tanggal.png)
 3. I﻿nformasi Pembeli
@@ -26,7 +26,7 @@ B﻿erikut panduan untuk membuat pesanan baru:
 
    K﻿etika data pelanggan sudah diisi, maka informasi pengiriman akan otomatis dimunculkan dan lanjutkan ke pengisian di Informasi Pengiriman. ( seperti gambar dibawah ). 
 
-   *(﻿**) Kolom wajib diisi.
+   (﻿*) Kolom wajib diisi.
 
    ![](/img/15.3-daftar-pesanan-isi-data-informasi-pembeli-dan-informasi-pengiriman.png)
 4. C﻿ari Produk / Variasi Produk.
@@ -44,3 +44,9 @@ B﻿erikut panduan untuk membuat pesanan baru:
    \- Tersedia 5 : menampilkan jumlah stock yang tersedia, karena pada produk tersebut telah di atur untuk menampilkan histori stock.
 
    \-﻿ Ready Stock: pada produk tersebut telah diatur untuk tidak menampilkan histori stock namun selalu tersedia untuk dijual.
+5. P﻿ilih Kurir Pengiriman.
+
+   ![](/img/15.6-daftar-pesanan-pilih-ekspedisi.png)
+
+   A﻿nda juga bisa menambahkan opsi kurir pengiriman [di sini](https://onee.netlify.app/dashboard/integrasi-kurir-pengiriman) .
+6. L﻿angkah terakhir, jika semua field sudah terisi selanjutnya klik **Buat Pesanan.** Pesanan masih dalam status **DRAFT.**

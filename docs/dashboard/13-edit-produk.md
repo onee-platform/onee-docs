@@ -4,7 +4,7 @@ sidebar_label: 13. Semua Produk & Jasa - Edit Produk
 ---
 1. M﻿enambahkan variant warna produk baju.
 
-   a﻿. Kolom Variasi Produk > Warna tersedia: Field Opsi / Pilihan, pilih warna yang ingin ditambahkan, kemudian **Simpan Perubahan**, agar bisa diatur stock. Jika warna belum tersedia pada opsi, Anda juga bisa menambahkannya terlebih dulu di menu ini ( LINK ).
+   a﻿. Kolom Variasi Produk > Warna tersedia: Field Opsi / Pilihan, pilih warna yang ingin ditambahkan, kemudian **Simpan Perubahan**, agar bisa diatur stock. Jika warna belum tersedia pada opsi, Anda juga bisa menambahkannya terlebih dahulu lihat disini [menambahkan variasi / variant produk](https://onee.netlify.app/dashboard/daftar-pilihan-opsi).
 
    ![](/img/13.-edit-produk.png)
 
@@ -15,6 +15,10 @@ sidebar_label: 13. Semua Produk & Jasa - Edit Produk
 
    ![](/img/update-sekaligus.png)
 
-   *B﻿utton* Update Sekaligus ini berfungsi untuk mengupdate harga ataupun Status Aktif pada semua Variant secara bersamaan. 
+   T﻿ombol ini digunakan jika ada salah satu field yang ingin di update ( tidak harus semua field ), contoh ada perubahan harga pada produk dan ingin memberikan discount, berikut caranya:
 
-   C﻿ase: ada perubahan harga pada barang untuk semua variant, maka hanya perlu klik **Update Sekaligus**, lalu input harga baru, kemudian klik *button* **Terapkan Ke Semua Variasi.**
+   \- K﻿lik tombol Update Sekaligus, lalu masukan nilai perubahan harga dan harga discount saja, kemudian klik Terapkan ke Semua Variasi > Simpan Perubahan.
+
+   ![](/img/13.-edit-produk-penggunaan-tombol-update-sekaligus.png)
+
+   K﻿etika telah di klik terapkan ke semua variasi, maka semua variasi untuk field harga dan harga discount telah terupdate dan untuk field - field lainnya akan tetap sama ( tidak berubah ).

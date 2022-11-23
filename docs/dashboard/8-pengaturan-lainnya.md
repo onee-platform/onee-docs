@@ -4,7 +4,21 @@ sidebar_label: 8. Pengaturan Lainnya
 ---
 1. ﻿Mengatur Pesanan. 
 
-   M﻿engatur pesanan sebelum memulai jualan. Atur semua field yang tersedia sesuai dengan SOP.
+   M﻿engatur pesanan sebelum memulai jualan. Atur semua field yang tersedia sesuai dengan SOP Anda.
+
+   a﻿. PPN (%)
+
+   b﻿. Max Item Quantity: Jumlah maksimal per jenis item yang dapat di beli ( dalam satu pesanan ). Isi dengan 0 untuk tidak membatasi jumlah maksimal per item.
+
+   c﻿. Total Item Cart: Maksimum total jumlah barang di keranjang. Isi dengan 0 untuk tidak membatasi total jumlah barang di keranjang.
+
+   d﻿. Checkout Timeout: Waktu (dalam menit) untuk penyelesaian pesanan pada halaman checkout, apabila pembeli tidak menyelesaikan checkout dalam waktu yang ditentukan, maka akan keluar dari halaman checkout.
+
+   e﻿. Online Checkout Auto Expire: Berapa lama waktu (dalam menit) sampai pesanan yang tidak dibayarkan akan otomatis menjadi kadarluasa dan stock akan dikembalikan ke inventori. 
+
+   (﻿ Case untuk yang pembayaran expired : Pelanggan melakukan pembayaran menggunakan Qris, dimana Qris memiliki waktu tersendiri dalam pembatalan pembayaran, maka sistem akan mengikuti waktu yang telah ditentukan oleh Qris ).
+
+   f﻿. Allow Self Pickup: opsi akan dimunculkan ketika Anda membuat [Pesanan Baru](https://onee.netlify.app/dashboard/daftar-pesanan-pesanan-baru)
 
 ![](/img/8.-pengaturan-lainnya-pesanan.png)
 
