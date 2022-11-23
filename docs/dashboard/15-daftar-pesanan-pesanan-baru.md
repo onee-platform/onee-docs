@@ -39,4 +39,8 @@ B﻿erikut panduan untuk membuat pesanan baru:
 
    ![](/img/15.5-daftar-pesanan-atur-qty-yg-ingin-dijual.png)
 
-   K﻿eterangan stok : - Tersedia 5 : menampilkan jumlah stok yang tersedia, karena pada produk tersebut telah di atur untuk menampilkan histori stok.
+   K﻿eterangan stok : 
+
+   \- Tersedia 5 : menampilkan jumlah stock yang tersedia, karena pada produk tersebut telah di atur untuk menampilkan histori stock.
+
+   \-﻿ Ready Stock: pada produk tersebut telah diatur untuk tidak menampilkan histori stock namun selalu tersedia untuk dijual.
