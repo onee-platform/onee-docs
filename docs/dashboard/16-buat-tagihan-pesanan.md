@@ -8,6 +8,9 @@ sidebar_label: 17. Membuat Tagihan Pesanan
 2. Tampilan detail pesanan > klik *button* Buat Tagihan.
 
    ![](/img/17.1-buat-tagihan-pesanan.png)
+3. M﻿enggunakan metode Bank Transfer.
+
+   ![](/img/17.2-buat-tagihan-metode-bank-transfer.png)
 
    ![](/img/17.2-buat-tagihan-tampilan-ketika-klik-buat-tagihan.png)
 
@@ -17,14 +20,6 @@ sidebar_label: 17. Membuat Tagihan Pesanan
 
    \-﻿ Cash / Lain - Lain: Pastikan Anda telah menerima pembayaran untuk pesanan ini.\
       Pesanan akan langsung dianggap lunas dan dapat di proses untuk pengiriman / pickup.
-3. K﻿onfirmasi Penerimaan.
-
-   L﻿akukan konfirmasi penerimaan, jika pembayaran tersebut menggunakan metode Bank Transfer.
-
-   ![](/img/16.-konfirmasi-penerimaan.png)
-
-   k﻿lik Button Konfirmasi Penerimaan, kemudian atur Tanggal Terima dan Konfirmasi jumlah pembayaran yang telah diterima atau bisa langsung klik button centang jika penerimaan yang di terima sesuai dengan tagihan. Lalu klik Konfirmasi Penerimaan, dan status pesanan berubah menjadi **PAID**.
-4. K﻿etika status pesanan sudah PAID, maka sudah bisa untuk disiapkan pesanan pelanggan, dan pesanan dengan status yang sudah PAID akan masuk ke tab Pesanan Baru untuk bisa di cetak label.
 
 N﻿OTES: 
 
