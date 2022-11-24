@@ -16,3 +16,5 @@ M﻿elakukan konfirmasi penerimaan metode Bank Transfer.
    A﻿nda bisa klik tanda centang ( kotak biru ) jika pelanggan membayar penuh sesuai dengan tagihan, kemudian klik konfirmasi penerimaan. 
 
    A﻿tau Anda bisa ketik manual pada field **Konfirmasi jumlah pembayaran yang telah diterima:** jika pelanggan hanya transfer pembayaran setengah / sebagai DP.
+
+   S﻿tatus pesanan akan berubah menjadi PAID jika pelanggan telah melakukan pembayaran sesuai tagihan.
