@@ -2,7 +2,9 @@
 title: 16. Mengatur Alokasi Barang / Stock untuk pesanan
 sidebar_label: 16. Mengatur Alokasi Barang / Stock untuk pesanan
 ---
-B﻿agaimana cara mengatur alokasi barang? Berikut langkahnya:
+S﻿ecara default barang yang memilik stock atau tersedia untuk dijual akan langsung otomatis teralokasi. 
+
+B﻿erikut langkah cara mengalokasikan barang / stock pesanan.
 
 J﻿ika barang / stock sudah tersedia ( siap dijual ) Anda harus inputnya terlebih dahulu di menu Inventori sebelum Anda melanjutkan untuk mengalokasikan barang pada pesanan.
 
@@ -16,7 +18,7 @@ K﻿emudian, klik pesanan tersebut untuk melihat detailnya.
 
 ![](/img/mengatur-alokasi-barang-atau-stock.png)
 
-P﻿erhatikan lambang di samping barang pesanan, terdapat lambang yang berwarna hijau yang menandakan barang sudah di alokasi karena stock sudah tersedia pada saat awal pembuatan pesanan. Dan lambang yang berwarna abu-abu, menandakan barang belum di alokasikan dan perlu di alokasikan untuk melanjutkan pesanan. 
+P﻿erhatikan lambang di samping barang pesanan, terdapat lambang yang berwarna hijau yang menandakan barang sudah teralokasi secara otomatis di awal pada saat pembuatan pesanan. Dan lambang yang berwarna abu-abu, menandakan barang belum di alokasikan dan perlu di alokasikan untuk melanjutkan pesanan.
 
 S﻿elanjutnya, klik *button* **Alokasi Barang Pesanan** jika dirasa jumlah pesanan sudah sesuai. 
 
