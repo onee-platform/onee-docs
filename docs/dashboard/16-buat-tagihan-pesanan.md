@@ -1,6 +1,6 @@
 ---
-title: 16. Buat Tagihan Pesanan
-sidebar_label: 16. Buat Tagihan Pesanan
+title: 17. Buat Tagihan Pesanan
+sidebar_label: 17. Buat Tagihan Pesanan
 ---
 1. M﻿embuat tagihan pada pesanan yang berstatus Draft.
 
