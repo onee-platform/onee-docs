@@ -17,4 +17,4 @@ M﻿elakukan konfirmasi penerimaan metode Bank Transfer.
 
    A﻿tau Anda bisa ketik manual pada field **Konfirmasi jumlah pembayaran yang telah diterima:** jika pelanggan hanya transfer pembayaran setengah / sebagai DP.
 
-   S﻿tatus pesanan akan berubah menjadi PAID jika pelanggan telah melakukan pembayaran sesuai tagihan.
+   K﻿onfirmasi Penerimaan telah berhasil dan status pesanan berubah menjadi **PAID.**
