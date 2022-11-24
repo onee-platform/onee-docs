@@ -27,3 +27,14 @@ sidebar_label: 16. Buat Tagihan Pesanan
 
    k﻿lik Button Konfirmasi Penerimaan, kemudian atur Tanggal Terima dan Konfirmasi jumlah pembayaran yang telah diterima atau bisa langsung klik button centang jika penerimaan yang di terima sesuai dengan tagihan. Lalu klik Konfirmasi Penerimaan, dan status pesanan berubah menjadi **PAID**.
 4. K﻿etika status pesanan sudah PAID, maka sudah bisa untuk disiapkan pesanan pelanggan, dan pesanan dengan status yang sudah PAID akan masuk ke tab Pesanan Baru untuk bisa di cetak label.
+
+
+
+N﻿OTES: 
+
+Status pembayaran dari pesanan ini:\
+**PENDING**: Pembayaran belum diterima.\
+**PARTIAL_PAID**: Pembayaran sudah diterima sebagian (DP / Menunggu sisa pembayaran).\
+**SETTLED**: Pembayaran untuk pesanan ini sudah diterima secara penuh.\
+**CANCELLED**: Pembayaran untuk pesanan ini dibatalkan.\
+**REFUNDED**: Pembayaran untuk pesanan ini dikembalikan sebagai saldo point.
