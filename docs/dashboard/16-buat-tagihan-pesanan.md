@@ -2,23 +2,23 @@
 title: 17. Membuat Tagihan Pesanan
 sidebar_label: 17. Membuat Tagihan Pesanan
 ---
-1. D
+1. P﻿ada menu Pesanan > Daftar Pesanan > Tab Semua Pesanan > klik pesanan yang ingin dibuat tagihan.
 
    ![](/img/17.-status-pesanan-draft.png)
-2. P﻿ilih metode pembayaran.
+2. Tampilan detail pesanan > klik *button* Buat Tagihan.
 
-   ![](/img/16.-tampilan-ketika-klik-buat-tagihan.png)
+   ![](/img/17.1-buat-tagihan-pesanan.png)
 
-   \-﻿ Pembayaran Online: pembayaran akan dilakukan dengan menggunakan third party *midtrans,* untuk pilihan pembayarannya bisa di settings pada backend *midtrans.*
+   ![](/img/17.2-buat-tagihan-tampilan-ketika-klik-buat-tagihan.png)
 
-   \-﻿ Bank Transfer: Pembayaran akan dilakukan oleh pembeli dengan cara transfer ke rekening bank yang terdaftar. Metode ini membutuhkan verifikasi manual ( pengecekan saldo mutasi bank ). Untuk menambahkan daftar Bank Transfer Anda bisa membuatnya [disini](https://onee.netlify.app/dashboard/rekening-bank).
+   \-﻿ Pembayaran Online: jika menggunakan metode pembayaran online Anda hanya perlu menunggu status pembayaran terupdate otomatis. Dan sudah bisa langsung disiapkan pesanan tanpa harus konfirmasi penerimaan.
+
+   \-﻿ Bank Transfer: Pembayaran akan dilakukan oleh pembeli dengan cara transfer ke rekening bank yang terdaftar. Metode ini membutuhkan verifikasi manual ( pengecekan saldo mutasi bank ), dan perlu melakukan konfirmasi penerimaan agar status pembayaran menjadi **PAID**. Anda juga bisa menambahkan daftar Bank Transfer [disini](https://onee.netlify.app/dashboard/rekening-bank).
 
    \-﻿ Cash / Lain - Lain: Pastikan Anda telah menerima pembayaran untuk pesanan ini.\
-   Pesanan akan langsung dianggap lunas dan dapat di proses untuk pengiriman / pickup.
+      Pesanan akan langsung dianggap lunas dan dapat di proses untuk pengiriman / pickup.
 
-   K﻿etika sudah ditentukan metode pembayaran, maka status pesanan berubah menjadi **UNPAID.**
-
-   ![](/img/16.-pesanan-unpaid.png)
+      K﻿etika sudah ditentukan metode pembayaran, maka status pesanan berubah menjadi ***UNPAID**.*
 3. K﻿onfirmasi Penerimaan.
 
    L﻿akukan konfirmasi penerimaan, jika pembayaran tersebut menggunakan metode Bank Transfer.
