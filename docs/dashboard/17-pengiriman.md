@@ -17,5 +17,7 @@ Melakukan request pengiriman secara berbarengan atau sekaligus.
 3. K﻿emudian klik Tandai Selesai, jika pesanan sudah di pickup kurir / telah diambil sendiri oleh pelanggan.
 
    ![](/img/17.-pengiriman-tandai-selesai.png)
+4. J﻿ika pengiriman telah di Tandai Selesai, pesanan akan berpindah ke tab Selesai, dan status pesanan menjadi **SHIPPED**.
+5.
 
 N﻿ote: *Button* siap diambil ini berlaku juga untuk pelanggan yang ingin mengambil barang pesanannya sendiri ( *self pickup* ).
