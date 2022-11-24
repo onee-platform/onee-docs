@@ -1,6 +1,6 @@
 ---
-title: 18. Marketing - Buat Promo Baru
-sidebar_label: 18. Marketing - Buat Promo Baru
+title: 20. Marketing - Buat Promo Baru
+sidebar_label: 20. Marketing - Buat Promo Baru
 ---
 B﻿erikut langkah dan penjelasan untuk membuat promo.
 
