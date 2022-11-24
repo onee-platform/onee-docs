@@ -1,6 +1,6 @@
 ---
-title: 17. Pengiriman
-sidebar_label: 17. Pengiriman
+title: 18. Pengiriman
+sidebar_label: 18. Pengiriman
 ---
 Melakukan request pengiriman secara berbarengan atau sekaligus. 
 
