@@ -10,9 +10,9 @@ B﻿arulah Anda masuk kedalam menu Pesanan > Daftar Pesanan > Tab Semua Pesanan.
 
 ![](/img/mengatur-alokasi-barang-atau-stock-tab-semua-pesanan.png)
 
-D﻿i tab semua pesanan terdapat pesanan yang A﻿nda buat, dengan status pesanan Draft dan status alokasi "*WAIT*". Status alokasi *wait* ini dikarenakan adanya pesanan yang barang / stocknya belum tersedia.
+D﻿i tab semua pesanan terdapat pesanan yang telah A﻿nda buat, dengan status pesanan Draft dan status alokasi "*WAIT*". Status alokasi *wait* ini dikarenakan adanya pesanan yang barang / stocknya belum tersedia.
 
-K﻿emudian, klik pesanan tersebut untuk melihat detailnya. 
+K﻿emudian, klik pesanan tersebut untuk melihat detailnya.
 
 ![](/img/mengatur-alokasi-barang-atau-stock.png)
 
