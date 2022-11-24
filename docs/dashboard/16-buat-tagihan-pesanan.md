@@ -11,7 +11,7 @@ sidebar_label: 17. Membuat Tagihan Pesanan
 
    ![](/img/17.2-buat-tagihan-tampilan-ketika-klik-buat-tagihan.png)
 
-   \-﻿ Pembayaran Online: jika menggunakan metode pembayaran online Anda hanya perlu menunggu status pembayaran terupdate otomatis. Dan sudah bisa langsung disiapkan pesanan tanpa harus konfirmasi penerimaan.
+   \-﻿ Pembayaran Online: Pilih metode pembayaran yang digunakan pelanggan dan menunggu status pembayaran Paid.
 
    \-﻿ Bank Transfer: Pembayaran akan dilakukan oleh pembeli dengan cara transfer ke rekening bank yang terdaftar. Metode ini membutuhkan verifikasi manual ( pengecekan saldo mutasi bank ), dan perlu melakukan konfirmasi penerimaan agar status pembayaran menjadi **PAID**. Anda juga bisa menambahkan daftar Bank Transfer [disini](https://onee.netlify.app/dashboard/rekening-bank).
 
