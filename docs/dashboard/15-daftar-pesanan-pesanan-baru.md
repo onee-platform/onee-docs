@@ -6,7 +6,7 @@ D﻿engan menggunakan ONEE.ID ini Anda bisa membuat pesanan baru dengan mudah da
 
 O﻿NEE.ID juga dapat mengetahui pesanan yang telah dibayarkan atau belum dibayar oleh pelanggan Anda. 
 
-B﻿erikut panduan untuk membuat pesanan baru: 
+B﻿erikut panduan untuk membuat pesanan baru:
 
 1. K﻿lik tombol **Pesanan+** pada Tab Pesanan Baru.
 
@@ -24,7 +24,7 @@ B﻿erikut panduan untuk membuat pesanan baru:
 
    P﻿ilih pelanggan, jika Anda sudah memiliki data pelanggan, dan pilih Non Pelanggan jika Anda belum memiliki data pelanggan atau buat pelanggan baru. Berikut contoh memilih Non Pelanggan.
 
-   K﻿etika data pelanggan sudah diisi, maka informasi pengiriman akan otomatis dimunculkan dan lanjutkan ke pengisian di Informasi Pengiriman. ( seperti gambar dibawah ). 
+   K﻿etika data pelanggan sudah diisi, maka informasi pengiriman akan otomatis dimunculkan dan lanjutkan ke pengisian di Informasi Pengiriman jika pelanggan ingin dikirim menggunakan kurir atau pilih Diambil Sendiri jika pelanggan ingin *self pickup.*
 
    (﻿*) Kolom wajib diisi.
 
