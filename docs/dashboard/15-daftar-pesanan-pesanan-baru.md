@@ -1,6 +1,6 @@
 ---
-title: 15. Daftar Pesanan - Pesanan Baru
-sidebar_label: 15. Daftar Pesanan - Pesanan Baru
+title: 15. Membuat Pesanan Baru
+sidebar_label: 15. Membuat Pesanan Baru
 ---
 D﻿engan menggunakan ONEE.ID ini Anda bisa membuat pesanan baru dengan mudah dan cepat.
 
