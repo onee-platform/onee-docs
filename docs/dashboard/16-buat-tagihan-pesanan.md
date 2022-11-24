@@ -2,9 +2,9 @@
 title: 17. Membuat Tagihan Pesanan
 sidebar_label: 17. Membuat Tagihan Pesanan
 ---
-1. M﻿embuat tagihan pada pesanan yang berstatus Draft.
+1. M﻿embuat tagihan pada pesanan yang berstatus Draft dan Pending.
 
-   ![](/img/16.-buat-tagihan-pesanan.png)
+   ![](/img/17.-status-pesanan-draft.png)
 2. P﻿ilih metode pembayaran.
 
    ![](/img/16.-tampilan-ketika-klik-buat-tagihan.png)
@@ -27,8 +27,6 @@ sidebar_label: 17. Membuat Tagihan Pesanan
 
    k﻿lik Button Konfirmasi Penerimaan, kemudian atur Tanggal Terima dan Konfirmasi jumlah pembayaran yang telah diterima atau bisa langsung klik button centang jika penerimaan yang di terima sesuai dengan tagihan. Lalu klik Konfirmasi Penerimaan, dan status pesanan berubah menjadi **PAID**.
 4. K﻿etika status pesanan sudah PAID, maka sudah bisa untuk disiapkan pesanan pelanggan, dan pesanan dengan status yang sudah PAID akan masuk ke tab Pesanan Baru untuk bisa di cetak label.
-
-
 
 N﻿OTES: 
 
