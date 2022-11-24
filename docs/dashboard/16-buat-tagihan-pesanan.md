@@ -17,8 +17,6 @@ sidebar_label: 17. Membuat Tagihan Pesanan
 
    \-﻿ Cash / Lain - Lain: Pastikan Anda telah menerima pembayaran untuk pesanan ini.\
       Pesanan akan langsung dianggap lunas dan dapat di proses untuk pengiriman / pickup.
-
-      K﻿etika sudah ditentukan metode pembayaran, maka status pesanan berubah menjadi ***UNPAID**.*
 3. K﻿onfirmasi Penerimaan.
 
    L﻿akukan konfirmasi penerimaan, jika pembayaran tersebut menggunakan metode Bank Transfer.
