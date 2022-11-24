@@ -2,7 +2,7 @@
 title: 17. Membuat Tagihan Pesanan
 sidebar_label: 17. Membuat Tagihan Pesanan
 ---
-1. M﻿embuat tagihan pada pesanan yang berstatus Draft dan Pending.
+1. D
 
    ![](/img/17.-status-pesanan-draft.png)
 2. P﻿ilih metode pembayaran.
