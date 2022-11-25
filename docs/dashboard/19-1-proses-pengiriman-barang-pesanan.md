@@ -16,7 +16,7 @@ sidebar_label: 19.1 Proses Pengiriman Barang Pesanan
    ![](/img/19.-konfirmasi-pengambilan-barang-kirim-notifikasi.png)
 3. Jika sudah maka status pesanan akan berpindah ke *Pengiriman / Siap Diambil. A*nda juga bisa memfilter metode pengiriman, untuk melihat jumlah masing - masing pengiriman.
 
-   ![](/img/19.-status-persiapan-pesanan.png)
+   ![](/img/19.1-pengiriman-tandai-selesai-sekaligus.png)
 
    \-﻿ pada status ini Anda bisa klik Tandai Selesai jika pesanan sudah diambil oleh kurir ataupun pelanggan. Anda juga bisa melakukan ini secara bersamaan / sekaligus ( seperti gambar diatas ).
-4. P﻿esanan akan berpindah ke tab Selesai.
+4. P﻿esanan telah selesai dikerjakan, dan akan berpindah ke tab Selesai.
