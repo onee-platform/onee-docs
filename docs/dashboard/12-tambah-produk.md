@@ -37,6 +37,6 @@ sidebar_label: 12. Tambah Produk
 
    ![](/img/12.1-tambah-produk-variasi-produk..png)
 
-   Anda juga dapat menambahkan Variasi dan Variant produk baru langsung dari menu Tambah Produk ini.
+   Anda juga dapat menambahkan Variasi dan Variant produk baru langsung dari menu Tambah Produk ini dengan klik *button* tambah (+) disamping setiap variasi / variant.
 
    ![](/img/12.-tambah-produk-tambah-variasi-atau-variant-baru.png)
