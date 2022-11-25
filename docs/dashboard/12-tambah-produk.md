@@ -12,7 +12,7 @@ sidebar_label: 12. Tambah Produk
 
    d. K﻿ondisi: Opsi / Pilihan ( New / Used ).
 
-   e. N﻿o Urut Produk: *Number Field.*
+   e. N﻿o Urut Produk: Hanya bisa diisi dengan angka tidak bisa di ketik huruf.
 
    f. P﻿roduk Aktif / Ditampilkan: Flag Aktif - Non-Aktif.
 
