@@ -8,4 +8,6 @@ P﻿ada saat Anda klik buat tagihan, lalu pilih metode pembayaran yang digunakan
 
 ![](/img/18.-tampilan-ketika-klik-button-batalkan-tagihan.png)
 
-P﻿ilih / ketik alasan seperti gambar di atas kemudian klik batalkan tagihan.
+\- P﻿ilih / ketik alasan seperti gambar di atas kemudian klik batalkan tagihan.
+
+\-
