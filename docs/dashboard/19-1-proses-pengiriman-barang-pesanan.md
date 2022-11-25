@@ -2,11 +2,15 @@
 title: 19.1 Proses Pengiriman Barang Pesanan
 sidebar_label: 19.1 Proses Pengiriman Barang Pesanan
 ---
+1. Pesanan sudah bisa untuk di request pickup dengan cara sekaligus ataupun secara satu persatu. ( gambar dibawah adalah contoh request pickup secara sekaligus ).
+
+   ![](/img/19.1-request-pickup-sekaligus.png)
 
 
-1. P﻿esanan yang telah lunas akan masuk ke dalam tab pengiriman untuk dipersiapkan barang pesanan dan status persiapannya masih *Dalam Proses*. pesanan baru
 
-   ![](/img/19.-proses-barang-pesanan.png)
+
+
+
 2. J﻿ika semua pesanan sudah disiapkan, Anda bisa centang semua pesanan yang sudah siap kemudian klik *button* Siap Diambil > klik Kirim Notifikasi ( untuk memberikan notifikasi kepada kurir pengiriman / kepada pelanggan yang mengambil pesanan sendiri / self pickup ). 
 
    ![](/img/19.-konfirmasi-pengambilan-barang-kirim-notifikasi.png)
