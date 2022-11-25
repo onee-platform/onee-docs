@@ -2,7 +2,7 @@
 title: 9. Integrasi - Aplikasi
 sidebar_label: 9. Integrasi - Aplikasi
 ---
-K﻿ami menyediakan aplikasi Midtrans sebagai solusi payment gateway Anda. Jika ingin menggunakannya maka bisa langsung menghubungkannya dengan cara sebagai berikut: 
+Anda menyediakan aplikasi Midtrans sebagai solusi payment gateway Anda. Jika ingin menggunakannya maka bisa langsung menghubungkannya dengan cara sebagai berikut: 
 
 1. L﻿ogin Midtrans.
 
