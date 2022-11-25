@@ -10,4 +10,4 @@ Mempersiapkan Barang Pesanan yang telah lunas.
 2. Atau A﻿nda juga bisa melakukan cetak label pengiriman secara berbarengan / sekaligus. 
 
    ![](/img/19.-cetak-resi-sekaligus.png)
-3. S﻿elanjutnya setelah Anda sudah selesai packing pesanan pelanggan, Anda bisa melakukan klik Siap Diambil.
+3. S﻿etelah Anda mencetak resi pengiriman, maka secara otomatis pesanan akan berpindah ke tab Pengiriman.
