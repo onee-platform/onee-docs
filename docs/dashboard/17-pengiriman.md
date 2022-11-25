@@ -1,6 +1,6 @@
 ---
-title: 19. Pengiriman
-sidebar_label: 19. Pengiriman
+title: 19. Mempersiapkan Barang Pesanan ( LUNAS )
+sidebar_label: 19. Mempersiapkan Barang Pesanan ( LUNAS )
 ---
 Melakukan request pengiriman secara berbarengan atau sekaligus. 
 
