@@ -2,22 +2,14 @@
 title: 19. Mempersiapkan Barang Pesanan ( LUNAS )
 sidebar_label: 19. Mempersiapkan Barang Pesanan ( LUNAS )
 ---
-Melakukan request pengiriman secara berbarengan atau sekaligus. 
+Mempersiapkan Barang Pesanan yang telah lunas dan telah selesai dipacking.
 
-1. R﻿equest pengiriman sekaligus bisa dilakukan jika pesanan sudah siap untuk diambil atau dikirim dan pesanan sudah dengan status *PAID* dan alokasi *YES*
+1. P﻿esanan yang telah lunas akan masuk kedalam tab pengiriman untuk dipersiapkan barang pesanan.
 
-   L﻿akukan dengan cara sebagai berikut:
+   ![](/img/19.-proses-barang-pesanan.png)
 
-   \- P﻿ilih dan centang box pada pesanan yang sudah siap untuk diambil > klik *button* Siap Diambil > klik Kirim Notifikasi. 
+   J﻿ika semua pesanan sudah disiapkan, Anda bisa centang semua pesanan yang sudah siap kemudian klik *button* Siap Diambil. 
 
-   ![](/img/17.-pengiriman.png)
-2. K﻿etika sudah request pengiriman (siap diambil), maka pesanan akan berpindah status menjadi Pengiriman / Siap Diambil.
+   ![](/img/19.-konfirmasi-pengambilan-barang-kirim-notifikasi.png)
 
-   ![](/img/17.-pengiriman-status-persiapan-pesanan.png)
-3. K﻿emudian klik Tandai Selesai, jika pesanan sudah di pickup kurir / telah diambil sendiri oleh pelanggan.
-
-   ![](/img/17.-pengiriman-tandai-selesai.png)
-4. J﻿ika pengiriman telah di Tandai Selesai, pesanan akan berpindah ke tab Selesai, dan status pesanan menjadi **SHIPPED**.
-5.
-
-N﻿ote: *Button* siap diambil ini berlaku juga untuk pelanggan yang ingin mengambil barang pesanannya sendiri ( *self pickup* ).
+   *B﻿utton* siap diambil ini akan memberikan notifikasi kepada kurir pengiriman ataupun kepada pelanggan yang mengambil pesanan sendiri ( self pickup ).
