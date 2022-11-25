@@ -4,7 +4,7 @@ sidebar_label: 12. Tambah Produk
 ---
 1. Menambahkan Produk Baju ( Fashion ).
 
-   a. N﻿ama Produk: diisi dengan penamaan baju, contoh: Bella - Top ( *Text field, Mandatory* ).
+   a. N﻿ama Produk: diisi dengan penamaan baju, contoh: Bella - Top ( field wajib diisi ).
 
    b. D﻿eskripsi: Masukan deskripsi atau informasi produk, seperti contoh: Fabric Material, sizechart, dll. 
 
