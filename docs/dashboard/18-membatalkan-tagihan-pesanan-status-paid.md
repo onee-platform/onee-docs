@@ -1,5 +1,5 @@
 ---
-title: 18. Membatalkan Tagihan Pesanan ( Status PAID )
-sidebar_label: 18. Membatalkan Tagihan Pesanan ( Status PAID )
+title: 18. Membatalkan Tagihan Pesanan
+sidebar_label: 18. Membatalkan Tagihan Pesanan
 ---
-t﻿es
+B﻿erikut adalah cara membatalkan tagihan yang telah dibuat.
