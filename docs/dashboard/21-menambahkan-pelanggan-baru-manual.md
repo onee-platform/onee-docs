@@ -18,7 +18,7 @@ Cara menambahkan pelanggan baru secara manual:
 
    \-﻿ Sosial Media: isi dengan nama - nama sosial media Anda ( optional ).
 
-   \-﻿ Informasi pelanggan lainnya: diisi jika ada notes internal Anda.
+   \-﻿ Informasi pelanggan lainnya: diisi jika ada notes internal Anda. ( optional )
 
-   \-﻿ Pilih status untuk diaktifkan atau tidak.
+   \-﻿ Status : Active, In-Active dan Restricted.
 2.
