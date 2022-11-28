@@ -14,10 +14,11 @@ Cara menambahkan pelanggan baru secara manual:
 
    \-﻿ No Handphone: Input no handphone Anda yang aktif 
 
-   \-﻿ Kata Sandi: berikan kata sandi untuk Anda login kewebsite atau kata sandi akan otomatis dibuat bila field ini dikosongkan.
+   \-﻿ Kata Sandi: berikan kata sandi untuk login ke website Anda atau kata sandi akan otomatis dibuat bila field ini dikosongkan.
 
    \-﻿ Sosial Media: isi dengan nama - nama sosial media Anda ( optional ).
 
    \-﻿ Informasi pelanggan lainnya: diisi jika ada notes internal Anda.
 
    \-﻿ Pilih status untuk diaktifkan atau tidak.
+2.
