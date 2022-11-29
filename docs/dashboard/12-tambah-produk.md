@@ -31,7 +31,7 @@ sidebar_label: 12. Tambah Produk
 
    c﻿. Estimasi Waktu untuk metode pickup ( menit ): Field ini hanya bisa diisi dengan angka tidak bisa diisi dengan huruf. Berapa menitkah waktu yang disiapkan untuk packing hingga siap untuk di pickup. 
 
-   N﻿OTE: pada informasi di bagian pickup & pengiriman produk ini, untuk menentukan volume pada paket yang ingin dikirim. Volume inilah yang akan menentukan harga pengiriman pada ekspedisi tsb. Misal untuk barang / paket yang besar tetapi ringan itu akan tetap dihitung volumenya.
+   N﻿OTE: pada informasi di bagian pickup & pengiriman produk ini, untuk menentukan volume pada paket yang ingin dikirim. Volume inilah yang akan menentukan harga pengiriman pada ekspedisi tsb. Misal untuk barang / paket yang besar tetapi ringan itu akan tetap dihitung volumenya. ( diukur dalam bentuk paket atau setelah packing selesai ).
 
    ![](/img/12.-section-pickup-pengiriman-barang.png)
 3. S﻿tock Produk: Dicentang jika history stock produk ingin disimpan.
