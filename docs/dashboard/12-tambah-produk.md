@@ -33,7 +33,7 @@ sidebar_label: 12. Tambah Produk
 
    N﻿OTE: pada informasi di bagian pickup & pengiriman produk ini, untuk menentukan volume pada paket yang ingin dikirim. Volume inilah yang akan menentukan harga pengiriman pada ekspedisi tsb. Misal untuk barang / paket yang besar tetapi ringan itu akan tetap dihitung volumenya.
 
-
+   ![](/img/12.-section-pickup-pengiriman-barang.png)
 3. S﻿tock Produk: Dicentang jika history stock produk ingin disimpan.
 
    ![](/img/12.-tambah-produk-jenis-produk-fashion.png)
