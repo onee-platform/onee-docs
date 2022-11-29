@@ -1,6 +1,6 @@
 ---
-title: 22. Penjelasan Attribute Kategori
-sidebar_label: 22. Penjelasan Attribute Kategori
+title: 5.1. Penjelasan Attribute Kategori
+sidebar_label: 5.1. Penjelasan Attribute Kategori
 ---
 (Opsional) Anda dapat menggunakan kategori tanpa memiliki spesifikasi kategori.\
 \
