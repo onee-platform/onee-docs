@@ -19,6 +19,10 @@ sidebar_label: 12. Tambah Produk
    L﻿ive Shopping Product: Flag Aktif - Non-Aktif. Diaktifkan jika produk tersebut ingin di munculkan dalam Live Shopping.
 
    g﻿. Gambar / Media: Klik untuk upload gambar.
+
+   h﻿. Harga: Masukan harga produk, harga diskon, dan HPP.
+
+   ![](/img/12.-tambah-produk-baru.png)
 2. P﻿ickup & Pengiriman Produk. ( Informasi ini berlaku untuk keterangan dan perhitungan di ekspedisi ). 
 
    a﻿. Berat: Field ini hanya bisa diisi dengan angka tidak bisa diisi dengan huruf. ( yang dimaksud berat disini yaitu berat paketnya ). 
