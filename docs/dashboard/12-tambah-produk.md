@@ -60,3 +60,4 @@ sidebar_label: 12. Tambah Produk
    I﻿nformasi ini hanya untuk catatan internal dan hanya dapat dilihat oleh Anda.
 
    ![](/img/12.-section-informasi-produk-lainnya.png)
+7. S﻿impan Produk.
