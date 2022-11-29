@@ -42,3 +42,14 @@ sidebar_label: 12. Tambah Produk
    c﻿ontoh : Nama Baju Bella, tersedia 2 ukuran dan 4 warna ( *lihat gambar dibawah* ).
 
    ![](/img/12.-variasi-produk.png)
+
+   S﻿elanjutnya isi Harga, Stock, dan tentukan SKU. SKU ini akan otomatis dibuat jika kosong.
+
+   ![](/img/12.-section-pengisian-harga-dan-stock-pada-variasi-produk.png)
+
+   A﻿nda juga bisa mengisi harga dan stok secara bersamaan jika produk tersebut mempunya nilai yang sama. Klik *button* **Apply All** untuk menampilkan nilainya.
+5. I﻿nformasi Produk Lainnya
+
+   I﻿nformasi ini hanya untuk catatan internal dan hanya dapat dilihat oleh Anda.
+
+   ![](/img/12.-section-informasi-produk-lainnya.png)
