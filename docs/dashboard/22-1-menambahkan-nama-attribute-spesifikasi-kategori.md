@@ -2,7 +2,7 @@
 title: 5.2. Menambahkan Attribute / Spesifikasi Kategori
 sidebar_label: 5.2. Menambahkan Attribute / Spesifikasi Kategori
 ---
-Kategori bernama Tops dimana seluruh produk pada kategori ini memiliki spesifikasi sebagai berikut: 
+Kategori bernama *Tops* dimana seluruh produk pada kategori ini memiliki spesifikasi sebagai berikut: 
 
 * L﻿ebar Dada
 * L﻿ebar Pinggang
