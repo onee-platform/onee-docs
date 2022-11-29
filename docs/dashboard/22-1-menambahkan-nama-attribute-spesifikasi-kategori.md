@@ -28,6 +28,6 @@ B﻿erikut cara menambahkan attribute pada kategori *Tops.*
    \-﻿ Nilai Default: nilai default untuk attribute ini, yang otomatis diberikan ketika produk dikategori ini dibuat (jika kosong).*nilai default,* maka produk yang menggunakan kategori attribute ini sudah langsung muncul nilainya tanpa harus diketik lagi.
 
    \-﻿ Submit. 
-2. S﻿etelah di submit maka semua produk yang memilih kategori *tops* ini akan memiliki nama attribute / nama spesifikasi yang telah Anda buat ( seperti gambar dibawah ). n
+2. S﻿etelah di submit maka semua produk yang memilih kategori *tops* ini akan memiliki nama attribute / nama spesifikasi yang telah Anda buat ( seperti gambar dibawah ).
 
    ![](/img/5.2.1-tampilan-ketika-attribute-telah-dibuat-menu-produk-.png)
