@@ -48,8 +48,10 @@ sidebar_label: 12. Tambah Produk
    ![](/img/12.-section-pengisian-harga-dan-stock-pada-variasi-produk.png)
 
    A﻿nda juga bisa mengisi harga dan stok secara bersamaan jika produk tersebut mempunya nilai yang sama. Klik *button* **Apply All** untuk menampilkan nilainya.
-5. I﻿nformasi Produk Lainnya
+5. A﻿ttribute Produk ini. 
 
-   I﻿nformasi ini hanya untuk catatan internal dan hanya dapat dilihat oleh Anda.
+   I﻿nput info dari attribute produk yang telah Anda buat ( seperti contoh gambar di bawah ini ).
 
-   ![](/img/12.-section-informasi-produk-lainnya.png)
+   ![](/img/12.-section-input-attribute-produk-kategori-top-.png)
+
+   A﻿nda juga dapat menambahkan attribut baru hanya untuk produk ini, dengan cara klik button **Tambah Attribut**.
