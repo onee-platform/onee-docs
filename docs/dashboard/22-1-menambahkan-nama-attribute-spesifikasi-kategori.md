@@ -1,6 +1,6 @@
 ---
-title: 22.1 Menambahkan Attribute / Spesifikasi Kategori
-sidebar_label: 22.1 Menambahkan Attribute / Spesifikasi Kategori
+title: 5.2. Menambahkan Attribute / Spesifikasi Kategori
+sidebar_label: 5.2. Menambahkan Attribute / Spesifikasi Kategori
 ---
 Kategori bernama Tops dimana seluruh produk pada kategori ini memiliki spesifikasi sebagai berikut: 
 
