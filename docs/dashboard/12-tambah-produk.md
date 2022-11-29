@@ -55,3 +55,8 @@ sidebar_label: 12. Tambah Produk
    ![](/img/12.-section-input-attribute-produk-kategori-top-.png)
 
    A﻿nda juga dapat menambahkan attribut baru hanya untuk produk ini, dengan cara klik button **Tambah Attribut**.
+6. I﻿nformasi Produk Lainnya.
+
+   I﻿nformasi ini hanya untuk catatan internal dan hanya dapat dilihat oleh Anda.
+
+   ![](/img/12.-section-informasi-produk-lainnya.png)
