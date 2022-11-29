@@ -19,7 +19,7 @@ B﻿erikut cara menambahkan attribute pada kategori *Tops.*
 
    \-﻿ Status Aktif: apabila status attribute kategori ini di non-aktifkan, maka seluruh attribute kategori ini tidak akan ditampilkan.
 
-   \-﻿ Nilai Attribute perlu diisi: -
+   \-﻿ Nilai Attribute perlu diisi: apabila status nilai attribute ini di aktifkan (yes), maka *nilai default* atau *opsi default* harus diisi / tidak boleh kosong.
 
    \-﻿ Terdapat 2 pilihan yang dapat digunakan pada attribute yang akan dibuat:\
    **TEXT**: Nilai dari attribute akan dimasukan sebagai text ( bisa diketik secara bebas ).\
