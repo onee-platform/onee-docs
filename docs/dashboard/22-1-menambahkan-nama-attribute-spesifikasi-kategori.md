@@ -29,3 +29,5 @@ B﻿erikut cara menambahkan attribute pada kategori *Tops.*
 
    \-﻿ Submit. 
 2. S﻿etelah di submit maka semua produk yang memilih kategori *tops* ini akan memiliki nama attribute / nama spesifikasi yang telah Anda buat ( seperti gambar dibawah ).
+
+   ![](/img/5.2-tampilan-ketika-attribute-telah-dibuat-menu-produk-.png)
