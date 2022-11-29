@@ -1,6 +1,6 @@
 ---
-title: 22. Menambahkan Attribute / Spesifikasi Kategori
-sidebar_label: 22. Menambahkan Attribute / Spesifikasi Kategori
+title: 22. Penjelasan Attribute Kategori
+sidebar_label: 22. Penjelasan Attribute Kategori
 ---
 (Opsional) Anda dapat menggunakan kategori tanpa memiliki spesifikasi kategori.\
 \
@@ -8,10 +8,10 @@ sidebar_label: 22. Menambahkan Attribute / Spesifikasi Kategori
 \
 Apabila Kita membuat produk dalam kategori ini, secara akan otomatis produk tersebut juga akan memiliki seluruh attribute dari kategori ini.
 
-B﻿erikut penjelasan mengenai attribute / spesifikasi kategori. 
+B﻿erikut contoh pengisian attribute kategori:
 
 ![](/img/22.-penjelasan-attribute.png)
 
-\-﻿ Kotak biru: nama attribute / nama spesifikasi yang di tambahkan di menu kategori produk | edit produk.
+\-﻿ Kotak biru: nama attribute / nama spesifikasi yang di tambahkan di menu kategori produk | edit kategori.
 
-\-﻿ Kotak merah: isi dari kotak biru yang harus diisi di menu Semua Produk & Jasa.
+\-﻿ Kotak merah: Anda harus mengisinya di menu Semua Produk & Jasa | edit produk.
