@@ -10,7 +10,7 @@ Apabila Kita membuat produk dalam kategori ini, secara akan otomatis produk ters
 
 B﻿erikut contoh pengisian attribute kategori:
 
-![](/img/22.-penjelasan-attribute.png)
+![](/img/5.1.-penjelasan-attribute.png)
 
 \-﻿ Kotak biru: nama attribute / nama spesifikasi yang di tambahkan di menu kategori produk | edit kategori.
 

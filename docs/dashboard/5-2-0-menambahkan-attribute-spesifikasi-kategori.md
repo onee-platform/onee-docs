@@ -13,7 +13,7 @@ B﻿erikut cara menambahkan attribute pada kategori *Tops.*
 
 1. B﻿uka menu Kategori Produk| edit kategori *Tops* | buka tab Spesifikasi Kategori | klik *button* Tambah.
 
-   ![](/img/22.1-tambah-attribute-top.png)
+   ![](/img/5.2.-tambah-attribute-top.png)
 
    \-﻿ Nama Attribute / Nama Spesifikasi : Lebar Dada / Lebar Pinggang / Panjang Lengan / Lain - Lain.
 
