@@ -24,4 +24,6 @@ B﻿erikut cara menambahkan daftar pengguna baru untuk di cabang kedua.
 
    ![](/img/25.-tampilan-ketika-klik-terima-undangan-di-email.png)
 
-   S﻿etelah Anda terima undangan, maka akan ngelink ke tampilan dashboard login, untuk Anda masuk kedalam dashboard, dengan login menggunakan email dan password yang sudah Anda daftar sebelumnya, atau register baru dengan cara klik Daftar Baru.
+   S﻿etelah Anda terima undangan, maka tampilan akan ngelink ke dashboard login.
+
+   Jika Anda belum mempunyai akun untuk login, maka Anda bisa buat terlebih dahulu dengan cara klik Daftar Baru.
