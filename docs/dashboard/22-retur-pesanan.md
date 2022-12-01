@@ -13,16 +13,19 @@ sidebar_label: 22. Retur Pesanan
 3. T﻿ampilan ketika klik button Submit.
 
    ![](/img/22.-retur-pesanan-tampilan-ketika-klik-submit-.png)
-4. Tampilan ketika klik Setuju Pengembalian ( *Waiting_Item_Return* )
+4. *Action* ketika klik Setuju Pengembalian ( *Waiting_Item_Return* )
 
    ![](/img/22.-retur-pesanan-button-setuju-pengembalian-.png)
 
    J﻿ika Anda sudah menyetujui pengembalian barang, maka klik *button* Setuju Pengembalian, kemudian action yang akan ditampilkan adalah seperti gambar diatas. 
 
-   \-﻿ Pilih / klik *button* Item Retur Diterima: Anda bisa klik *button* ini jika barang yang diretur sudah Anda terima dari pelanggan. 
+   \-﻿ Pilih / klik *button* Item Retur Diterima: Anda bisa klik *button* ini jika barang yang diretur sudah Anda terima dari pelanggan. ( *Item_Received* )
 
    \-﻿ Ubah Jadi Draf: Anda bisa klik *button* ini jika ada perubahan. 
 
    \-﻿ Kirim ke whatsapp: mengirim ke whatsapp pelanggan mengenai retur pesanannya.
 
    \-﻿ Batalkan: membatalkan retur pesanan yang sudah Anda buat ( Cancelled ). Atau Anda juga bisa membuat retur ulang dengan klik *button* Buat Retur Ulang.
+5. *A﻿ction* ketika klik *button* Tolak Retur. ( *Rejected* )
+
+   ![](/img/22.-retur-pesanan-button-tolak-retur-.png)
