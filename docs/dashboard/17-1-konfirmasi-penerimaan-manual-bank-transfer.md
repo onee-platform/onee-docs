@@ -17,4 +17,6 @@ M﻿elakukan konfirmasi penerimaan metode Bank Transfer.
 
    A﻿tau Anda bisa ketik manual pada field **Konfirmasi jumlah pembayaran yang telah diterima:** jika pelanggan hanya transfer pembayaran setengah / sebagai DP.
 
+   J﻿ika pelanggan melakukan pembayaran di lain rekening dari rekening yang sudah ditentukan sebelumnya, maka Anda perlu mengubah tujuan rekening dengan cara klik gambar pensil (edit) disamping nama bank, kemudian pilih bank yang sesuai.
+
    K﻿onfirmasi Penerimaan telah berhasil dan status pesanan berubah menjadi **PAID.**
