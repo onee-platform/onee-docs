@@ -89,4 +89,4 @@ B﻿erikut cara mengisi produk di excel:
 
    * B﻿erhasil di scan: Menampilkan jumlah produk yang ada di dalam file excel. 
    * S﻿ukses Upload: Menampilkan jumlah produk yang sukses upload karena dalam pengisian data telah mengikuti ketentuan yang ada. 
-   * G﻿agal Upload: Menampilkan jumlah produk yang gagal upload karena ada data yang tidak sesuai dengan ketentuan yang ada. Jika hal ini terjadi, maka Anda perlu klik *button* **Download Laporan Masal** untuk melihat pesan error pada field **Harap di kosongkan** dan perbaiki data pada kolom yang berwarna merah. Kemudia save dan upload kembali.
+   * G﻿agal Upload: Menampilkan jumlah produk yang gagal upload karena ada data yang tidak sesuai dengan ketentuan yang ada. Jika hal ini terjadi, maka Anda perlu klik *button* **Download Laporan Masal** untuk melihat pesan error pada field **Harap di kosongkan** dan perbaiki data pada kolom yang berwarna merah. Kemudian save dan upload kembali.
