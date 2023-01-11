@@ -34,4 +34,15 @@ sidebar_label: 14. Inventori
 
    \-﻿ Di-Book: menampilkan jumlah produk yang telah di booking pada saat Live Shopping. 
 
-   \-﻿ Pesanan: menampilkan jumlah produk yang telah di pesan / di alokasikan. Jumlah pesanan ini akan muncul kalau histori stock di aktifkan (HIJAU), dan tidak akan muncul kalau histori stock di non-aktifkan (abu-abu), dikarenakan jika histori stock di non-aktifkan, tandanya produk tersebut selalu READY untuk dijual terlepas dari ada atau tidak adanya stock.
+   \-﻿ Di-Alokasi: menampilkan jumlah produk yang telah di pesan / di alokasikan. Jumlah pesanan ini akan muncul kalau histori stock di aktifkan (HIJAU), dan tidak akan muncul kalau histori stock di non-aktifkan (abu-abu), dikarenakan jika histori stock di non-aktifkan, tandanya produk tersebut selalu READY untuk dijual terlepas dari ada atau tidak adanya stock.
+
+**N﻿OTES:**
+
+* Berwujud / Produk Fisik ( YA / TIDAK )
+* Catat Stock ( YA / TIDAK )
+
+Waktu Checkout (CO):
+
+* Tidak Berwujud ( otomatis tidak dicatat stock nya, stock dianggap unlimited (selalu ada), waktu alokasi pesanan tetap tercatat + 1 / bertambah sesuai jumlah pesanan / stock di-alokasi, waktu finish pesanan baru masuk ke terjual )
+* Berwujud + tidak dicatat stock ( stock dianggap unlimited (selalu ada), waktu alokasi pesanan tercatat + 1 / bertambah sesuai jumlah pesanan / stock di-alokasi , waktu finish pesanan baru masuk ke terjual  ) 
+* Berwujud + catat stock ( stock yang dapat dijual sesuai dengan jumlah stock tersedia, waktu alokasi pesanan akan mengurangi stock-tersedia dan dicatat sebagai stock di-alokasi, dan waktu pesanan selesai akan dicatat sebagai terjual )
