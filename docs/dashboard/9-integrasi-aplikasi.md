@@ -2,7 +2,7 @@
 title: 9. Integrasi - Aplikasi Midtrans
 sidebar_label: 9. Integrasi - Aplikasi Midtrans
 ---
-Anda menyediakan aplikasi Midtrans sebagai solusi payment gateway Anda. Jika ingin menggunakannya maka bisa langsung menghubungkannya dengan cara sebagai berikut: 
+Onee.id menyediakan aplikasi Midtrans sebagai solusi payment gateway Anda. Jika ingin menggunakannya maka bisa langsung menghubungkannya dengan cara sebagai berikut: 
 
 1. L﻿ogin Midtrans.
 
