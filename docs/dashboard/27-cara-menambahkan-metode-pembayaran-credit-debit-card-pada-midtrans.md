@@ -13,4 +13,10 @@ Aktivasi metode pembayaran yang Anda inginkan melalui dashboard Midtrans denga
 
    P﻿ada langkah ke 6 ini terdapat 2 versi untuk Anda sign dokumen.
 
-   \-﻿  Yang pertama Anda bisa melakukan sign dokumen yang akan dikirimkan melalui E-mail: pada kolom ini Anda diminta untuk isi nama Penandatangan dan Jabatannya, kemudian klik Send.
+   \-﻿  Yang pertama Anda bisa melakukan sign dokumen yang akan dikirimkan melalui E-mail: pada kolom ini Anda diminta untuk isi nama Penandatangan dan Jabatannya, klik Send > cek E-mail yang terdaftar untuk melihat dokumennya. 
+
+   ![](/img/form-cc-midtrans.png)
+
+   S﻿ebelum Anda menandatangani dokumen tersebut, Anda bisa pilih / centang salah satu CC yang ingin Anda gunakan kemudian sign dokumen.
+7. k﻿lik Get Started
+8. P﻿engajuan Credit / Debit Card telah selesai, kemudian tunggu hasil reviewnya oleh team Midtrans.
