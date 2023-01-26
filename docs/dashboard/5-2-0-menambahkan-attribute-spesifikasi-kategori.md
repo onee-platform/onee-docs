@@ -17,17 +17,17 @@ B﻿erikut cara menambahkan attribute pada kategori *Tops.*
 
    \-﻿ Nama Attribute / Nama Spesifikasi : Lebar Dada / Lebar Pinggang / Panjang Lengan / Lain - Lain.
 
-   \-﻿ Status Aktif: apabila status attribute kategori ini di non-aktifkan, maka seluruh attribute kategori ini tidak akan ditampilkan.
+   \-﻿ Status Aktif: apabila status attribute kategori ini di non-aktifkan, maka seluruh *attribute* kategori ini tidak akan ditampilkan.
 
-   \-﻿ Nilai Attribute perlu diisi: apabila status nilai attribute ini di aktifkan (yes), maka *nilai default* atau *opsi default* harus diisi / tidak boleh kosong.
+   \-﻿ Nilai Attribute perlu diisi: apabila status nilai *attribute* ini di aktifkan (yes), maka *nilai default* atau *opsi default* harus diisi / tidak boleh kosong, atau pada saat menambahkan produk dengan kategori TOPS, pada tab *attribute* *field* "Lebar Dada" diaktifkan (*yes*), maka *field* ini wajib diisi agar bisa di simpan.
 
-   \-﻿ Terdapat 2 pilihan yang dapat digunakan pada attribute yang akan dibuat:\
-   **TEXT**: Nilai dari attribute akan dimasukan sebagai text ( bisa diketik secara bebas ).\
-   **SELECT**: Nilai attribute dapat dipilih langsung dari  *[List Pilihan Opsi](https://dashboard.onee.id/settings/my_lists)*  yang dipilih. Opsi ini membuat attribute produk menjadi lebih terkontrol dan rapih.
+   \-﻿ Terdapat 2 pilihan yang dapat digunakan pada *attribute* yang akan dibuat:\
+   **TEXT**: Nilai dari *attribute* akan dimasukan sebagai *text* ( bisa diketik secara bebas ).\
+   **SELECT**: Nilai *attribute* dapat dipilih langsung dari  *[List Pilihan Opsi](https://dashboard.onee.id/settings/my_lists)*  yang dipilih. Opsi ini membuat *attribute* produk menjadi lebih terkontrol dan rapih.
 
-   \-﻿ Nilai Default: nilai default untuk attribute ini, yang otomatis diberikan ketika produk dikategori ini dibuat (jika kosong).*nilai default,* maka produk yang menggunakan kategori attribute ini sudah langsung muncul nilainya tanpa harus diketik lagi.
+   \-﻿ Nilai *Default*: ( Opsional ), jika diisi maka *field* ini akan terus muncul nilainya.
 
    \-﻿ Submit. 
-2. S﻿etelah di submit maka semua produk yang memilih kategori *tops* ini akan memiliki nama attribute / nama spesifikasi yang telah Anda buat ( seperti gambar dibawah ).
+2. S﻿etelah di submit maka semua produk yang memilih kategori *tops* ini akan memiliki nama *attribute* / nama spesifikasi yang telah Anda buat ( seperti gambar di bawah ).
 
    ![](/img/5.2.1-tampilan-ketika-attribute-telah-dibuat-menu-produk-.png)
