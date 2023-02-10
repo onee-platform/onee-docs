@@ -4,9 +4,7 @@ sidebar_label: 21. Menambahkan Pelanggan Baru ( Manual )
 ---
 Cara menambahkan pelanggan baru secara manual: 
 
-1. K﻿lik button tambah, kemudian isikan data - data seperti gambar di bawah ini.
-
-   ![](/img/21.-menambahkan-pelanggan-manual-update-.png)
+1. K﻿lik button tambah, kemudian isi data - data sesuai dengan field yang tersedia.
 
    \-﻿ Nama Depan (*): Isi dengan nama depan berikut dengan nama belakang Pelanggan.
 
@@ -35,4 +33,6 @@ Cara menambahkan pelanggan baru secara manual:
    \-﻿ Informasi Pelanggan: field ini untuk catatan internal staff ( opsional )
 
    \-﻿ **Simpan.**
+
+   ![](/img/21.-menambahkan-pelanggan-manual-update-.png)
 2. T﻿ab Buku Alamat > Menambahkan alamat baru dengan lengkap sesuai dengan field yang tersedia.
