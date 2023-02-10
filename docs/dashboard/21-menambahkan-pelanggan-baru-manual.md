@@ -4,7 +4,7 @@ sidebar_label: 21. Menambahkan Pelanggan Baru ( Manual )
 ---
 Cara menambahkan pelanggan baru secara manual: 
 
-1. K﻿lik button tambah, kemudian isi data - data sesuai dengan field yang tersedia.
+1. **K﻿lik button tambah, kemudian isi data - data sesuai dengan field yang tersedia.**
 
    \-﻿ Nama Depan (*): Isi dengan nama depan berikut dengan nama belakang Pelanggan.
 
@@ -35,7 +35,7 @@ Cara menambahkan pelanggan baru secara manual:
    \-﻿ **Simpan.**
 
    ![](/img/21.-menambahkan-pelanggan-manual-update-.png)
-2. T﻿ab Buku Alamat > Menambahkan alamat baru dengan lengkap sesuai dengan field yang tersedia.
+2. **T﻿ab Buku Alamat > Menambahkan alamat baru dengan lengkap sesuai dengan field yang tersedia.**
 
    \-﻿ Klik button tambah (+) untuk menambahkan alamat pelanggan. 
 
@@ -54,6 +54,15 @@ Cara menambahkan pelanggan baru secara manual:
    \-﻿ **Submit.** 
 
    ![](/img/21.-menambahkan-alamat-pelanggan-update-.png)
-3. T﻿ab Ingin Beli
+3. **T﻿ab Ingin Beli**
 
    T﻿ab ini akan muncul list nya jika pelanggan Anda memasukan produk / barang yang diinginkannya ke dalam shopping cart yang berada di website Anda. Atau Anda juga bisa menambahkan secara manual wishlist pelanggan dengan cara sebagai berikut:
+
+   \-﻿ Klik *button* Tambah (+)
+
+   \-﻿ Ketik dan cari produk yang diinginkan pelanggan.
+
+   \-﻿ **Submit.**
+
+   ![](/img/21.-menambahkan-wishlist-pelanggan-update-.png)
+4.
