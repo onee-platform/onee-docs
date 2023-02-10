@@ -65,4 +65,7 @@ Cara menambahkan pelanggan baru secara manual:
    \-﻿ **Submit.**
 
    ![](/img/21.-menambahkan-wishlist-pelanggan-update-.png)
-4.
+4. **T﻿ab Histori Belanja**
+
+   T﻿ab ini memunculkan list pesanan pelanggan.
+5.
