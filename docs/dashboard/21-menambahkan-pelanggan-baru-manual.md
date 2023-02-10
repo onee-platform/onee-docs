@@ -36,3 +36,21 @@ Cara menambahkan pelanggan baru secara manual:
 
    ![](/img/21.-menambahkan-pelanggan-manual-update-.png)
 2. T﻿ab Buku Alamat > Menambahkan alamat baru dengan lengkap sesuai dengan field yang tersedia.
+
+   \-﻿ Klik button tambah (+) untuk menambahkan alamat pelanggan. 
+
+   \-﻿ Simpan alamat sebagai: simpan alamat ini dengan nama, contoh: Rumah / Kantor / Gudang ( opsional )
+
+   \-﻿ Kelurahan / Kecamatan / Kode Pos (*): bisa diketik nama kelurahan / kecamatan pelanggan, kemudian pilih dan sesuaikan. Ketika sudah di pilih, maka langsung akan muncul lokasi, titik akan selalu berada di tengah, Anda bisa menyesuaikan titik dengan alamat pelanggan.
+
+   \-﻿ Alamat Lengkap: isi dengan alamat lengkap pelanggan
+
+   \-﻿ Lantai / Patokan alamat: isi dengan patokan alamat pelanggan ( opsional )
+
+   \-﻿ Nama dan Nomor Penerima: kosongkan jika nama dan nomor penerima paket / pesanan sama. 
+
+   \-﻿ Jadika alamat utama: *Default Yes*
+
+   \-﻿ **Submit.** 
+
+   ![](/img/21.-menambahkan-alamat-pelanggan-update-.png)
