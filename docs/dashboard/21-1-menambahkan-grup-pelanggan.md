@@ -32,3 +32,5 @@ D﻿i menu Grup Pelanggan atau bisa juga disebut kategori pelanggan ini untuk An
    \-﻿ Minimal Belanja: Jumlah minimum total belanja yang diperlukan untuk pelanggan untuk dapat menjadi kategori pelanggan ini. Contoh: pada field ini Anda input nominal sebesar Rp. 1,000,000 untuk grup **Red,** maka pelanggan yang telah melakukan pembelian sebesar Rp. 1,000,000 ini akan masuk ke dalam grup ini( **Red** )**,** yang nantinya pelanggan ini juga bisa naik level ke grup di atas **Red.**
 
    \-﻿ Syarat & Ketentuan: isi dengan syarat & ketentuan masing - masing toko.
+
+   ![](/img/21.1-edit-detail-grup-pelanggan.png)
