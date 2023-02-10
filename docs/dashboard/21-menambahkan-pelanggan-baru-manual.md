@@ -33,6 +33,8 @@ Cara menambahkan pelanggan baru secara manual:
    \- Alamat Pajak: isi dengan alamat pajak pelanggan sesuai dengan NPWP pelanggan
 
    \-﻿ Informasi Pelanggan: field ini untuk catatan internal staff ( opsional )
+
+   \-﻿ **Simpan.**
 2. T﻿ab Buku Alamat > Menambahkan alamat baru dengan lengkap sesuai dengan field yang tersedia.
 
    ![](/img/21.-pelanggan-baru-tab-buku-alamat.png)
