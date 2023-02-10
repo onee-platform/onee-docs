@@ -44,6 +44,14 @@ B﻿erikut panduan untuk membuat pesanan baru:
    \- Tersedia 5 : menampilkan jumlah stock yang tersedia, karena pada produk tersebut telah di atur untuk menampilkan histori stock.
 
    \-﻿ Ready Stock: pada produk tersebut telah diatur untuk tidak menampilkan histori stock namun selalu tersedia untuk dijual.
+
+   4﻿.1 **FYI** Anda juga bisa membuat produk / pesanan secara manual dengan cara klik **\-Baris Pesanan Manual**, kemudian Anda masukan Nama Item, QTY, dan juga Harga, kemudian klik *button* **Tambahkan** untuk menambahkan item yang telah kita isi. 
+
+   ![](/img/15.-buat-pesanan-baris-pesanan-or-produk-manual-.png)
+
+   ![](/img/15.-buat-pesanan-menambahkan-item-pesanan-or-produk-manual-.png)
+
+   ***Note***: Dari team Onee tetap menyarankan atau merekomendasikan Anda untuk tetap melakukan input produk & jasa terlebih dahulu pada menu Produk & Jasa, agar produk tersebut mempunyai historynya. 
 5. P﻿ilih Kurir Pengiriman.
 
    ![](/img/15.6-daftar-pesanan-pilih-ekspedisi.png)
