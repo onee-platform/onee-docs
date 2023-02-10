@@ -8,11 +8,11 @@ Cara menambahkan pelanggan baru secara manual:
 
    ![](/img/21.-menambahkan-pelanggan-manual-update-.png)
 
-   \-﻿ Nama Depan (*): Isi dengan nama depan berikut dengan nama belakang Anda.
+   \-﻿ Nama Depan (*): Isi dengan nama depan berikut dengan nama belakang Pelanggan.
 
-   \-﻿ E-mail: isi email Anda
+   \-﻿ E-mail: isi email Pelanggan
 
-   \-﻿ No Handphone: Input no handphone Anda yang aktif 
+   \-﻿ No Handphone: Input no handphone Pelanggan yang aktif.
 
    \-﻿ Kata Sandi: berikan kata sandi untuk login ke website Anda atau kata sandi akan otomatis dibuat bila field ini dikosongkan.
 
