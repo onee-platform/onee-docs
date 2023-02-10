@@ -9,6 +9,7 @@ B﻿erikut cara menambahkan Grup Pelanggan:
 1. K﻿lik *button* tambah(+)
 2. N﻿ama Grup Pelanggan (*): Isi nama grup pelanggan sesuai dengan nama yang ingin Anda buat, contoh: Red | Silver | Gold | Platinum.
 3. D﻿eskripsi: Isi deskripsi untuk nama grup yang Anda buat ( opsional )
-4.  ﻿**Submit.**
+4. ﻿**Submit.**
+5. K﻿etika telah berhasil ke simpan, Anda bisa langsung klik pada baris nama pelanggan yang baru saja Anda buat untuk Anda edit.
 
    ![](/img/21.1-menambahkan-grup-pelanggan.png)
