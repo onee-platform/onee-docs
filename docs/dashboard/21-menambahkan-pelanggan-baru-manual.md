@@ -6,7 +6,7 @@ Cara menambahkan pelanggan baru secara manual:
 
 1. K﻿lik button tambah, kemudian isikan data - data seperti gambar di bawah ini.
 
-   ![](/img/21.-pelanggan-baru-manual-.png)
+   ![](/img/21.-menambahkan-pelanggan-manual-update-.png)
 
    \-﻿ Nama Depan (*): Isi dengan nama depan berikut dengan nama belakang Anda.
 
