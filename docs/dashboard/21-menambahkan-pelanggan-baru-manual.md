@@ -14,11 +14,25 @@ Cara menambahkan pelanggan baru secara manual:
 
    \-﻿ Jenis Kelamin: pilih jenis kelamin pelanggan
 
-   -﻿ Status Pelanggan: field ini berupa opsi: *Active*, *In-Active*, dan *Restricted* ( *default Active* )
+   \-﻿ Status Pelanggan: field ini berupa opsi: *Active*, *In-Active*, dan *Restricted* ( *default Active* )
 
    \-﻿ Grup Pelanggan: tentukan grup pelanggan untuk pelanggan yang sedang Anda input. 
-2.
-3.
-4.   T﻿ab Buku Alamat > Menambahkan alamat baru dengan lengkap sesuai dengan field yang tersedia.
+
+   \-﻿ No Handphone: Input no handphone Pelanggan yang aktif.
+
+   \-﻿ Kata Sandi: berikan kata sandi untuk pelanggan login ke website Anda atau kata sandi akan otomatis dibuat bila field ini dikosongkan.
+
+   \-﻿ Sosial Media: isi dengan nama - nama sosial media pelanggan ( optional ).
+
+   \-﻿ Informasi Pajak: 
+
+   \- Tax Name: Nama Pajak Pelanggan ( Sesuai NPWP )
+
+   \- NIK / NPWP: isi dengan no NIK / NPWP Pelanggan
+
+   \- Alamat Pajak: isi dengan alamat pajak pelanggan sesuai dengan NPWP pelanggan
+
+   \-﻿ Informasi Pelanggan: field ini untuk catatan internal staff ( opsional )
+2. T﻿ab Buku Alamat > Menambahkan alamat baru dengan lengkap sesuai dengan field yang tersedia.
 
    ![](/img/21.-pelanggan-baru-tab-buku-alamat.png)
