@@ -36,5 +36,3 @@ Cara menambahkan pelanggan baru secara manual:
 
    \-﻿ **Simpan.**
 2. T﻿ab Buku Alamat > Menambahkan alamat baru dengan lengkap sesuai dengan field yang tersedia.
-
-![](/img/21.-pelanggan-baru-tab-buku-alamat.png)
