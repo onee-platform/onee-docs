@@ -68,4 +68,4 @@ Cara menambahkan pelanggan baru secara manual:
 4. **T﻿ab Histori Belanja**
 
    T﻿ab ini memunculkan list pesanan pelanggan.
-5.
+5. **T﻿ab Points**
