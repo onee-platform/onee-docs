@@ -12,17 +12,15 @@ Cara menambahkan pelanggan baru secara manual:
 
    \-﻿ E-mail: isi email Pelanggan
 
+   \-﻿ Jenis Kelamin: pilih jenis kelamin pelanggan
+
    \-﻿ No Handphone: Input no handphone Pelanggan yang aktif.
 
    \-﻿ Kata Sandi: berikan kata sandi untuk login ke website Anda atau kata sandi akan otomatis dibuat bila field ini dikosongkan.
 
-   \-﻿ Sosial Media: isi dengan nama - nama sosial media Anda ( optional ).
+   \-﻿ Sosial Media: isi dengan nama - nama sosial media pelanggan ( optional ).
 
-   \-﻿ Informasi pelanggan lainnya: diisi jika ada notes internal Anda. ( optional )
 
-   \-﻿ Status : Active, In-Active dan Restricted.
-
-   \-﻿ Submit.
 2. T﻿ab Buku Alamat > Menambahkan alamat baru dengan lengkap sesuai dengan field yang tersedia.
 
    ![](/img/21.-pelanggan-baru-tab-buku-alamat.png)
