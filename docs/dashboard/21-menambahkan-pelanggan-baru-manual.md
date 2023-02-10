@@ -54,3 +54,6 @@ Cara menambahkan pelanggan baru secara manual:
    \-﻿ **Submit.** 
 
    ![](/img/21.-menambahkan-alamat-pelanggan-update-.png)
+3. T﻿ab Ingin Beli
+
+   T﻿ab ini akan muncul list nya jika pelanggan Anda memasukan produk / barang yang diinginkannya ke dalam shopping cart yang berada di website Anda. Atau Anda juga bisa menambahkan secara manual wishlist pelanggan dengan cara sebagai berikut:
