@@ -37,6 +37,16 @@ Cara menambahkan pelanggan baru secara manual:
    \-﻿ **Simpan.**
 
    ![](/img/21.-menambahkan-pelanggan-manual-update-.png)
+
+   K﻿etika data pelanggan telah di simpan, maka akan muncul field - field seperti:
+
+   \-﻿ Reputasi: field ini berlaku untuk live shopping, field ini akan berkurang otomatis, jika pelanggan tersebut membatalkan booking pesanan. 
+
+   \-﻿ Limit Hutang: Besaran hutang yang dapat di berikan untuk pelanggan ini.
+
+   \-﻿ Points Rewards: Menampilkan point pelanggan ( Deposit )
+
+   ![](/img/21.-pelanggan-tab-info-tampilan-setelah-di-save..png)
 2. **T﻿ab Buku Alamat > Menambahkan alamat baru dengan lengkap sesuai dengan field yang tersedia.**
 
    \-﻿ Klik button tambah (+) untuk menambahkan alamat pelanggan. 
