@@ -16,6 +16,8 @@ Cara menambahkan pelanggan baru secara manual:
 
    \-﻿ Grup Pelanggan: tentukan grup pelanggan untuk pelanggan yang sedang Anda input. 
 
+   \-﻿ Berlangganan Email? : Jika field ini di centang, maka email pelanggan langsung akan ke create di menu Langanan Email. Guna field ini untuk menambah subscribers Anda. 
+
    \-﻿ No Handphone: Input no handphone Pelanggan yang aktif.
 
    \-﻿ Kata Sandi: berikan kata sandi untuk pelanggan login ke website Anda atau kata sandi akan otomatis dibuat bila field ini dikosongkan.
