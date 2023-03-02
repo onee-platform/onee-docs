@@ -24,9 +24,9 @@ sidebar_label: 14. Inventori
    \-﻿ Kemudian, klik button Ubah Sekaligus > pilih Set Aktif. 
 
    \-﻿ Barang yang dipilih akan aktif kembali.
-3. P﻿enjelasan tab Tersedia, Di-Book, dan Pesanan.
+3. P﻿enjelasan tab Tersedia, Di-Book, dan D.i-Alokasi.
 
-   ![](/img/14.-inventori-penjelasan-field-field.png)
+   ![](/img/14.-inventori-field-.png)
 
    K﻿et:
 
