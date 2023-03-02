@@ -30,18 +30,15 @@ sidebar_label: 14. Inventori
 
    K﻿et:
 
-   \-﻿ Tersedia: menampilkan jumlah stock barang / produk yang tersedia untuk dijual.
+   \-﻿ **Tersedia**: menampilkan jumlah stock barang / produk yang tersedia untuk dijual ( dengan catatan stock mempunyai history atau catat stock, jika stocknya dinyalakan yang selalu ready / tidak catat stock, maka stock yang tersedia menampilkan nilai 0 ).
 
-   \-﻿ Di-Book: menampilkan jumlah produk yang telah di booking pada saat Live Shopping. 
+   \-﻿ **Di-Book**: menampilkan jumlah produk yang telah di booking pada saat Live Shopping. 
 
-   \-﻿ Di-Alokasi: menampilkan jumlah produk yang telah di pesan / di alokasikan. Jumlah pesanan ini akan muncul kalau histori stock di aktifkan (HIJAU), dan tidak akan muncul kalau histori stock di non-aktifkan (abu-abu), dikarenakan jika histori stock di non-aktifkan, tandanya produk tersebut selalu READY untuk dijual terlepas dari ada atau tidak adanya stock.
+   \-﻿ **Di-Alokasi**: menampilkan jumlah produk yang telah di pesan / di alokasikan. Jumlah yang ada di alokasi ini akan muncul ketika Anda membuat pesanan ( status **Draft** ) sampai pesanan status **Paid**.
 
-**N﻿OTES:**
+   \-﻿ **Terjual**: menampilkan jumlah barang yang telah berhasil terkirim / di ambil oleh pembeli / kurir.
 
-* Berwujud / Produk Fisik ( YA / TIDAK )
-* Catat Stock ( YA / TIDAK )
-
-Waktu Checkout (CO):
+**Waktu Checkout (CO):**
 
 * Tidak Berwujud ( otomatis tidak dicatat stock nya, stock dianggap unlimited (selalu ada), waktu alokasi pesanan tetap tercatat + 1 / bertambah sesuai jumlah pesanan / stock di-alokasi, waktu finish pesanan baru masuk ke terjual )
 * Berwujud + tidak dicatat stock ( stock dianggap unlimited (selalu ada), waktu alokasi pesanan tercatat + 1 / bertambah sesuai jumlah pesanan / stock di-alokasi , waktu finish pesanan baru masuk ke terjual  ) 
