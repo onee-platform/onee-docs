@@ -81,3 +81,14 @@ T﻿ampilan detail invoice setelah dibatalkan ( tanpa pengembalian point ).
    ![](/img/18.2.2-konfirmasi-refund-ganti-barang-.png)
 
    \- J﻿ika barang yang diganti nilainya lebih rendah dari yang sudah dibayarkan, maka sisa uang akan di refund as point, begitupun sebaliknya, jika barang yang diganti nilainya lebih tinggi, maka customer perlu melakukan pembayaran atas sisa nya ( tombol yang muncul adalah tombol **Buat Tagihan** ).
+
+
+
+
+
+#### 1﻿8.2.3. Mengubah Pesanan - Pengurangan barang yang di beli, dari 3 item menjadi 2 item.
+
+1. P﻿ilih dan buka no invoice yang ingin di ubah pada tab Pesanan Baru.
+2. K﻿lik Ubah Jadi Draft.
+
+   ![](/img/18.2.3-pengurangan-barang-pesanan-ubah-jadi-draft.png)
