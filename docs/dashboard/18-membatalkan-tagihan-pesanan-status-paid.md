@@ -2,7 +2,7 @@
 title: 18. Membatalkan Tagihan Pesanan
 sidebar_label: 18. Membatalkan Tagihan Pesanan
 ---
-### **18.1. Batalkan Tagihan Pesanan dengan case masih menunggu pembayaran / status unpaid.** 
+### **18.1. Batalkan Tagihan Pesanan dengan case masih menunggu pembayaran / status unpaid.**
 
 P﻿ada saat Anda klik buat tagihan, lalu pilih metode pembayaran yang digunakan, maka status pesanan akan berubah dari draft menjadi unpaid. Dan kemudian Anda ingin membatalkannya dengan alasan lain - lain sebagai berikut: B﻿uka invoice yang ingin dibatalkan tagihannya > klik button Batalkan Tagihan.
 
@@ -61,5 +61,4 @@ T﻿ampilan detail invoice setelah dibatalkan ( tanpa pengembalian point ).
 5. K﻿lik Buat Tagihan, jika sudah selesai menambahkan barang baru.
 
    ![](/img/18.2.1-ubah-pesanan-menambahkan-barang-buat-tagihan.png)
-6. L﻿akukan [buat tagihan baru](https://onee.netlify.app/dashboard/buat-tagihan-pesanan).﻿
-7.
+6. L﻿akukan [buat tagihan baru](https://onee.netlify.app/dashboard/buat-tagihan-pesanan).﻿ Total tagihan yang akan muncul hanya kekurangannya saja.
