@@ -19,14 +19,31 @@ Aktivasi metode pembayaran yang Anda inginkan melalui dashboard Midtrans denga
 3. A﻿nda dapat klik Select pada bagian Card Payment
 4. K﻿lik Next Upload Document
 5. L﻿alu Anda dapat melampirkan dokumen yang diperlukan
-6. Selanjutnya klik Next Sign Addendum dan silakan melengkapi kelengkapan data yang dibutuhkan.
+
+   * B﻿erikut gambar di bawah ini adalah contoh upload dokumen dengan jenis akun Perorangan.
+
+   ![](/img/27.-unggah-dok.midtrans-individu-.png)
+
+   P﻿ada gambar di atas, dokumen yang diperlukan hanya muncul NPWP owner saja, dikarenakan KTP owner sudah ada datanya di midtrans pada saat pertama kali pembuatan akun.
+
+   * B﻿erikut gambar di bawah ini adalah contoh yang dokumennya telah di upload.
+
+     ![](/img/27.-unggah-dok.midtrans-badan-.png)
+6. Selanjutnya klik Next Sign Addendum / Penandatanganan Addendum.
 
    P﻿ada langkah ke 6 ini terdapat 2 versi untuk Anda sign dokumen.
 
    \-﻿  Yang pertama Anda bisa melakukan sign dokumen yang akan dikirimkan melalui E-mail: pada kolom ini Anda diminta untuk isi nama Penandatangan dan Jabatannya, klik Send > cek E-mail yang terdaftar untuk melihat dokumennya. 
 
-   ![](/img/form-cc-midtrans.png)
+   \-﻿ Dan yang ke dua Anda bisa langsung menandatangani dokumennya tanpa harus di kirimkan ke email.
 
-   S﻿ebelum Anda menandatangani dokumen tersebut, Anda bisa pilih / centang salah satu CC yang ingin Anda gunakan kemudian sign dokumen.
-7. k﻿lik Get Started
-8. P﻿engajuan Credit / Debit Card telah selesai, kemudian tunggu hasil reviewnya oleh team Midtrans.
+   ![](/img/27.-tampilan-untuk-sign-addendum.png)
+7. S﻿ebelum Anda menandatangani dokumen tersebut, Anda bisa pilih / centang salah satu CC yang ingin Anda gunakan kemudian sign dokumen.
+
+   ![](/img/27.-pilih-cc-yang-akan-digunakan.png)
+8. K﻿etika dokumen sudah di tandatangani, Anda bisa klik tombol Get Started pada bagian pojok kanan atas dokumen.
+9. P﻿engajuan Debit / Credit Card telah selesai, hanya perlu menunggu hasil reviewnya oleh team midtrans, review diperlukan waktu 5 hari kerja ( tidak terhitung hari sabtu, minggu dan tanggal merah ).
+10. K﻿etika sudah di review oleh team midtrans, nanti Anda akan mendapatkan hasil reviewnya melalui email yang terdaftar di midtrans dengan subjek email **Midtrans Introduction & Activation.** Kemudian Anda lengkapi data sesuai dengan yang di minta, lalu mengirimkannya kembali dengan cara membalas email tersebut, dan akan di review kembali sampai Anda mendapatkan pesan email seperti ini " **Dapat kami informasikan, untuk permintaan penambahan payment channel Credit Card BNI pada akun Midtrans Anda sudah sukses tervalidasi dan sudah dapat digunakan pada environment production.**\
+    \
+    **Mohon bantuannya untuk di cek kembali pada setting > snap preferences > payment channels pada dashboard Midtrans Anda**."
+11. P﻿engajuan Debit / Credit Card Anda telah selesai, dan bisa langsung di gunakan.
