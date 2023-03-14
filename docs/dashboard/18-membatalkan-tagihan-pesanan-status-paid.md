@@ -50,7 +50,7 @@ T﻿ampilan detail invoice setelah dibatalkan ( tanpa pengembalian point ).
 
 ![](/img/18.2-membatalkan-pesanan-field-total-diterima.png)
 
-#### 1﻿8.2.1. Mengubah Pesanan - Menambahkan barang baru pada pesanan yang sudah dibayar / status paid.
+#### 1﻿8.2.1. Mengubah Pesanan - Menambahkan barang baru pada pesanan.
 
 1. P﻿ilih dan buka no invoice yang ingin di ubah pada tab Pesanan Baru.
 2. K﻿lik Ubah Jadi Draft.
@@ -61,4 +61,23 @@ T﻿ampilan detail invoice setelah dibatalkan ( tanpa pengembalian point ).
 5. K﻿lik Buat Tagihan, jika sudah selesai menambahkan barang baru.
 
    ![](/img/18.2.1-ubah-pesanan-menambahkan-barang-buat-tagihan.png)
-6. L﻿akukan [buat tagihan baru](https://onee.netlify.app/dashboard/buat-tagihan-pesanan).﻿ Total tagihan yang akan muncul hanya kekurangannya saja.
+6. L﻿akukan [buat tagihan baru](https://onee.netlify.app/dashboard/buat-tagihan-pesanan).﻿ Total tagihan yang dimunculkan hanya kekurangannya saja.
+
+
+
+
+
+#### 1﻿8.2.2. Mengubah Pesanan - Mengganti barang pesanan.
+
+1. P﻿ilih dan buka no invoice yang ingin di ubah pada tab Pesanan Baru.
+2. K﻿lik Ubah Jadi Draft.
+
+   ![](/img/18.2.1-ubah-pesanan-menambahkan-barang.png)
+3. S﻿tatus pesanan sudah berubah dari Paid menjadi Draft.
+4. H﻿apus barang / pesanan awal, dan pilih barang yang ingin diganti.
+
+   ![](/img/18.2.2-ganti-barang-pesanan-ke-nominal-yang-rendah.png)
+
+   ![](/img/18.2.2-konfirmasi-refund-ganti-barang-.png)
+
+   \- J﻿ika barang yang diganti nilainya lebih rendah dari yang sudah dibayarkan, maka sisa uang akan di refund as point, begitupun sebaliknya, jika barang yang diganti nilainya lebih tinggi, maka customer perlu melakukan pembayaran atas sisa nya ( tombol yang muncul adalah tombol **Buat Tagihan** ).
