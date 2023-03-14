@@ -24,7 +24,7 @@ sidebar_label: 12. Tambah Produk
 
    i﻿. Harga: Masukan harga produk, harga diskon, dan HPP.
 
-   ![](/img/12.-tambah-produk-input-nama.png)
+   ![](/img/12.-tambah-produk-input-produk.png)
 2. P﻿ickup & Pengiriman Produk. ( Informasi ini berlaku untuk keterangan dan perhitungan di ekspedisi ). 
 
    a﻿. Berat: Field ini hanya bisa diisi dengan angka tidak bisa diisi dengan huruf. ( yang dimaksud berat disini yaitu berat paketnya ). 
