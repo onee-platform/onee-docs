@@ -10,19 +10,21 @@ sidebar_label: 12. Tambah Produk
 
    c. K﻿ategori Produk: Diketik untuk mencari kategori ( minimal 2 karakter ) contoh : ketik "TO" maka langsung menampilkan kategori yang berawalan dari "TO".
 
-   d. K﻿ondisi: Opsi / Pilihan ( New / Used ).
+   d﻿. Merek: Diketik untuk mencari nama Merek ( minimal 2 karakter ). Nama merek ini juga bisa ditambahkan di menu Daftar Merek ( lihat caranya [disini](https://onee.netlify.app/dashboard/cara-menambahkan-daftar-merek) ).
 
-   e. N﻿o Urut Produk: Hanya bisa diisi dengan angka tidak bisa di ketik huruf.
+   e. K﻿ondisi: Opsi / Pilihan ( New / Used ).
 
-   f. P﻿roduk Aktif / Ditampilkan: Flag Aktif - Non-Aktif.
+   f. N﻿o Urut Produk: Hanya bisa diisi dengan angka tidak bisa di ketik huruf.
 
-   L﻿ive Shopping Product: Flag Aktif - Non-Aktif. Diaktifkan jika produk tersebut ingin di munculkan dalam Live Shopping.
+   g. P﻿roduk Aktif / Ditampilkan: Flag Aktif - Non-Aktif.
 
-   g﻿. Gambar / Media: Klik untuk upload gambar.
+      L﻿ive Shopping Product: Jika live shopping ini di aktifkan, maka akan secara otomatis produk tersebut tidak aktif di website maupun di channel penjualan lainnya. Produk hanya aktif pada saat live.
 
-   h﻿. Harga: Masukan harga produk, harga diskon, dan HPP.
+   h﻿. Gambar / Media: Klik untuk upload gambar.
 
-   ![](/img/12.-tambah-produk-baru.png)
+   i﻿. Harga: Masukan harga produk, harga diskon, dan HPP.
+
+   ![](/img/12.-tambah-produk-input-nama.png)
 2. P﻿ickup & Pengiriman Produk. ( Informasi ini berlaku untuk keterangan dan perhitungan di ekspedisi ). 
 
    a﻿. Berat: Field ini hanya bisa diisi dengan angka tidak bisa diisi dengan huruf. ( yang dimaksud berat disini yaitu berat paketnya ). 
