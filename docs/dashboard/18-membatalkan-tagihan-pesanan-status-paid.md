@@ -80,7 +80,7 @@ T﻿ampilan detail invoice setelah dibatalkan ( tanpa pengembalian point ).
 
    ![](/img/18.2.2-konfirmasi-refund-ganti-barang-.png)
 
-   \- J﻿ika barang yang diganti nilainya lebih rendah dari yang sudah dibayarkan, maka sisa uang akan di refund as point, begitupun sebaliknya, jika barang yang diganti nilainya lebih tinggi, maka customer perlu melakukan pembayaran atas sisa nya ( tombol yang muncul adalah tombol **Buat Tagihan** ).
+   \- J﻿ika barang yang diganti nilainya lebih rendah dari yang sudah dibayarkan, maka sisa uang akan di refund as point d﻿an status invoice langsung menjadi **Paid**, begitupun sebaliknya, jika barang yang diganti nilainya lebih tinggi, maka customer perlu melakukan pembayaran atas sisa nya ( tombol yang muncul adalah tombol **Buat Tagihan** ).
 
 
 
@@ -92,3 +92,8 @@ T﻿ampilan detail invoice setelah dibatalkan ( tanpa pengembalian point ).
 2. K﻿lik Ubah Jadi Draft.
 
    ![](/img/18.2.3-pengurangan-barang-pesanan-ubah-jadi-draft.png)
+3. S﻿tatus pesanan sudah berubah dari Paid menjadi Draft.
+4. H﻿apus barang yang ingin di kurangi, contoh: ingin hapus barang "**Kemeja Panjang / S**" dari pesanan di atas.
+
+   ![](/img/18.2.3-pengurangan-barang-pesanan-refund-as-point.png)
+5. J﻿ika telah berhasil di refund as point, maka point akan bertambah, dan status invoice langsung berubah menjadi **Paid**.
