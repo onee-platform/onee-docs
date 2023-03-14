@@ -57,9 +57,16 @@ sidebar_label: 12. Tambah Produk
    ![](/img/12.-section-input-attribute-produk-kategori-top-.png)
 
    A﻿nda juga dapat menambahkan attribut baru hanya untuk produk ini, dengan cara klik button **Tambah Attribut**.
-6. I﻿nformasi Produk Lainnya.
+6. T﻿ag Produk: Tujuan field ini agar produk bisa di filter sesuai dengan tag di website Anda. Anda juga bisa menambahkan tag produk dengan cara klik tanda **+** yang ada di samping kolom tags.
+
+   ![](/img/12.-tambah-produk-tag-produk.png)
+7. I﻿nformasi Produk Lainnya. 
 
    I﻿nformasi ini hanya untuk catatan internal dan hanya dapat dilihat oleh Anda.
 
    ![](/img/12.-section-informasi-produk-lainnya.png)
-7. S﻿impan Produk.
+8. L﻿angkah terakhir jika semua field sudah diisi / disesuaikan dengan produk yang ingin dijual, maka Anda bisa klik Simpan Produk atau Simpan & Tambah Baru. 
+
+   S﻿impan Produk: Produk akan tersimpan dan direct ke menu Produk & Jasa ( tampilan edit ).
+
+   S﻿impan & Tambah Baru: simpan produk dan halaman masih akan tetap stay di menu Tambah Produk untuk Anda menambahkan produk selanjutnya.
