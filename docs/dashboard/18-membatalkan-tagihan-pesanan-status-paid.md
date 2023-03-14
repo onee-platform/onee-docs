@@ -61,4 +61,5 @@ T﻿ampilan detail invoice setelah dibatalkan ( tanpa pengembalian point ).
 5. K﻿lik Buat Tagihan, jika sudah selesai menambahkan barang baru.
 
    ![](/img/18.2.1-ubah-pesanan-menambahkan-barang-buat-tagihan.png)
-6. L﻿akukan buat tagihan baru.
+6. L﻿akukan [buat tagihan baru](https://onee.netlify.app/dashboard/buat-tagihan-pesanan).﻿
+7.
