@@ -4,6 +4,16 @@ sidebar_label: 27. Cara Menambahkan Metode Pembayaran Credit / Debit Card Pada M
 ---
 Aktivasi metode pembayaran yang Anda inginkan melalui dashboard Midtrans dengan mengikuti langkah-langkah mudah berikut: 
 
+* P﻿erbedaan data yang harus di upload untuk pengajuan credit / debit card antara akun Perorangan dengan Badan.
+
+  * P﻿erorangan: dokumen yang dibutuhkan hanya KTP dan NPWP owner.
+  * B﻿adan: dokumen yang dibutuhkan ada: 
+
+    * KTP direktur
+    * NPWP badan usaha
+    * Akta Pendirian & Akta Perubahan
+    * SK Menkumham
+
 1. L﻿ogin ke dashboard Midtrans Anda
 2. P﻿ilih menu "+Payment Methods" di bawah menu Settings
 3. A﻿nda dapat klik Select pada bagian Card Payment
