@@ -27,4 +27,4 @@ B﻿erikut di bawah ini langkah dan cara untuk mengundang / tambah pengguna.
 5. T﻿ampilan ketika sudah berhasil mengelola toko.
 
    ![](/img/25.-tampilan-sudah-berhasil-utk-mengelola-toko-yang-undang.png)
-6. S﻿ekarang toko yang diundang, sudah bisa mengelola toko yang mengundang.
+6. Selesai, ﻿sekarang toko yang diundang, sudah bisa mengelola toko yang mengundang.
