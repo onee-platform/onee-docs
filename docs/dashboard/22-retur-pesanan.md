@@ -10,6 +10,15 @@ sidebar_label: 22. Retur Pesanan
 2. I﻿si detail retur pesanan seperti: Alasan Pelanggan\*, Resolusi Retur / Pengembalian\*, pilih nama item / barang yang ingin di retur, atur qty barang yang ingin di retur, kemudian Submit. 
 
    ![](/img/22.-retur-pesanan-isi-barang-retur-.png)
+
+   K﻿eterangan: 
+
+   * A﻿lasan Pengembalian: kolom ini wajib di isi, dan keterangannya akan di tampilkan di resi pengiriman (retur).
+   * Resolusi Retur / Pengembalian: 
+
+     * D﻿ana akan di kembalikan sebagai point: point ini tidak akan otomatis bertambah. Jadi, Anda tetap harus masukan point sejumlah nilai yang di retur secara manual di pelanggan tsb.
+     * P﻿embeli ingin menukarkan barang ( barang sama ): untuk mengirim balik barang yang sama, Anda tetap harus membuat pesanan baru dari menu Pesanan.
+     * P﻿embeli ingin menukarkan dengan barang lain: untuk mengirim balik barang yang baru / barang lain, Anda tetap harus membuat pesanan baru dari menu Pesanan.
 3. T﻿ampilan ketika klik button Submit.
 
    ![](/img/22.-retur-pesanan-tampilan-ketika-klik-submit-.png)
