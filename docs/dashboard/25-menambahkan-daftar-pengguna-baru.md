@@ -8,21 +8,20 @@ C﻿ase: Owner toko **Shop.Onee** ingin mengundang owner toko **Shop2.Onee**, tu
 
 B﻿erikut di bawah ini langkah dan cara untuk mengundang / tambah pengguna.
 
-1. B﻿uka menu daftar pengguna | klik *button* Tambah.
+1. B﻿uka menu daftar pengguna | klik Tambah Pengguna > Submit.
 
-   ![](/img/25.-menambahkan-daftar-pelanggan-baru.png)
+   ![](/img/25.-tambah-pengguna-baru.png)
+2. S﻿tatus setelah kirim email undangan.
 
-   \-﻿ Ketik Nama dan juga E-mail pengguna | Submit ( status Menunggu Diterima ).
-
-   ![](/img/25.-menambahkan-daftar-pelanggan-status-menunggu-diterima-.png)
+   ![](/img/25.-status-menunggu-diterima.png)
 
    \-﻿ Gambar tong sampah: untuk membatalkan undangan / hapus pengguna
 
-   \-﻿ Gambar pesan: untuk mengirim ulang undangan ke email yang terdaftar.
-2. T﻿ampilan pesan e-mail untuk menerima undangan.
+   \-﻿ Gambar pesan: untuk mengirim ulang undangan ke email yang di undang.
+3. T﻿ampilan pesan e-mail untuk menerima undangan.
 
    ![](/img/25.-terima-email-daftar-pengguna-baru.png)
-3. A﻿ction setelah klik terima undangan
+4. A﻿ction setelah klik terima undangan
 
    ![](/img/25.-tampilan-ketika-klik-terima-undangan-di-email.png)
 
