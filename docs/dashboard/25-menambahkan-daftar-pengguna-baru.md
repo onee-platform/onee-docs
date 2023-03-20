@@ -4,7 +4,9 @@ sidebar_label: 25. Menambahkan Daftar Pengguna Baru
 ---
 D﻿aftar pengguna ini adalah pengguna yang akan memegang ataupun mengelola cabang.
 
-B﻿erikut cara menambahkan daftar pengguna baru untuk di cabang kedua.
+C﻿ase: Owner toko **Shop.Onee** ingin mengundang owner toko **Shop2.Onee**, tujuannya agar owner toko **Shop2.Onee** bisa mengakses dan mengelola toko **Shop.Onee.**
+
+B﻿erikut di bawah ini langkah dan cara untuk mengundang / tambah pengguna.
 
 1. B﻿uka menu daftar pengguna | klik *button* Tambah.
 
