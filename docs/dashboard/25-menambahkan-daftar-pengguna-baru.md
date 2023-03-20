@@ -18,13 +18,13 @@ B﻿erikut di bawah ini langkah dan cara untuk mengundang / tambah pengguna.
    \-﻿ Gambar tong sampah: untuk membatalkan undangan / hapus pengguna
 
    \-﻿ Gambar pesan: untuk mengirim ulang undangan ke email yang di undang.
-3. T﻿ampilan pesan e-mail untuk menerima undangan.
+3. T﻿ampilan pesan e-mail untuk si penerima undangan. Klik Terima Undangan.
 
-   ![](/img/25.-terima-email-daftar-pengguna-baru.png)
-4. A﻿ction setelah klik terima undangan
+   ![](/img/25.-tampilan-email-utk-terima-undangan.png)
+4. A﻿ction setelah klik terima undangan. Masukan password kemudian klik login.
 
-   ![](/img/25.-tampilan-ketika-klik-terima-undangan-di-email.png)
+   ![](/img/25.-tampilan-ketika-sdh-di-klik-terima-undangan-utk-login-.png)
+5. T﻿ampilan ketika sudah berhasil mengelola toko.
 
-   S﻿etelah Anda terima undangan, maka tampilan akan ngelink ke dashboard login.
-
-   Jika Anda belum mempunyai akun untuk login, maka Anda bisa buat terlebih dahulu dengan cara klik Daftar Baru.
+   ![](/img/25.-tampilan-sudah-berhasil-utk-mengelola-toko-yang-undang.png)
+6. S﻿ekarang toko yang diundang, sudah bisa mengelola toko yang mengundang.
