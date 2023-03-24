@@ -10,7 +10,7 @@ L﻿angkah pertama untuk penggunaan pembayaran tempo adalah:
 
 Nominal limit hutang pelanggan tidak akan berubah o﻿tomatis, karena sifatnya input manual, yang bisa berubah hanya kolom **Total Hutang saat ini**, kolom ini bisa bertambah dan berkurang secara otomatis ketika pelanggan sudah menggunakannya.
 
-B﻿erikut dibawah ini contoh beberapa case: 
+B﻿erikut dibawah ini contoh case: 
 
 #### 1﻿7.2.1 Pelanggan melakukan pembelian barang dengan cara DP dan juga Tempo dengan Limit Hutang Rp. 5.000.000,-
 
