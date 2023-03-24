@@ -16,4 +16,17 @@ B﻿erikut dibawah ini contoh beberapa case:
 2. Pada pembayaran pertama, Anda bisa memilih berapa persen untuk DP atau Anda juga bisa ketik manual di kolom jumlah pembayaran / tagihan yang akan di buat, kemudian pilih metode pembayarannya > buat tagihan.
 
    ![](/img/17.2.1-pilih-dp.png)
-3.
+3. K﻿etika sudah di buat tagihan, maka pelanggan akan menerima notif pesan whatsApp dari onee untuk melakukan pembayaran dengan status pesanan unpaid. Dan tunggu hingga pelanggan melakukan pembayaran.
+4. J﻿ika pelanggan sudah bayar, Anda bisa buka kembali pesanannya, kemudian klik tombol konfirmasi penerimaan.
+5. S﻿elanjutnya, jika DP sudah dibayarkan oleh pelanggan dan status pesanan sudah berubah menjadi Partial_Paid, Anda sudah bisa langsung buat tagihan untuk pembayaran ke dua ( tempo ).
+
+   \-﻿ Klik buat tagihan > pilih metode pembayaran **Hutang** > pilih tempo yang telah di sediakan atau Anda bisa tentukan tanggal sendiri dengan cara klik gambar kalender di kolom tsb > kemudian buat tagihan.
+
+   ![](/img/17.2.1-buat-tagihan-tempo.png)
+6. B﻿arang pesanan sudah bisa Anda proses kirim dengan catatan Anda sudah menerima pembayaran DP dan sudah membuat tagihan tempo. 
+
+
+
+
+
+#### 1﻿7.2.2 Pelanggan melakukan pembelian barang dengan limit hutang kurang dari jumlah nominal belanja.
