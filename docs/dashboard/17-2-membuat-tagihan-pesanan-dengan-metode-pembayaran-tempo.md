@@ -2,7 +2,11 @@
 title: 17.2 Membuat Tagihan Pesanan dengan Metode Pembayaran Tempo
 sidebar_label: 17.2 Membuat Tagihan Pesanan dengan Metode Pembayaran Tempo
 ---
-Pembayaran Tempo ini akan bisa digunakan jika pelanggan Anda sudah menentukan Limit Hutangnya yang nantinya akan Anda masukan limit tersebut di menu pelanggan pada kolom **Limit Hutang**
+L﻿angkah pertama untuk penggunaan pembayaran tempo adalah: 
+
+1. P﻿elanggan harus menentukan limit hutang yang ingin digunakan.
+2. M﻿asukan limit hutang di menu pelanggan ( lihat [disini](https://onee.netlify.app/dashboard/menambahkan-pelanggan-baru-manual/) ).
+3. L﻿imit hutang yang nominalnya kecil tidak bisa digunakan untuk pesanan yang jumlahnya besar.
 
 Nominal limit hutang pelanggan tidak akan berubah o﻿tomatis, karena sifatnya input manual, yang bisa berubah hanya kolom **Total Hutang saat ini**, kolom ini bisa bertambah dan berkurang secara otomatis ketika pelanggan sudah menggunakannya.
 
@@ -23,10 +27,4 @@ B﻿erikut dibawah ini contoh beberapa case:
    \-﻿ Klik buat tagihan > pilih metode pembayaran **Hutang** > pilih tempo yang telah di sediakan atau Anda bisa tentukan tanggal sendiri dengan cara klik gambar kalender di kolom tsb > kemudian buat tagihan.
 
    ![](/img/17.2.1-buat-tagihan-tempo.png)
-6. B﻿arang pesanan sudah bisa Anda proses kirim dengan catatan Anda sudah menerima pembayaran DP dan sudah membuat tagihan tempo. 
-
-
-
-
-
-#### 1﻿7.2.2 Pelanggan melakukan pembelian barang dengan limit hutang kurang dari jumlah nominal belanja.
+6. B﻿arang pesanan sudah bisa Anda proses kirim dengan catatan Anda sudah menerima pembayaran DP dan sudah membuat tagihan tempo.
