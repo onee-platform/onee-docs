@@ -8,10 +8,12 @@ Nominal limit hutang pelanggan tidak akan berubah o﻿tomatis, karena sifatnya i
 
 B﻿erikut dibawah ini contoh beberapa case: 
 
-#### 1﻿7.2.1 Pelanggan melakukan pembelian barang dengan cara DP dan juga Tempo dengan Limit Hutang Rp. 5.000.000,- 
+#### 1﻿7.2.1 Pelanggan melakukan pembelian barang dengan cara DP dan juga Tempo dengan Limit Hutang Rp. 5.000.000,-
 
 1. L﻿angkah awal, Anda buat pesanan seperti biasa > kemudian Buat Pesanan > lalu Buat Tagihan.
 
    ![](/img/17.2.1-buat-tagihan-dengan-dp-dan-tempo.png)
-2. Pada pembayaran pertama, Anda tentukan DP
+2. Pada pembayaran pertama, Anda bisa memilih berapa persen untuk DP atau Anda juga bisa ketik manual di kolom jumlah pembayaran / tagihan yang akan di buat, kemudian pilih metode pembayarannya > buat tagihan.
+
+   ![](/img/17.2.1-pilih-dp.png)
 3.
