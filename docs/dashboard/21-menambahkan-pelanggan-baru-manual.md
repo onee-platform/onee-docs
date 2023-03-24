@@ -38,11 +38,13 @@ Cara menambahkan pelanggan baru secara manual:
 
    ![](/img/21.-menambahkan-pelanggan-manual-update-.png)
 
-   K﻿etika data pelanggan telah di simpan, maka akan muncul field - field seperti:
+   K﻿etika data pelanggan telah di simpan, maka akan muncul field - field seperti di bawah ini:
 
    \-﻿ Reputasi: field ini berlaku untuk live shopping, field ini akan berkurang otomatis, jika pelanggan tersebut membatalkan booking pesanan. 
 
-   \-﻿ Limit Hutang: Besaran hutang yang dapat di berikan untuk pelanggan ini.
+   \-﻿ Limit Hutang: Nominal yang di masukan pada kolom ini adalah nominal yang telah di sepakati dan di setujui oleh Pelanggan Anda.
+
+   \-﻿ Total Hutang saat ini: Totalan hutang ini akan otomatis bertambah jika pelanggan menggunakan pembayaran tempo, dan akan otomatis berkurang jika hutang / pembayaran tempo sebelumnya telah dilunaskan.
 
    \-﻿ Points Rewards: Menampilkan point pelanggan ( Deposit )
 
