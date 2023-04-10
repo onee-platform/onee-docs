@@ -25,8 +25,10 @@ B﻿erikut penjelasan dan tutorial bagaimana cara untuk menghubungkan Tokopedia 
    * F﻿ixed: isi dengan angka tetap, contoh: 5000
    * P﻿ercentage: isi dengan angka, contoh 5 ( tanpa simbol persen )
    * M﻿argin_Percentage: isi dengan angka, contoh 10 ( tanpa simbol persen ).
-   * G﻿udang Pengiriman: pilih gudang atau cabang untuk pengiriman.
-   * **S﻿UBMIT**. ( direct ke menu integrasi > aplikasi )
+
+   \-﻿ G﻿udang Pengiriman: pilih gudang atau cabang untuk pengiriman.
+
+\- **S﻿UBMIT**. ( direct ke menu integrasi > aplikasi )
 
 **\*﻿\***Keterangan ( Contoh Perhitungan ):
 
