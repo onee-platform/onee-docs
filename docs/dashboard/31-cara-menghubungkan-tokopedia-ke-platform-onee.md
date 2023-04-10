@@ -82,3 +82,23 @@ B﻿erikut penjelasan dan tutorial bagaimana cara untuk menghubungkan Tokopedia 
       97.000 + (( 100.000 * 1/0.9 ) - 100.000 ) = 11.111
 
       9﻿7.000 + 11.111 = 108.111
+
+\    3. Tampilan ketika telah di submit.
+
+![](/img/31.-tampilan-ketika-telah-di-submit-tambah-channel.png)
+
+P﻿ada tampilan ini Anda diminta untuk Accept di email yang terdaftar di tokopedia.
+
+\    4. Buka email Anda, kemudian klik Accept.
+
+![](/img/31.-isi-pesan-email-untuk-accept.png)
+
+A﻿nda juga bisa menyetujui / accept melalui tokopedia Anda. Dengan cara:
+
+1﻿. Anda login ke tokopedia Anda
+
+2﻿. Kemudian, buka Tokopedia Seller
+
+3﻿. Scroll ke bawah ke menu Pengaturan, lalu klik Aplikasi Pihak Ketiga.
+
+4﻿. Klik tab Menunggu Persetujuan, dan klik untuk menyetujuinya.
