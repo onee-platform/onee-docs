@@ -116,7 +116,7 @@ P﻿ada tampilan ini Anda diminta untuk Accept di email yang terdaftar di tokope
 
 
 
-#### 3﻿1.3 Import dan Export Produk.
+#### 3﻿1.3 Import Produk.
 
 1. B﻿uka menu Channel Penjualan > Manajemen Produk. 
 
@@ -127,3 +127,15 @@ P﻿ada tampilan ini Anda diminta untuk Accept di email yang terdaftar di tokope
 
    ![](/img/31.3-pop-up-import-produk.png)
 3. J﻿ika sudah sukses import produk, maka produk sudah langsung akan berpindah ke tab Terhubung.
+
+
+
+#### 3﻿1.4 Export Produk.
+
+1. T﻿ab Upload Produk.
+
+   ![](/img/31.3-export-produk.png)
+
+   U﻿ntuk export atau upload produk terdapat 2 cara. Yang pertama, Anda bisa pilih export produk dengan excel, kemudian excel tersebut di upload ke dalam tokopedia Anda. 
+
+   D﻿an yang kedua, Anda bisa klik upload produk. Untuk ini Anda hanya perlu klik 1x kemudian tunggu hingga produk selesai di export.
