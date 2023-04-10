@@ -4,6 +4,8 @@ sidebar_label: 31. Cara Menghubungkan Tokopedia ke Platform ONEE
 ---
 B﻿erikut penjelasan dan tutorial bagaimana cara untuk menghubungkan Tokopedia Anda ke dalam dashboard Onee. 
 
+#### 3﻿1.1 Menambahkan Channel Penjualan
+
 1. T﻿ambahkan channel penjualan di dalam dashboard Onee.
 2. P﻿ilih menu Channel Penjualan > klik Semua Channel > klik tombol tambah.
 
@@ -89,17 +91,36 @@ B﻿erikut penjelasan dan tutorial bagaimana cara untuk menghubungkan Tokopedia 
 
 P﻿ada tampilan ini Anda diminta untuk Accept di email yang terdaftar di tokopedia.
 
-\    4. Buka email Anda, kemudian klik Accept.
 
-![](/img/31.-isi-pesan-email-untuk-accept.png)
 
-A﻿nda juga bisa menyetujui / accept melalui tokopedia Anda. Dengan cara:
+#### 3﻿1.2 Accept dan pilih Jenis Akses
 
-* Anda login ke tokopedia Anda
-* Kemudian, buka Tokopedia SellerScroll ke bawah ke menu Pengaturan, lalu klik Aplikasi Pihak Ketiga.
-* Scroll ke bawah ke menu Pengaturan, lalu klik Aplikasi Pihak Ketiga.
-* Klik tab Menunggu Persetujuan, dan klik Terima.
+1. Buka email Anda, kemudian klik Accept.
 
-![](/img/31.-terima-or-accept-dari-tokopedia.png)
+   ![](/img/31.-isi-pesan-email-untuk-accept.png)
 
-5
+   A﻿nda juga bisa menyetujui / accept melalui tokopedia Anda. Dengan cara:
+
+   * Anda login ke tokopedia Anda
+   * Kemudian, buka Tokopedia SellerScroll ke bawah ke menu Pengaturan, lalu klik Aplikasi Pihak Ketiga.
+   * Scroll ke bawah ke menu Pengaturan, lalu klik Aplikasi Pihak Ketiga.
+   * Klik tab Menunggu Persetujuan, dan klik Terima.
+
+     ![](/img/31.-terima-or-accept-dari-tokopedia.png)
+2. K﻿emudian centang semua akses di tokopedia > aplikasi pihak ketiga > di bagian jenis akses.
+
+   ![](/img/31.2-centang-semua-jenis-akses.png)
+3. Jika sudah di centang semua aksesnya, maka di menu Integrasi > Aplikasi, channel tersebut berubah warna menjadi warna hijau.
+
+   ![](/img/31.2-integrasi-aplikasi-sdh-berwarna-hijau.png)
+
+
+
+#### 3﻿1.3 Import dan Export Produk.
+
+1. B﻿uka menu Channel Penjualan > Manajemen Produk. 
+
+   T﻿ab Import Produk: menampilkan semua produk yang ada di tokopedia, untuk di import ke dalam dashboard Onee.
+2. C﻿entang produk yang ingin di import, kemudian klik Import Produk.
+
+   ![](/img/31.3-import-produk.png)
