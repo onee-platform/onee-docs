@@ -70,4 +70,11 @@ B﻿erikut penjelasan dan tutorial bagaimana cara untuk menghubungkan Tokopedia 
        ﻿   20.000 + 4.222 = 24.222
   * S﻿imulasi III dengan contoh Produk C: 
 
-    * F﻿LAT_PRICE: 97.000
+    * **F﻿LAT_PRICE**: 97.000
+    * **F﻿IXED**: 97.000 + 5.000= 102.000
+    * **P﻿ERCENTAGE**: 100.000 - ((3%-5%) * 100.000 ) = 102.000
+    * **M﻿ARGIN_PERCENTAGE**: 108.111
+
+      97.000 + (( 100.000 * 1/0.9 ) - 100.000 ) = 11.111
+
+      9﻿7.000 + 11.111 = 108.111
