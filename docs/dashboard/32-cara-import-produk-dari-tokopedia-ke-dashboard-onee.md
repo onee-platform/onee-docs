@@ -13,3 +13,5 @@ Berikut cara untuk import produk dari Tokopedia ke system Onee.
 
    ![](/img/31.3-pop-up-import-produk.png)
 3. J﻿ika sudah sukses import produk, maka produk akan langsung berpindah ke tab Terhubung.
+
+   ![](/img/32.-import-produk-tab-terhubung.png)
