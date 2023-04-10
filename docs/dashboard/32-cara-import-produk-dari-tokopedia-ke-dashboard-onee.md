@@ -1,6 +1,6 @@
 ---
-title: 32. CARA IMPORT PRODUK DARI TOKOPEDIA KE DASHBOARD ONEE
-sidebar_label: 32. CARA IMPORT PRODUK DARI TOKOPEDIA KE DASHBOARD ONEE
+title: 32. Cara Import Produk dari Tokopedia ke Sistem Onee
+sidebar_label: 32. Cara Import Produk dari Tokopedia ke Sistem Onee
 ---
 Berikut cara untuk import produk dari Tokopedia ke system Onee.
 
@@ -10,3 +10,6 @@ Berikut cara untuk import produk dari Tokopedia ke system Onee.
 2. C﻿entang produk yang ingin di import, kemudian klik Import Produk.
 
    ![](/img/31.3-import-produk.png)
+
+   ![](/img/31.3-pop-up-import-produk.png)
+3. J﻿ika sudah sukses import produk, maka produk akan langsung berpindah ke tab Terhubung.
