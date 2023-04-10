@@ -111,13 +111,3 @@ P﻿ada tampilan ini Anda diminta untuk Accept di email yang terdaftar di tokope
 3. Jika sudah di centang semua aksesnya, maka di menu Integrasi > Aplikasi, channel tersebut berubah warna menjadi warna hijau yang artinya telah berhasil terhubung.
 
    ![](/img/31.2-integrasi-aplikasi-sdh-berwarna-hijau.png)
-
-#### 3﻿1.4 Export Produk.
-
-1. T﻿ab Upload Produk.
-
-   ![](/img/31.3-export-produk.png)
-
-   U﻿ntuk export atau upload produk terdapat 2 cara. Yang pertama, Anda bisa pilih export produk dengan excel, kemudian excel tersebut di upload ke dalam tokopedia Anda. 
-
-   D﻿an yang kedua, Anda bisa klik upload produk. Untuk ini Anda hanya perlu klik 1x kemudian tunggu hingga produk selesai di export.
