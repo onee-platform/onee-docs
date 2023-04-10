@@ -101,4 +101,6 @@ A﻿nda juga bisa menyetujui / accept melalui tokopedia Anda. Dengan cara:
 
 3﻿. Scroll ke bawah ke menu Pengaturan, lalu klik Aplikasi Pihak Ketiga.
 
-4﻿. Klik tab Menunggu Persetujuan, dan klik untuk menyetujuinya.
+4﻿. Klik tab Menunggu Persetujuan, dan klik Terima.
+
+![](/img/31.-terima-or-accept-dari-tokopedia.png)
