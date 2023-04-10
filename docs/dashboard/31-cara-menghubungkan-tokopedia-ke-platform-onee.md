@@ -108,21 +108,9 @@ P﻿ada tampilan ini Anda diminta untuk Accept di email yang terdaftar di tokope
 2. K﻿emudian centang semua akses di tokopedia > aplikasi pihak ketiga > di bagian jenis akses.
 
    ![](/img/31.2-centang-semua-jenis-akses.png)
-3. Jika sudah di centang semua aksesnya, maka di menu Integrasi > Aplikasi, channel tersebut berubah warna menjadi warna hijau.
+3. Jika sudah di centang semua aksesnya, maka di menu Integrasi > Aplikasi, channel tersebut berubah warna menjadi warna hijau yang artinya telah berhasil terhubung.
 
    ![](/img/31.2-integrasi-aplikasi-sdh-berwarna-hijau.png)
-
-#### 3﻿1.3 Import Produk.
-
-1. B﻿uka menu Channel Penjualan > Manajemen Produk. 
-
-   T﻿ab Import Produk: menampilkan semua produk yang ada di tokopedia, untuk di import ke dalam dashboard Onee.
-2. C﻿entang produk yang ingin di import, kemudian klik Import Produk.
-
-   ![](/img/31.3-import-produk.png)
-
-   ![](/img/31.3-pop-up-import-produk.png)
-3. J﻿ika sudah sukses import produk, maka produk sudah langsung akan berpindah ke tab Terhubung.
 
 #### 3﻿1.4 Export Produk.
 
