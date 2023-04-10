@@ -124,3 +124,6 @@ P﻿ada tampilan ini Anda diminta untuk Accept di email yang terdaftar di tokope
 2. C﻿entang produk yang ingin di import, kemudian klik Import Produk.
 
    ![](/img/31.3-import-produk.png)
+
+   ![](/img/31.3-pop-up-import-produk.png)
+3. J﻿ika sudah sukses import produk, maka produk sudah langsung akan berpindah ke tab Terhubung.
