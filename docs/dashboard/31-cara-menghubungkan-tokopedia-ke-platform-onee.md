@@ -91,8 +91,6 @@ B﻿erikut penjelasan dan tutorial bagaimana cara untuk menghubungkan Tokopedia 
 
 P﻿ada tampilan ini Anda diminta untuk Accept di email yang terdaftar di tokopedia.
 
-
-
 #### 3﻿1.2 Accept dan pilih Jenis Akses
 
 1. Buka email Anda, kemudian klik Accept.
@@ -114,8 +112,6 @@ P﻿ada tampilan ini Anda diminta untuk Accept di email yang terdaftar di tokope
 
    ![](/img/31.2-integrasi-aplikasi-sdh-berwarna-hijau.png)
 
-
-
 #### 3﻿1.3 Import Produk.
 
 1. B﻿uka menu Channel Penjualan > Manajemen Produk. 
@@ -127,8 +123,6 @@ P﻿ada tampilan ini Anda diminta untuk Accept di email yang terdaftar di tokope
 
    ![](/img/31.3-pop-up-import-produk.png)
 3. J﻿ika sudah sukses import produk, maka produk sudah langsung akan berpindah ke tab Terhubung.
-
-
 
 #### 3﻿1.4 Export Produk.
 
