@@ -48,4 +48,4 @@ B﻿erikut penjelasan dan tutorial bagaimana cara untuk menghubungkan Tokopedia 
     \    Produk B = 38.000 => **21.899** ( diskon 42.37% )
 
     \    Produk C = 100.000 - ((3% - 5%)*100.000) => **102.000**
-  * J﻿enis**PERCENTAGE MARGIN**:
+  * **PERCENTAGE MARGIN**:
