@@ -23,26 +23,29 @@ B﻿erikut penjelasan dan tutorial bagaimana cara untuk menghubungkan Tokopedia 
 
    \- Gudang Pengiriman: pilih gudang atau cabang Anda untuk pengiriman. 
 
-
-
 **\*﻿\***Keterangan: 
 
 * Jenis - Jenis Markup:
 
-  c﻿ontoh, Anda memiliki 3 produk:
+  c﻿ontoh, Anda memiliki beberapa produk sebagai berikut:
 
-  1﻿. Produk A= 15.000
+  1﻿.  Produk A= 15.000
 
-  2﻿. Produk B= 38.000 diskon 47,37% => 20.000 ( harga diskon )
+  2﻿. Produk B= 38.000 diskon 47.37% => 20.000
 
   3﻿. Produk C= 100.000 diskon 3% => 97.000
 
   * J﻿enis **F﻿LAT_PRICE**: Besar markup cukup di isi dengan angka 0, karena harga produk sama ( tidak ada markup ).
 
-    \- P﻿roduk A tetap di angka 15.000, produk B tetap di angka 20.000 dst.
-  * J﻿enis **FIXED**: angka yang harus di isi pada kolom Besar Markup yaitu dengan angka yang fixed contoh: 5.000 
+    \- P﻿roduk A tetap di angka 15.000 dst.
+  * J﻿enis **FIXED**: angka yang harus di isi pada kolom Besar Markup yaitu dengan angka yang fixed contoh: 5.000
 
-    \- Harga produk menjadi: Produk A => 20.000, Produk B => 25.000, dst. Jadi setiap produk harganya akan di markup sebesar 5.000.
+    \- Harga produk menjadi: Produk A = 20.000 dst. ( setiap barang harganya akan naik 5.000 )
   * J﻿enis **PERCENTAGE**: untuk isi di kolom Besar Markup cukup diisi dengan angka, contoh: 5 ( tidak perlu disertakan dengan simbol persen ).
 
-    \- Harga produk menjadi: Produk A => 20.000 x 105%
+    \- Harga produk menjadi: Produk A = 20.000*105% = **21.000**
+
+    \    Produk B = 38.000 => **21.899** ( diskon 42.37% )
+
+    \    Produk C = 100.000 - ((3% - 5%)*100.000) => **102.000**
+  * J﻿enis**PERCENTAGE MARGIN**:
