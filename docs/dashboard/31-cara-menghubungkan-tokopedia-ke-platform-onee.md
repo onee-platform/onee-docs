@@ -108,6 +108,6 @@ P﻿ada tampilan ini Anda diminta untuk Accept di email yang terdaftar di tokope
 2. K﻿emudian centang semua akses di tokopedia > aplikasi pihak ketiga > di bagian jenis akses.
 
    ![](/img/31.2-centang-semua-jenis-akses.png)
-3. Jika sudah di centang semua aksesnya, maka di menu Integrasi > Aplikasi, channel tersebut berubah warna menjadi warna hijau yang artinya telah berhasil terhubung.
+3. Jika sudah di centang semua aksesnya, maka di menu Integrasi > Aplikasi, channel tersebut berubah warna menjadi warna hijau yang artinya telah berhasil terhubung dan selesai.
 
    ![](/img/31.2-integrasi-aplikasi-sdh-berwarna-hijau.png)
