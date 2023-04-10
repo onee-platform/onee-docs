@@ -95,12 +95,11 @@ P﻿ada tampilan ini Anda diminta untuk Accept di email yang terdaftar di tokope
 
 A﻿nda juga bisa menyetujui / accept melalui tokopedia Anda. Dengan cara:
 
-1﻿. Anda login ke tokopedia Anda
-
-2﻿. Kemudian, buka Tokopedia Seller
-
-3﻿. Scroll ke bawah ke menu Pengaturan, lalu klik Aplikasi Pihak Ketiga.
-
-4﻿. Klik tab Menunggu Persetujuan, dan klik Terima.
+* Anda login ke tokopedia Anda
+* Kemudian, buka Tokopedia SellerScroll ke bawah ke menu Pengaturan, lalu klik Aplikasi Pihak Ketiga.
+* Scroll ke bawah ke menu Pengaturan, lalu klik Aplikasi Pihak Ketiga.
+* Klik tab Menunggu Persetujuan, dan klik Terima.
 
 ![](/img/31.-terima-or-accept-dari-tokopedia.png)
+
+5
