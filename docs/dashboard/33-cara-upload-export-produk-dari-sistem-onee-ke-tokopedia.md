@@ -9,16 +9,20 @@ B﻿erikut di bawah ini cara untuk upload / export produk.
 
    ![](/img/31.3-export-produk.png)
 
-   U﻿ntuk export atau upload produk terdapat 2 cara. 
+   U﻿pload produk bisa dilakukan dengan 2 cara: 
 
-   \- Yang pertama, Anda bisa pilih export produk dengan klik Download Excel. 
+   * Y﻿ang pertama, Anda bisa menggunakan excel untuk upload produk.
 
-   \-﻿ Lalu, sebelum Anda upload excelnya ke dalam daftar produk tokopedia, Anda harus download template excel yang dari tokopedia terlebih dahulu. 
+     U﻿pload dengan excel bertujuan untuk agar Anda bisa memilih produk mana saja yang ingin Anda upload ke Tokopedia.
 
-   ![](/img/atur-produk-sekaligus-tokopedia.png)
+     B﻿erikut Cara upload menggunakan Excel: 
 
-   \-﻿ Kemudian, Anda copy isi dari excel yang telah di download di sistem Onee. (Copy dari bari 4 - produk akhir).
+     * Pertama, download template excel dari Tokopedia.
 
-   \-﻿ Lalu paste ke excel yang telah di download dari Tokopedia, kemudian simpan dan upload. 
+       ![](/img/33.-download-template-excel-tokopedia.jpeg)
+     * K﻿emudian hasil download excel langsung di upload ke dalam sistem Onee dengan cara:
 
-   \-﻿ D﻿an yang kedua, Anda bisa klik upload produk. Untuk ini Anda hanya perlu klik 1x kemudian tunggu hingga produk selesai di export.
+       \-﻿ klik bagian Download Excel > Export Produk > upload template excel Tokopedia > lalu klik Generate File Tokopedia.
+
+       ![](/img/33.-export-produk-dgn-excel.png)
+     * J﻿ika sudah di generate, maka Anda bisa download
