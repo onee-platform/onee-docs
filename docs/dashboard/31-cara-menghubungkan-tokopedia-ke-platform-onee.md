@@ -61,13 +61,13 @@ B﻿erikut penjelasan dan tutorial bagaimana cara untuk menghubungkan Tokopedia 
 
       u﻿ntuk margin_percentage di cari terlebih dahulu perhitungan nilai sebelum promo, contoh:
 
-      1. Hitung Harga tanpa promo: 
+      a. Hitung Harga tanpa promo: 
 
        ﻿  38.000 * 1/(100-10) / 100
 
        ﻿  38.000 * 1/0.9 = 38.000 / 0.9 = 42.222,22 ( angka tanpa promo )
 
-      2﻿. Hitung harga yang sudah promo yaitu 20.000: 
+      b. Hitung harga yang sudah promo yaitu 20.000: 
 
        ﻿   Rumus: nilai promo + ( Tanpa Promo - Harga Normal )
 
