@@ -8,9 +8,9 @@ sidebar_label: 17. Membuat Tagihan Pesanan
 2. Tampilan detail pesanan > klik tombol Buat Tagihan.
 
    ![](/img/17.-membuat-tagihan-pesanan_buat-tagihan_update.png)
-3. M﻿enggunakan metode Bank Transfer.
+3. M﻿enggunakan metode Bank Transfer ( pembayaran full 100% ).
 
-   ![](/img/17.2-buat-tagihan-metode-bank-transfer.png)
+   ![](/img/17.-membuat-tagihan-pesanan_metode-trf-bank_update.png)
 
    ![](/img/17.2-buat-tagihan-tampilan-ketika-klik-buat-tagihan.png)
 
