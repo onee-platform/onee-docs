@@ -28,4 +28,4 @@ Status pembayaran dari pesanan ini:\
 **PARTIAL_PAID**: Pembayaran sudah diterima sebagian (DP / Menunggu sisa pembayaran).\
 **SETTLED**: Pembayaran untuk pesanan ini sudah diterima secara penuh.\
 **CANCELLED**: Pembayaran untuk pesanan ini dibatalkan.\
-**REFUNDED**: Pembayaran untuk pesanan ini dikembalikan sebagai saldo point.
+**REFUNDED**: Pembayaran untuk pesanan ini dikembalikan sebagai saldo poin.
