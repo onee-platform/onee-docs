@@ -4,10 +4,10 @@ sidebar_label: 17. Membuat Tagihan Pesanan
 ---
 1. P﻿ada menu Pesanan > Daftar Pesanan > Tab Semua Pesanan > klik pesanan yang ingin dibuat tagihan.
 
-   ![](/img/17.-status-pesanan-draft.png)
-2. Tampilan detail pesanan > klik *button* Buat Tagihan.
+   ![](/img/17.-membuat-tagihan-pesanan_list-depan-update-.png)
+2. Tampilan detail pesanan > klik tombol Buat Tagihan.
 
-   ![](/img/17.1-buat-tagihan-pesanan.png)
+   ![](/img/17.-membuat-tagihan-pesanan_buat-tagihan_update.png)
 3. M﻿enggunakan metode Bank Transfer.
 
    ![](/img/17.2-buat-tagihan-metode-bank-transfer.png)
