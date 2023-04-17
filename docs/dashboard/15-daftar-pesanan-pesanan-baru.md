@@ -26,8 +26,6 @@ B﻿erikut panduan untuk membuat pesanan baru:
 
    Ketika data pelanggan sudah diisi, maka akan otomatis muncul peta lokasi pada bagian informasi pengiriman. Isi nama Kelurahan / Kecamatan / Kode Pos, agar peta lokasi menyesuaikannya, dan Anda hanya perlu menggeser sedikit untuk menentukan lokasi yang pas, kemudian isikan alamat lengkap Anda pada kolom di bawahnya. 
 
-   *(**﻿) Kolom wajib diisi.
-
    ![](/img/15.-buat-pesanan_field-informasi-pembeli-pengiriman_update.png)
 4. C﻿ari Produk / Variasi Produk.
 
