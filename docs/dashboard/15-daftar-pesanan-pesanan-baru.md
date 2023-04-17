@@ -24,11 +24,11 @@ B﻿erikut panduan untuk membuat pesanan baru:
 
    P﻿ilih pelanggan, jika Anda sudah memiliki data pelanggan, dan pilih Non Pelanggan jika Anda belum memiliki data pelanggan atau buat pelanggan baru. Berikut di bawah ini contoh memilih **Non Pelanggan**.
 
-   K﻿etika data pelanggan sudah diisi, maka informasi pengiriman akan otomatis dimunculkan dan lanjutkan ke pengisian di Informasi Pengiriman jika pelanggan ingin dikirim menggunakan kurir atau pilih Diambil Sendiri jika pelanggan ingin *self pickup.*
+   Ketika data pelanggan sudah diisi, maka akan otomatis muncul peta lokasi pada bagian informasi pengiriman. Isi nama Kelurahan / Kecamatan / Kode Pos, agar peta lokasi menyesuaikannya, dan Anda hanya perlu menggeser sedikit untuk menentukan lokasi yang pas, kemudian isikan alamat lengkap Anda pada kolom di bawahnya. 
 
-   (﻿*) Kolom wajib diisi.
+   *(﻿*) Kolom wajib diisi.*
 
-   ![](/img/15.3-daftar-pesanan-isi-data-informasi-pembeli-dan-informasi-pengiriman.png)
+   ![](/img/15.-buat-pesanan_field-informasi-pembeli-pengiriman_update.png)
 4. C﻿ari Produk / Variasi Produk.
 
    \- Ketik dan pilih produk yang ingin dijual.
