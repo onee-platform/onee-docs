@@ -55,4 +55,7 @@ B﻿erikut panduan untuk membuat pesanan baru:
    ![](/img/15.6-daftar-pesanan-pilih-ekspedisi.png)
 
    A﻿nda juga bisa menambahkan opsi kurir pengiriman [di sini](https://onee.netlify.app/dashboard/integrasi-kurir-pengiriman) .
-6. L﻿angkah terakhir, jika semua field sudah terisi selanjutnya klik **Buat Pesanan.** Pesanan masih dalam status **DRAFT.**
+6. K﻿etik no referensi PO / no ref lainnya jika ada. No ref ini akan muncul di tampilan cetak tagihan ( invoice ).
+
+   ![](/img/15.-buat-pesanan-baris-note.png)
+7. L﻿angkah terakhir, jika semua field sudah terisi selanjutnya klik **Buat Pesanan***.* Dan Pesanan masih dalam status ***DRAFT**.*
