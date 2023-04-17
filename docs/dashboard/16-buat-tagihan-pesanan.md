@@ -12,7 +12,7 @@ sidebar_label: 17. Membuat Tagihan Pesanan
 
    ![](/img/17.-membuat-tagihan-pesanan_metode-trf-bank_update.png)
 
-
+K﻿et:
 
 \-﻿ Pembayaran Online: Pilih metode pembayaran yang digunakan pelanggan dan menunggu status pembayaran Paid.
 
