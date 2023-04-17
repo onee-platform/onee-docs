@@ -14,7 +14,7 @@ sidebar_label: 17. Membuat Tagihan Pesanan
 
 K﻿et:
 
-\-﻿ Pembayaran Online: Pilih metode pembayaran yang digunakan pelanggan dan menunggu status pembayaran Paid.
+\-﻿ Pembayaran Online: Pilih metode pembayaran yang ingin digunakan pelanggan dan hanya perlu menunggu hingga status pesanan berubah menjadi **PAID.**
 
 \-﻿ Bank Transfer: Pembayaran akan dilakukan oleh pembeli dengan cara transfer ke rekening bank yang terdaftar. Metode ini membutuhkan verifikasi manual ( pengecekan saldo mutasi bank ), dan perlu melakukan [konfirmasi penerimaan](https://onee.netlify.app/dashboard/17-1-konfirmasi-penerimaan-manual-bank-transfer) agar status pembayaran menjadi **PAID**. Anda juga bisa menambahkan daftar Bank Transfer [disini](https://onee.netlify.app/dashboard/rekening-bank).
 
