@@ -6,7 +6,7 @@ M﻿embuat ulasan pelanggan dengan cara manual.
 
 1. B﻿uka menu Ulasan Pelanggan | klik *button* Tambah, pilih ulasan dari member / non member.
 
-   ![](/img/23.-ulasan-pelanggan-member-.png)
+   ![](/img/23.-ulasan-pelanggan_member_update.png)
 
    ![](/img/23.-ulasan-pelanggan-non-member-.png)
 
