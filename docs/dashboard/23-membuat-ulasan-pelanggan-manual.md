@@ -25,7 +25,9 @@ M﻿embuat ulasan pelanggan dengan cara manual.
    \-﻿ Pilih Yes or No untuk reviewnya ditampilkan di website.
 
    \-﻿ Pilih Yes or No untuk highlight ulasan. 
-2. ![](/img/23.-tab-depan-ulasan-pelanggan.png)
+2. T﻿ab All, Pending dan Star
+
+   ![](/img/23.-tab-depan-ulasan-pelanggan.png)
 
    K﻿et:
 
