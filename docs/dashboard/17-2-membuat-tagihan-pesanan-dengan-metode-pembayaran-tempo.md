@@ -22,9 +22,9 @@ B﻿erikut dibawah ini contoh case:
    ![](/img/17.2.1-pilih-dp.png)
 3. K﻿etika sudah di buat tagihan, maka pelanggan akan menerima notif pesan whatsApp dari onee untuk melakukan pembayaran dengan status pesanan unpaid. Dan tunggu hingga pelanggan melakukan pembayaran.
 4. J﻿ika pelanggan sudah bayar, Anda bisa buka kembali pesanannya, kemudian klik tombol konfirmasi penerimaan.
-5. S﻿elanjutnya, jika DP sudah dibayarkan oleh pelanggan dan status pesanan sudah berubah menjadi Partial_Paid, Anda sudah bisa langsung buat tagihan untuk pembayaran ke dua ( tempo ).
+5. S﻿elanjutnya, jika DP sudah dibayarkan oleh pelanggan dan status pesanan sudah berubah menjadi Partial_Paid, Anda sudah bisa langsung buat tagihan untuk pembayaran ke dua ( tempo ). 
 
    \-﻿ Klik buat tagihan > pilih metode pembayaran **Hutang** > pilih tempo yang telah di sediakan atau Anda bisa tentukan tanggal sendiri dengan cara klik gambar kalender di kolom tsb > kemudian buat tagihan.
 
    ![](/img/17.2.1-buat-tagihan-tempo.png)
-6. B﻿arang pesanan sudah bisa Anda proses kirim dengan catatan Anda sudah menerima pembayaran DP dan sudah membuat tagihan tempo.
+6. K﻿etika Anda telah berhasil membuat tagihan tempo, maka status pesanan langsung di buat PAID, agar Anda bisa mengirimkan barang pesanan ke pelanggan, tetapi untuk status pembayarannya tetap di Partial_Paid, yang artinya pelanggan masih mempunyai hutang dan harus dilunasi sesuai dengan tempo yang telah di tentukan.
