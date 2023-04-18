@@ -22,4 +22,7 @@ M﻿embuat ulasan pelanggan dengan cara manual.
 
    \-﻿ Pilih rate bintang 1 - 5
 
-   \-﻿ Highlight ulasan Yes/No.
+   \-﻿ Pilih Yes or No untuk reviewnya ditampilkan di website.
+
+   \-﻿ Pilih Yes or No untuk highlight ulasan. 
+2.
