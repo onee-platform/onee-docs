@@ -8,9 +8,9 @@ M﻿embuat ulasan pelanggan dengan cara manual.
 
    ![](/img/23.-ulasan-pelanggan_member_update.png)
 
-   ![](/img/23.-ulasan-pelanggan-non-member-.png)
+   ![](/img/23.-ulasan-pelanggan_non-member_update.png)
 
-   \-﻿ Pilih member jika pelanggan sudah terdaftar atau non-member jika pelanggan baru / belum terdaftar.
+   \-﻿ Pilih member jika pelanggan sudah terdaftar atau non-member jika pelanggan belum terdaftar.
 
    \-﻿ ketik / cari nama pelanggan
 
