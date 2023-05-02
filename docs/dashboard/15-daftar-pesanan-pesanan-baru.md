@@ -24,7 +24,7 @@ B﻿erikut panduan untuk membuat pesanan baru:
 
    P﻿ilih pelanggan, jika Anda sudah memiliki data pelanggan, dan pilih Non Pelanggan jika Anda belum memiliki data pelanggan atau buat pelanggan baru. Berikut di bawah ini contoh memilih **Non Pelanggan**.
 
-   Ketika data pelanggan sudah diisi, maka akan otomatis muncul peta lokasi pada bagian informasi pengiriman. Isi nama Kelurahan / Kecamatan / Kode Pos, agar peta lokasi menyesuaikannya, dan Anda hanya perlu menggeser sedikit untuk menentukan lokasi yang pas, kemudian isikan alamat lengkap Anda pada kolom di bawahnya. 
+   Ketika data pelanggan sudah diisi, maka akan otomatis muncul peta lokasi pada bagian informasi pengiriman.  Pastikan komputer / laptop Anda sudah terhubung dengan WI-FI agar peta bisa menyesuaikan lokasi Anda.
 
    ![](/img/15.-buat-pesanan_field-informasi-pembeli-pengiriman_update.png)
 4. C﻿ari Produk / Variasi Produk.
