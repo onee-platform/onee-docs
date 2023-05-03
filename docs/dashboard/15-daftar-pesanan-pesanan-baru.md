@@ -76,7 +76,7 @@ B﻿erikut panduan untuk membuat pesanan baru:
    * P﻿ilih Kurir Pengiriman
 
      A﻿nda juga bisa menambahkan opsi kurir pengiriman [di sini](https://onee.netlify.app/dashboard/integrasi-kurir-pengiriman) .
-   * V﻿AT / PPN (11%): Jika pesanan ingin menggunakan PPN, maka kolom ini perlu di centang. 
+   * V﻿AT / PPN (11%)
 6. K﻿etik no referensi PO / no ref lainnya jika ada. No ref ini akan muncul di tampilan cetak tagihan ( invoice ).
 
    ![](/img/15.-buat-pesanan-baris-note.png)
