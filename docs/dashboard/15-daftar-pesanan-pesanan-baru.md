@@ -45,7 +45,7 @@ B﻿erikut panduan untuk membuat pesanan baru:
 
    4﻿.1 **Info:**
 
-   * Anda juga bisa membuat produk / pesanan secara manual dengan cara klik **\-Baris Pesanan Manual**, kemudian Anda masukan Nama Item, QTY, dan juga Harga, kemudian klik *button* **Tambahkan** untuk menambahkan item yang telah kita isi. 
+   * Anda juga bisa membuat produk / pesanan secara manual dengan cara klik **\-Baris Pesanan Manual**, kemudian Anda masukan Nama Item, QTY, dan juga Harga, kemudian klik tombol **+ADD** untuk menambahkan item yang telah kita isi.
 
      ![](/img/15.-buat-pesanan-baris-pesanan-or-produk-manual-.png)
 
