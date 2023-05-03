@@ -1,6 +1,6 @@
 ---
 title: 4.1 Check Columns
-sidebar_label: 4.1 Check Columns
+sidebar_label: 4.1 Check Columns - Menampilkan kolom yang ingin ditampilkan.
 ---
 D﻿i setiap menu selalu ada check / apply columns, jadi kolom yang ingin Anda tampilkan bisa Anda setting dengan cara sebagai berikut: 
 
