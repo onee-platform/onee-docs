@@ -2,12 +2,12 @@
 title: 8. Pengaturan Lainnya
 sidebar_label: 8. Pengaturan Lainnya
 ---
-1. **B﻿randing**
+1. **Tab B﻿randing** 
 
    a﻿. Logo Print Resi ( 200 x 100 ) px: Logo ini akan ditampilkan di cetak resi. Gambar harus diubah terlebih dahulu ke dalam bentuk link.
 
    b﻿. Logo E-mail ( 200 x 100 ) px: Logo ini akan ditampilkan ketika pelanggan menerima Email dari toko Anda. Gambar harus diubah terlebih dahulu kedalam bentuk link. 
-2. ﻿**Mengatur Pesanan.**
+2. ﻿**Tab Pesanan.**
 
    M﻿engatur pesanan sebelum memulai jualan. Atur semua field yang tersedia sesuai dengan SOP Anda.
 
@@ -35,24 +35,25 @@ sidebar_label: 8. Pengaturan Lainnya
 
    k﻿. Biaya Pengiriman Flat: Biaya pengiriman flat yang akan dikenakan, biasanya pengiriman dilakukan dengan menggunakan kurir sendiri yang masih dalam area jangkuan pengiriman. Biaya ini akan muncul pada saat Anda membuat pesanan ( pilih kurir - kurir sendiri ).
 
-   ![]()
-3. M﻿engatur Booking
+   ![](/img/8.-update_pengaturan-lainnya-tab-pesanan.png)
+3. **Tab Booking.** 
 
-   A﻿turan booking ini berlaku untuk berjualan live ( Live Shopping ). 
+   A﻿turan booking ini berlaku untuk berjualan live ( Live Shopping ).
 
    a. A﻿tur Booking Timeout untuk menyelesaikan pesanan, sebelum stock kembali dilepaskan ke publik ( dalam hitungan menit ).
 
-   b﻿. Pinalti Reputasi per Barang dibatalkan: dari 1 - 100, angka berapakah yang ingin diberikan untuk pelanggan yang membatalkan booking pesanan.
+   b. Pinalti Reputasi per Barang dibatalkan: dari 1 - 100, angka berapakah yang ingin diberikan untuk pelanggan yang membatalkan booking pesanan.
 
-   c﻿. Penambahan Reputasi per Barang berhasil dibayarkan: Reputasi untuk pelanggan dari angka 1 - 100, tidak bisa lebih dari 100. Misal, pelanggan sudah mencapai nilai Reputasi hingga 100, kemudian pelanggan melakukan booking pesanan kembali sampai ke tahap sukses pembayaran, maka reputasinya tetap 100.
+   c. Penambahan Reputasi per Barang berhasil dibayarkan: Reputasi untuk pelanggan dari angka 1 - 100, tidak bisa lebih dari 100. Misal, pelanggan sudah mencapai nilai Reputasi hingga 100, kemudian pelanggan melakukan booking pesanan kembali sampai ke tahap sukses pembayaran, maka reputasinya tetap 100.
 
-   ![](/img/8.-pengaturan-lainnya-booking.png)
-4. M﻿engatur Social Media. 
+![](/img/8.-pengaturan-lainnya-booking.png)
+
+1. M﻿engatur Social Media. 
 
    I﻿nput semua link social media yang ada.
 
    ![](/img/8.-pengaturan-lainnya-social-media.png)
-5. M﻿engatur Marketplace
+2. M﻿engatur Marketplace
 
    I﻿nput semua marketplace yang tersedia ( isi jika ada ).
 
