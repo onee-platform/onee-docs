@@ -27,7 +27,7 @@ sidebar_label: 8. Pengaturan Lainnya
 
    g﻿. Biaya Transaksi: Apabila di aktifkan maka pada saat pembuatan pesanan akan ditampilkan field Biaya Transaksi setelah Biaya Pengiriman. 
 
-   h﻿. Biaya Lain - Lain: Apabila di aktifkan maka pada saat pembuatan pesanan akan ditampilkan field Biaya Lain-lain setelah Biaya Pengiriman.
+   h﻿. Biaya Lain - Lain: Apabila di aktifkan maka pada saat pembuatan pesanan akan ditampilkan field Biaya Lain-lain setelah Biaya Pengiriman. Biaya lainnya seperti biaya packing / handling khusus / tip / jasa lainnya.
 
    i﻿. Checkout Normal Price: Apabila di aktifkan maka pada saat pembuatan pesanan, akan ada opsi berupa kolom checkbox yang memungkinkan untuk membuat pesanan dengan Harga Dasar barang. ( Field Harga Promo pada produk / sku yang ditambahkan akan diabaikan ), dan Anda dapat menambahkan diskon secara mandiri setelahnya.
 
