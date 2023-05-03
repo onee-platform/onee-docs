@@ -39,7 +39,7 @@ S﻿etelah berhasil Konfirmasi E-mail, maka langsung di arahkan untuk mengisi da
 
    6﻿. Kemudian Anda diminta untuk isi ulang halaman Informasi Usaha.
 
-   7﻿. Atur ulang lokasi Anda.
+   7﻿. Atur ulang lokasi pengiriman & penjemputan.
 
    8﻿. Selesai.
 3. S﻿impan.
