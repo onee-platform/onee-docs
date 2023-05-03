@@ -16,4 +16,4 @@ Lalu, Anda ingin menambahkan kolom Merek dan Nama Kategori, maka Anda bisa klik 
 
 M﻿enu Produk & Jasa Anda saat ini sudah menampilkan 7 kolom. 
 
-K﻿olom yang sudah Anda atur ( mengurangi / menambahkan kolom ) akan kembali ke pengaturan awal ( defaultnya ) jika Anda melakukan clear cache pada browser Anda atau jika Anda membuka dashboard onee di Incognito, maka semua kolom akan kembali ke defaultnya.
+**Note:** K﻿olom yang sudah Anda atur ( mengurangi / menambahkan kolom ) akan kembali ke pengaturan awal ( defaultnya ) jika Anda melakukan clear cache pada browser Anda atau jika Anda membuka dashboard onee di Incognito, maka semua kolom akan kembali ke defaultnya.
