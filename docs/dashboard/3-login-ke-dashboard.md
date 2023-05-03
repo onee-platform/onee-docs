@@ -18,4 +18,28 @@ S﻿etelah berhasil Konfirmasi E-mail, maka langsung di arahkan untuk mengisi da
    K﻿emudian, untuk isi kolom alamat lengkap, Anda hanya perlu klik **copy.**
 
    i﻿si patokan alamat ( jika di perlukan ) 
+
+   \>>﻿ Jika lambang lokasi Anda masih tercoret ( seperti gambar di bawah ).
+
+   ![](/img/3.-lokasi-yang-belum-diaktifkan.png)
+
+   m﻿aka Anda perlu untuk mengaktifkan lokasi tersebut pada settings browser. 
+
+   B﻿erikut caranya: 
+
+   1﻿. Klik gambar gembok di samping link.
+
+   2﻿. Pilih dan klik Site Settings
+
+   3﻿. Atur dan pilih Location menjadi Allow
+
+   4﻿. Atur dan pilih Pop-ups and redirects menjadi Allow
+
+   5﻿. Refresh halaman Lokasi Pengiriman & Penjemputan.
+
+   6﻿. Kemudian Anda diminta untuk isi ulang halaman Informasi Usaha.
+
+   7﻿. Atur ulang lokasi Anda.
+
+   8﻿. Selesai.
 3. S﻿impan.
