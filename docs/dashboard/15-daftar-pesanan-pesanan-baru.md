@@ -31,11 +31,11 @@ B﻿erikut panduan untuk membuat pesanan baru:
 
    \- Ketik dan pilih produk yang ingin dijual.
 
-   ![](/img/15.4-daftar-pesanan-input-produk-yang-ingin-dijual.png)
+   ![](/img/15.-update_cari-produk.png)
 
    \-﻿ Atur quantity stock, tombol (+) untuk menambahkan stok dan (-) untuk mengurangi jumlah stok.
 
-   ![](/img/15.5-daftar-pesanan-atur-qty-yg-ingin-dijual.png)
+   ![](/img/15.-atur-qty.png)
 
    K﻿eterangan stok : 
 
@@ -43,7 +43,7 @@ B﻿erikut panduan untuk membuat pesanan baru:
 
    \-﻿ Ready Stock: pada produk tersebut telah diatur untuk tidak menampilkan histori stock namun selalu tersedia untuk dijual.
 
-   4﻿.1 **FYI**
+   4﻿.1 **Info:**
 
    * Anda juga bisa membuat produk / pesanan secara manual dengan cara klik **\-Baris Pesanan Manual**, kemudian Anda masukan Nama Item, QTY, dan juga Harga, kemudian klik *button* **Tambahkan** untuk menambahkan item yang telah kita isi. 
 
