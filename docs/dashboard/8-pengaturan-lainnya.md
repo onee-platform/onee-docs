@@ -11,7 +11,7 @@ sidebar_label: 8. Pengaturan Lainnya
 
    M﻿engatur pesanan sebelum memulai jualan. Atur semua field yang tersedia sesuai dengan SOP Anda.
 
-   a﻿. PPN (%)
+   a﻿. PPN (%) : isi dengan nilai PPN saat ini ( 11% ), kosongkan ( 0 ) jika tidak ingin menggunakan PPN.
 
    b﻿.  Max Item Quantity: Jumlah maksimal per jenis item yang dapat di beli ( dalam satu pesanan ). Isi dengan 0 untuk tidak membatasi jumlah maksimal per item.
 
@@ -26,6 +26,16 @@ sidebar_label: 8. Pengaturan Lainnya
    f﻿. Allow Self Pickup: opsi akan dimunculkan ketika Anda membuat [Pesanan Baru](https://onee.netlify.app/dashboard/daftar-pesanan-pesanan-baru)
 
    g﻿. Biaya Transaksi: Apabila di aktifkan maka pada saat pembuatan pesanan akan ditampilkan field Biaya Transaksi setelah Biaya Pengiriman. 
+
+   h﻿. Biaya Lain - Lain: Apabila di aktifkan maka pada saat pembuatan pesanan akan ditampilkan field Biaya Lain-lain setelah Biaya Pengiriman.
+
+   i﻿. Checkout Normal Price: Apabila di aktifkan maka pada saat pembuatan pesanan, akan ada opsi berupa kolom checkbox yang memungkinkan untuk membuat pesanan dengan Harga Dasar barang. ( Field Harga Promo pada produk / sku yang ditambahkan akan diabaikan ), dan Anda dapat menambahkan diskon secara mandiri setelahnya.
+
+   j﻿. Multi Discount / Diskon Ganda: Apabila di aktifkan maka pada saat pembuatan pesanan, akan ada Field Diskon Tambahan yang ditampilkan. Field ini hanya akan tampil apabile field diskon (pertama) terisi.
+
+   k﻿. Biaya Pengiriman Flat: Biaya pengiriman flat yang akan dikenakan, biasanya pengiriman dilakukan dengan menggunakan kurir sendiri yang masih dalam area jangkuan pengiriman. Biaya ini akan muncul pada saat Anda membuat pesanan ( pilih kurir - kurir sendiri ).
+
+   ![]()
 3. M﻿engatur Booking
 
    A﻿turan booking ini berlaku untuk berjualan live ( Live Shopping ). 
