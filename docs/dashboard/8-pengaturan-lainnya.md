@@ -47,13 +47,13 @@ sidebar_label: 8. Pengaturan Lainnya
    c. Penambahan Reputasi per Barang berhasil dibayarkan: Reputasi untuk pelanggan dari angka 1 - 100, tidak bisa lebih dari 100. Misal, pelanggan sudah mencapai nilai Reputasi hingga 100, kemudian pelanggan melakukan booking pesanan kembali sampai ke tahap sukses pembayaran, maka reputasinya tetap 100.
 
    ![](/img/8.-pengaturan-lainnya-booking.png)
-4. M﻿engatur Social Media. 
+4. **Tab Social Media.**
 
-   I﻿nput semua link social media yang ada.
+   Masukan semua link social media ( jika ada ).
 
    ![](/img/8.-pengaturan-lainnya-social-media.png)
-5. M﻿engatur Marketplace
+5. **M﻿engatur Marketplace**
 
-   I﻿nput semua marketplace yang tersedia ( isi jika ada ).
+   Masukan semua link marketplace toko Anda ( jika ada ).
 
-   ![](/img/8.-pengaturan-lainnya-marketplace.png)
+   ![](/img/8.-update_pengaturan-lainnya-tab-marketplace.png)
