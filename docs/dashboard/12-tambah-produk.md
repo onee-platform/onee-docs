@@ -16,15 +16,17 @@ sidebar_label: 12. Tambah Produk
 
    f. N﻿o Urut Produk: Hanya bisa diisi dengan angka tidak bisa di ketik huruf.
 
-   g. P﻿roduk Aktif / Ditampilkan: Flag Aktif - Non-Aktif.
+   g. P﻿roduk Aktif / Ditampilkan: Jika produk ini aktif dan ingin di tampilkan di website maka pilih Aktif.
 
-      L﻿ive Shopping Product: Jika live shopping ini di aktifkan, maka akan secara otomatis produk tersebut tidak aktif di website maupun di channel penjualan lainnya. Produk hanya aktif pada saat live.
+   h﻿. Allow Self Pickup: Jika produk ini bisa untuk self pickup maka pilih Yes.
 
-   h﻿. Gambar / Media: Klik untuk upload gambar.
+   i﻿. Pre-Order: Jika produk ini pre-order maka pilih Yes.
 
-   i﻿. Harga: Masukan harga produk, harga diskon, dan HPP.
+   j﻿. Gambar / Media: Klik untuk upload gambar.
 
-   ![](/img/12.-tambah-produk-input-produk.png)
+   k. Harga: Masukan harga produk, harga diskon, dan HPP.
+
+   ![](/img/12.-update-tambah-produk-baru.png)
 2. P﻿ickup & Pengiriman Produk. ( Informasi ini berlaku untuk keterangan dan perhitungan di ekspedisi ). 
 
    a﻿. Berat: Field ini hanya bisa diisi dengan angka tidak bisa diisi dengan huruf. ( yang dimaksud berat disini yaitu berat paketnya ). 
