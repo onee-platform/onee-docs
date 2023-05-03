@@ -52,11 +52,11 @@ B﻿erikut panduan untuk membuat pesanan baru:
      ![](/img/15.-baris-produk-manual.png)
 
      **Note**: Dari team Onee tetap menyarankan atau merekomendasikan Anda untuk tetap melakukan input produk & jasa terlebih dahulu pada menu Produk & Jasa, agar produk tersebut mempunyai historynya.
-   * A﻿nda juga bisa memberikan diskon produk di setiap barisnya, dengan cara klik nama produk tersebut.
+   * A﻿nda juga bisa memberikan diskon di setiap produknya, dengan cara klik di baris produk yang ingin Anda berikan diskon. 
 
      ![](/img/15.-tambahkan-diskon-produk-perbaris.png)
 
-     k﻿emudian, Anda masukkan diskon yang ingin Anda berikan > simpan.
+     k﻿emudian, Anda masukkan diskon yang ingin diberikan > simpan.
 5. S﻿etting Pesanan dan Pilih Kurir pengiriman.
 
    ![](/img/15.-buat-pesanan-setting-pesanan-pilih-kurir-pengiriman-_-ppn.png)
