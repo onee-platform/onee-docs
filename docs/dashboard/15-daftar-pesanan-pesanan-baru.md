@@ -49,7 +49,7 @@ B﻿erikut panduan untuk membuat pesanan baru:
 
      ![](/img/15.-buat-pesanan-baris-pesanan-or-produk-manual-.png)
 
-     ![](/img/15.-buat-pesanan-menambahkan-item-pesanan-or-produk-manual-.png)
+     ![](/img/15.-baris-produk-manual.png)
 
      **Note**: Dari team Onee tetap menyarankan atau merekomendasikan Anda untuk tetap melakukan input produk & jasa terlebih dahulu pada menu Produk & Jasa, agar produk tersebut mempunyai historynya.
    * A﻿nda juga bisa memberikan diskon produk di setiap barisnya, dengan cara klik nama produk tersebut.
