@@ -51,9 +51,11 @@ B﻿erikut penjelasan dan tutorial bagaimana cara untuk menghubungkan Tokopedia 
     * **F﻿LAT_PRICE**: 15.000
     * **F﻿IXED**: 15.000 + 5.000 = 20.000
     * **P﻿ERCENTAGE**: 15.000 + 105% = 15.750
-    * **M﻿ARGIN_PERCENTAGE**: 15.000 * 1/100 - 10% 
+    * **M﻿ARGIN_PERCENTAGE**: 16.666
 
-      \= 15.000 * 1/90%= 16.666
+      15.000 * 1/100 - 10% 
+
+      15.000 * 1/90%= 16.666
   * S﻿imulasi II dengan contoh Produk B:
 
     * **F﻿LAT_PRICE**: 20.000
