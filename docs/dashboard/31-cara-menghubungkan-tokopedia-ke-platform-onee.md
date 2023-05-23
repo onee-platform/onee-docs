@@ -88,8 +88,9 @@ B﻿erikut penjelasan dan tutorial bagaimana cara untuk menghubungkan Tokopedia 
       9﻿7.000 + 11.111 = 108.111
 
   ![](/img/31.-gambar-perhitungan-excel.png)
+* di bawah ini tampilan ketika Anda telah klik Submit. 
 
-
+  ![](/img/31.-tampilan-ketika-telah-di-submit-tambah-channel.png)
 
 P﻿ada tampilan ini Anda diminta untuk Accept di email yang terdaftar di tokopedia.
 
