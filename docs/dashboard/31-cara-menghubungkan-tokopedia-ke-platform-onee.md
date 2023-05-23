@@ -30,9 +30,11 @@ B﻿erikut penjelasan dan tutorial bagaimana cara untuk menghubungkan Tokopedia 
 
    \-﻿ G﻿udang Pengiriman: pilih gudang atau cabang untuk pengiriman.
 
-\- **S﻿UBMIT**. ( direct ke menu integrasi > aplikasi )
+\- Kemudian klik **S﻿UBMIT**. ( direct ke menu integrasi > aplikasi )
 
-**\*﻿\***Keterangan ( Contoh Perhitungan ):
+( B﻿erikut di bawah ini contoh perhitungan untuk Jenis Markup dan juga Besaran Markup ):
+
+**\*﻿\***Contoh & perhitungannya:
 
 * Jenis - Jenis Markup:
 
@@ -85,9 +87,9 @@ B﻿erikut penjelasan dan tutorial bagaimana cara untuk menghubungkan Tokopedia 
 
       9﻿7.000 + 11.111 = 108.111
 
-   3. Tampilan ketika telah di submit.
+  ![](/img/31.-gambar-perhitungan-excel.png)
 
-![](/img/31.-tampilan-ketika-telah-di-submit-tambah-channel.png)
+
 
 P﻿ada tampilan ini Anda diminta untuk Accept di email yang terdaftar di tokopedia.
 
