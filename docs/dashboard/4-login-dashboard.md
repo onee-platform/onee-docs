@@ -10,5 +10,5 @@ sidebar_label: 4. Login Dashboard
 2. K﻿emudian, masukan nomor telepon yang benar danterdaftar di WhatsApp untuk verifikasi satu langkah lagi. ( nomor ini tidak bisa diisi dengan asal ), lalu klik **Kirim OTP.**
 
    ![](/img/4.-satu-langkah-lagi-verifikasi-utk-login.png)
-3. K﻿ode OTP yang di dapatkan tidak boleh diberitahu kesiapapun termasuk ke staff ONEE.
-4. T﻿empel kode OTP, dan Anda sudah berhasil Login
+3. T﻿empel kode OTP, dan Anda sudah berhasil Login
+4. K﻿ode OTP yang di dapatkan tidak boleh diberitahu kesiapapun termasuk ke staff ONEE.
