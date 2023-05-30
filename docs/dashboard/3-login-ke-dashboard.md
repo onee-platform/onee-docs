@@ -7,6 +7,8 @@ S﻿etelah berhasil Konfirmasi E-mail, maka langsung di arahkan untuk mengisi da
 1. I﻿nformasi Usaha
 
    ![](/img/3.-informasi-usaha_update.png)
+
+   P﻿astikan nomor WA / Handphone yang Anda masukan valid, karena ini sangat berpengaruh untuk Anda menyesuaikan Lokasi.
 2. L﻿okasi Pengiriman & Penjemputan
 
    ![](/img/3.-update-lokasi-pengiriman-penjemputan.png)
