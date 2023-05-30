@@ -37,6 +37,11 @@ sidebar_label: 14. Inventori
    \-﻿ **Di-Alokasi**: menampilkan jumlah produk yang telah di pesan / di alokasikan. Jumlah yang ada di alokasi ini akan muncul ketika Anda membuat pesanan ( status **Draft** ) sampai pesanan status **Paid**.
 
    \-﻿ **Terjual**: menampilkan jumlah barang yang telah berhasil terkirim / di ambil oleh pembeli / kurir.
+4. E﻿dit Inventory
+
+   ![](/img/14.-edit-inventori.png)
+
+   A﻿nda juga bisa edit produk langsung di menu Inventory, dengan cara klik baris produk yang ingin Anda edit. Dan klik simpan jika sudah selesai edit produk. 
 
 **Waktu Checkout (CO):**
 
