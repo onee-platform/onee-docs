@@ -24,8 +24,12 @@ Pesanan akan langsung dianggap lunas dan dapat di proses untuk pengiriman / pick
 N﻿OTES: 
 
 Status pembayaran dari pesanan ini:\
-**PENDING**: Pembayaran belum diterima.\
-**PARTIAL_PAID**: Pembayaran sudah diterima sebagian (DP / Menunggu sisa pembayaran).\
-**SETTLED**: Pembayaran untuk pesanan ini sudah diterima secara penuh.\
-**CANCELLED**: Pembayaran untuk pesanan ini dibatalkan.\
+**PENDING**: Pembayaran belum diterima.
+
+**PARTIAL_PAID**: Pembayaran sudah diterima sebagian (DP / Menunggu sisa pembayaran).
+
+**SETTLED**: Pembayaran untuk pesanan ini sudah diterima secara penuh.
+
+**CANCELLED**: Pembayaran untuk pesanan ini dibatalkan.
+
 **REFUNDED**: Pembayaran untuk pesanan ini dikembalikan sebagai saldo poin.
