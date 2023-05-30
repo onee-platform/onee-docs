@@ -10,7 +10,7 @@ sidebar_label: 17. Membuat Tagihan Pesanan
    ![](/img/17.-membuat-tagihan-pesanan_buat-tagihan_update.png)
 3. M﻿enggunakan metode Bank Transfer ( pembayaran full 100% ).
 
-   ![](/img/17.-membuat-tagihan-pesanan_metode-trf-bank_update.png)
+   ![](/img/17.-membuat-tagihan-pesanan-metode-bank-transfer-update.png)
 
 K﻿et:
 
