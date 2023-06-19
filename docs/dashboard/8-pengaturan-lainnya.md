@@ -41,9 +41,9 @@ sidebar_label: 8. Pengaturan Lainnya
 
    **\*\*﻿Note: untuk point l dan m, bisa di taruh juga dalam bentuk HTML.** Syarat pembayaran dan ketentuan lainnya ini akan muncul di invoice.
 
-   ![](/img/8.-update_pengaturan-lainnya-tab-pesanan-2.png)
-
    ![](/img/8.-update_pengaturan-lainnya-tab-pesanan-bagian-syarat-ketentuan.jpeg)
+
+   ![](/img/8.-update_pengaturan-lainnya-tab-pesanan-2.png)
 3.
 4. **Tab Booking.** 
 
