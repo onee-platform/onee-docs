@@ -35,8 +35,17 @@ sidebar_label: 8. Pengaturan Lainnya
 
    k﻿. Biaya Pengiriman Flat: Biaya pengiriman flat yang akan dikenakan, biasanya pengiriman dilakukan dengan menggunakan kurir sendiri yang masih dalam area jangkuan pengiriman. Biaya ini akan muncul pada saat Anda membuat pesanan ( pilih kurir - kurir sendiri ).
 
-   ![](/img/8.-update_pengaturan-lainnya-tab-pesanan.png)
-3. **Tab Booking.** 
+   l﻿. Syarat Pembayaran dan Ketentuan Pembayaran: Anda bisa memasukan persyaratan pembayaran yang sesuai dengan SOP toko Anda.**\*\***
+
+   m﻿. Syarat dan Ketentuan Lainnya: Anda dapat memasukan persyaratan untuk setiap pesanan yang dibuat.**\*\***
+
+   **\*\*﻿Note: untuk point l dan m, bisa di taruh juga dalam bentuk HTML.** Syarat pembayaran dan ketentuan lainnya ini akan muncul di invoice.
+
+   ![](/img/8.-update_pengaturan-lainnya-tab-pesanan-2.png)
+
+   ![](/img/8.-update_pengaturan-lainnya-tab-pesanan-bagian-syarat-ketentuan.jpeg)
+3.
+4. **Tab Booking.** 
 
    A﻿turan booking ini berlaku untuk berjualan live ( Live Shopping ).
 
@@ -47,12 +56,12 @@ sidebar_label: 8. Pengaturan Lainnya
    c. Penambahan Reputasi per Barang berhasil dibayarkan: Reputasi untuk pelanggan dari angka 1 - 100, tidak bisa lebih dari 100. Misal, pelanggan sudah mencapai nilai Reputasi hingga 100, kemudian pelanggan melakukan booking pesanan kembali sampai ke tahap sukses pembayaran, maka reputasinya tetap 100.
 
    ![](/img/8.-pengaturan-lainnya-booking.png)
-4. **Tab Social Media.**
+5. **Tab Social Media.**
 
    Masukan semua link social media ( jika ada ).
 
    ![](/img/8.-pengaturan-lainnya-social-media.png)
-5. **M﻿engatur Marketplace**
+6. **M﻿engatur Marketplace**
 
    Masukan semua link marketplace toko Anda ( jika ada ).
 
