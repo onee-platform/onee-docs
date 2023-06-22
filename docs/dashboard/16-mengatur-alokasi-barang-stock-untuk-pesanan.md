@@ -2,7 +2,7 @@
 title: 16. Mengatur Alokasi Barang / Stock untuk pesanan
 sidebar_label: 16. Mengatur Alokasi Barang / Stock untuk pesanan
 ---
-S﻿ecara default barang yang memilik stock atau tersedia untuk dijual akan langsung otomatis teralokasi. 
+S﻿ecara default barang yang memiliki stock atau tersedia untuk dijual akan langsung otomatis teralokasi. 
 
 B﻿erikut langkah cara mengalokasikan barang / stock pesanan.
 
