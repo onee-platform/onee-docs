@@ -4,7 +4,7 @@ title: 34. Jenis Barang Yang Tidak Dapat Dikirimkan Menggunakan Layanan
 sidebar_label: 34. Jenis Barang Yang Tidak Dapat Dikirimkan Menggunakan Layanan
   Lalamove, Grab dan Gosend
 ---
-1. ### **K﻿etentuan Pengiriman Barang Menggunakan Lalamove:**
+1. ### **K﻿etentuan Pengiriman Barang Menggunakan LALAMOVE**
 
 Pengemudi yang berpartisipasi yang bertindak sebagai kontraktor independen dari Penyedia Layanan dapat mengirimkan makanan, minuman, barang dalam kemasan, paket surat, dll., kecuali yang menurut Penyedia Layanan tidak dapat dikirimkan dengan aman atau legal, termasuk, namun tidak terbatas pada hal-hal berikut ini:
 
@@ -33,3 +33,7 @@ B﻿arang yang tidak dapat dikirim:
 ●	Barang-barang yang membutuhkan wadah berpendingin;
 
 ●	Dan Barang-barang yang dikemas dengan buruk atau tanpa jaminan yang dianggap tidak dapat dikirim oleh Penyedia Layanan.
+
+
+
+1. ### **K﻿etentuan Pengiriman Barang Menggunakan GRAB:**
