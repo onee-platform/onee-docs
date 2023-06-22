@@ -52,3 +52,6 @@ sidebar_label: 34. Jenis Barang Yang Tidak Dapat Dikirimkan Menggunakan Layanan
    ● Barang cetakan, rekaman atau barang lainnya yang bertentangan dengan nilai kesusilaan dan dapat mengganggu stabilitas, keamanan dan ketertiban umum; atau
 
    ● Barang-barang yang dapat membahayakan Kurir saat proses pengiriman seperti bahan kimia yang bersifat mudah terbakar atau meledak, menimbulkan iritasi dan beracun pada tubuh manusia, cairan kimia korosif, bahan beracun dan barang berbahaya lainnya (Dangerous Goods) atau objek lainnya yang tergolong sebagai bahan berbahaya beracun (B3).
+
+
+3. ### **K﻿etentuan Penjemputan & Pengiriman Barang Menggunakan GOSEND:**
