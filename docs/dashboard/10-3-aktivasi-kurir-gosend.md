@@ -28,7 +28,7 @@ sidebar_label: 10.3 Aktivasi Kurir GoSend
 
      \-﻿ **Area Pengiriman**: Jadetabek, Bandung, Surabaya
 
-     \-﻿ **Waktu Pengambilan**: pada hari yang sama - pada umumnya paling lama 4 (empa) jam dari waktu pemesanan.
+     \-﻿ **Waktu Pengambilan**: pada hari yang sama - pada umumnya paling lama 4 (empat) jam dari waktu pemesanan.
 
      \-﻿ **Waktu Pengiriman**: Pada hari yang sama - pada umumnya paling lama 4 (empat) jam dari waktu pemesanan.
 
