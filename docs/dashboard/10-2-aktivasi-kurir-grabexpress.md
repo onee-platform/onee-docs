@@ -13,8 +13,10 @@ sidebar_label: 10.2 Aktivasi Kurir GrabExpress
 
    * J﻿am Layanan Customer:
 
-     \-﻿ Senin - Jumat: pukul 09:00 - 19:00 WIB
+     \-﻿ Batas waktu melakukan pemesanan kurir untuk melakukan penjemputan Barang adalah pukul 09.00 - 18.00 WIB.
 
-     \-﻿ Sabtu dan Minggu: pukul 09:00 – 17:00 WIB 
+     \- Dalam hal terdapat pemesanan Kurir dari Merchant melewati batas waktu tersebut, maka penjemputan dan pengiriman Barang akan diproses di hari berikutnya;
 
      \-﻿ Instant: Jasa antar jemput barang yang menjanjikan paket sampai maksimal dalam waktu 2 jam setelah pengirim meminta *pick up* (berlaku untuk pengiriman sebelum pukul 16:00 WIB).
+
+     \-﻿ maksimal berat Barang sebesar 15 (lima belas) kilogram dan maksimum volume barang 50cm x 50cm x 50cm.
