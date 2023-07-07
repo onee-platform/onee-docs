@@ -77,8 +77,6 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
        \-﻿ Lalamove beroperasi 24/7 sehingga kamu dapat melakukan pengiriman kapanpun kamu butuh. Lalamove berspesialisasi dalam pengiriman instan (*on-demand*), mencocokkan pengguna dengan driver terdekat hanya dalam hitungan detik. Gunakan aplikasi pengiriman kami untuk menangani semua pengiriman ekspres dan mendesak, kapan saja sepanjang hari.
    * U﻿ntuk penjelasan lebih lengkapnya, Anda bisa lihat [disini](https://www.lalamove.com/id/personal)
-
-
 3. #### **S﻿yarat dan Ketentuan:**
 
    ##### **3.1 K﻿etentuan Penjemputan & Pengiriman Barang Menggunakan LALAMOVE:**[​](https://onee.netlify.app/dashboard/jenis-barang-yang-tidak-dapat-dikirimkan-menggunakan-layanan-lalamove-grab-dan-gosend#ketentuan-penjemputan--pengiriman-barang-menggunakan-lalamove "Direct link to heading")
@@ -110,3 +108,8 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
    ● Barang-barang yang membutuhkan wadah berpendingin;
 
    ● Dan Barang-barang yang dikemas dengan buruk atau tanpa jaminan yang dianggap tidak dapat dikirim oleh Penyedia Layanan.
+
+   ##### 3.2 Kemasan Barang
+
+   * P﻿astikan bahwa Barang yang diberikan kepada Kurir untuk dikirim wajib dilengkapi dengan kemasan yang baik, dalam keadaan tertutup, dan layak untuk memastikan Barang dalam keadaan baik dan/atau tidak rusak pada saat pengantaran. 
+   * K﻿urir berhak untuk meminta Pengirim untuk memperbaiki kemasan Barang atau mengemas ulang Barang apabila Kurir atas pertimbangannya yang wajar menentukan bahwa kemasan Barang tidak dalam kondisi sebagaimana ditentukan dalam point (1) diatas.
