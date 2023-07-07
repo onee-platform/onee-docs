@@ -13,7 +13,7 @@ sidebar_label: 10.3 Aktivasi Kurir GoSend
 
    * ***I﻿nstant Delivery:*** 
 
-     \-﻿ **Waktu Pemesanan**: 24 Jam
+     \-﻿ **Waktu Pemesanan**: 24 Jam,
 
      \-﻿ **Waktu Pengambilan**: Langsung
 
@@ -22,7 +22,7 @@ sidebar_label: 10.3 Aktivasi Kurir GoSend
      \-﻿ **Batasan Jarak**: 40 km ( titik lokasi Pengambilan dan titik lokasi Pengantaran harus berada di area yang sama ). 
 
      \-﻿ **Batasan Berat**: Berat 20 kg, berat *volumetric* (P x L x T): 70 cm x 50 cm x 50 cm.
-   * ***S﻿ame Day Delivery**:* 
+   * ***S﻿ame Day Delivery***:
 
      \-﻿ **Waktu Pemesanan**: 06:00 - 17:00
 
