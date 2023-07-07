@@ -51,3 +51,8 @@ sidebar_label: 10.2 Aktivasi Kurir GrabExpress
    ● Barang cetakan, rekaman atau barang lainnya yang bertentangan dengan nilai kesusilaan dan dapat mengganggu stabilitas, keamanan dan ketertiban umum; atau
 
    ● Barang-barang yang dapat membahayakan Kurir saat proses pengiriman seperti bahan kimia yang bersifat mudah terbakar atau meledak, menimbulkan iritasi dan beracun pada tubuh manusia, cairan kimia korosif, bahan beracun dan barang berbahaya lainnya (Dangerous Goods) atau objek lainnya yang tergolong sebagai bahan berbahaya beracun (B3).
+
+   ##### 3.2 Kemasan Barang
+
+   * P﻿astikan bahwa Barang yang diberikan kepada Kurir untuk dikirim wajib dilengkapi dengan kemasan yang baik, dalam keadaan tertutup, dan layak untuk memastikan Barang dalam keadaan baik dan/atau tidak rusak pada saat pengantaran. 
+   * K﻿urir berhak untuk meminta Pengirim untuk memperbaiki kemasan Barang atau mengemas ulang Barang apabila Kurir atas pertimbangannya yang wajar menentukan bahwa kemasan Barang tidak dalam kondisi sebagaimana ditentukan dalam point (1) diatas.
