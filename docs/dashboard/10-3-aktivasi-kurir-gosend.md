@@ -39,8 +39,10 @@ sidebar_label: 10.3 Aktivasi Kurir GoSend
 
    3﻿.1 Kemasan Barang
 
-   *
    * P﻿astikan bahwa Barang yang diberikan kepada Kurir untuk dikirim wajib dilengkapi dengan kemasan yang baik, dalam keadaan tertutup, dan layak untuk memastikan Barang dalam keadaan baik dan/atau tidak rusak pada saat pengantaran. 
    * K﻿urir berhak untuk meminta Pengirim untuk memperbaiki kemasan Barang atau mengemas ulang Barang apabila Kurir atas pertimbangannya yang wajar menentukan bahwa kemasan Barang tidak dalam kondisi sebagaimana ditentukan dalam point (1) diatas.
 
    3﻿.2 Penjemputan, Pengiriman dan Penerimaan Barang
+
+   * D﻿alam proses pengambilan barang, Kurir berhak untuk mengambil foto atas barang.
+   * A﻿pabila Kurir gagal menemukan Lokasi Pengambilan, maka Kurir berhak untuk melakukan pembatalan pengambilan barang serta melakukan pemberitahuan kepada Piha
