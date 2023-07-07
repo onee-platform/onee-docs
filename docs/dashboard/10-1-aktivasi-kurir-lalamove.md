@@ -71,4 +71,42 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
        \-﻿ Berat Maksimal: 8000 kg
 
        \- Batas Ukuran (P x L x T): 720 cm x 250 cm x 200 cm
+   * J﻿am Operasional Pengiriman Lalamove: 
+
+     * P﻿ertanyaan yang sering diajukan, seperti: Kapan barang akan dikirim?
+
+       \-﻿ Lalamove beroperasi 24/7 sehingga kamu dapat melakukan pengiriman kapanpun kamu butuh. Lalamove berspesialisasi dalam pengiriman instan (*on-demand*), mencocokkan pengguna dengan driver terdekat hanya dalam hitungan detik. Gunakan aplikasi pengiriman kami untuk menangani semua pengiriman ekspres dan mendesak, kapan saja sepanjang hari.
    * U﻿ntuk penjelasan lebih lengkapnya, Anda bisa lihat [disini](https://www.lalamove.com/id/personal)
+
+
+3. #### **S﻿yarat dan Ketentuan:**
+
+   ##### **3.1 K﻿etentuan Penjemputan & Pengiriman Barang Menggunakan LALAMOVE:**[​](https://onee.netlify.app/dashboard/jenis-barang-yang-tidak-dapat-dikirimkan-menggunakan-layanan-lalamove-grab-dan-gosend#ketentuan-penjemputan--pengiriman-barang-menggunakan-lalamove "Direct link to heading")
+
+   Pengemudi yang berpartisipasi yang bertindak sebagai kontraktor independen dari Penyedia Layanan dapat mengirimkan makanan, minuman, barang dalam kemasan, paket surat, dll., kecuali yang menurut Penyedia Layanan tidak dapat dikirimkan dengan aman atau legal, termasuk, namun tidak terbatas pada hal-hal berikut ini:
+
+   B﻿arang yang tidak dapat dikirim:
+
+   ● Semua “**barang berbahaya**” sebagaimana didefinisikan oleh Asosiasi Transportasi Udara Internasional (International Air Transport Association) dan Organisasi Penerbangan Sipil Internasional (International Civil Aviation Organization);Barang-barang yang dilarang atau dibatasi ekspor atau impornya oleh negara, negara bagian atau pemerintah mana pun;
+
+   ● Barang-barang yang dilarang atau dibatasi ekspor atau impornya oleh negara, negara bagian atau pemerintah mana pun;
+
+   ● Senjata api atau senjata lain, bahan peledak, gas bertekanan, bahan yang mudah terbakar, lampu kilat untuk peralatan fotografi atau zat magnetik;Zat yang mengandung merkuri, asam dan zat pengoksidasi, zat beracun atau zat yang dapat dengan mudah menguap atau jenis cairan serupa lainnya
+
+   ● Zat yang mengandung merkuri, asam dan zat pengoksidasi, zat beracun atau zat yang dapat dengan mudah menguap atau jenis cairan serupa lainnya
+
+   ● Barang-barang yang dilarang menurut hukum setempat;
+
+   ● Sisa-sisa manusia atau hewan, tugu peringatan atau barang apa pun yang digunakan digunakan dalam upacara keagamaan;
+
+   ● Hewan Hidup;
+
+   ● Barang-barang yang tidak sehat dari pandangan Penyedia Layanan sendiri;
+
+   ● Barang-barang yang ilegal untuk diproduksi atau didistribusikan, seperti narkotika atau obat-obatan terlarang;
+
+   ● Barang-barang yang melebihi ukuran dan berat standar untuk setiap jenis kendaraan yang ditentukan di situs web Lalamove;
+
+   ● Barang-barang yang membutuhkan wadah berpendingin;
+
+   ● Dan Barang-barang yang dikemas dengan buruk atau tanpa jaminan yang dianggap tidak dapat dikirim oleh Penyedia Layanan.
