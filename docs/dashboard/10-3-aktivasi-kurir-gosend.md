@@ -34,4 +34,13 @@ sidebar_label: 10.3 Aktivasi Kurir GoSend
 
      \-﻿ **Batasan Jarak**: 40 km (titik lokasi Pemgambilan dan titik lokasi pengantaran harus berada di area yang sama).
 
-     \-﻿ **Batasan Berat**: Berat aktual: 7 kg, berat *volumetric* ( P x L x T ): 45 cm x 45 cm x 20 cm
+     \-﻿ **Batasan Berat**: Berat aktual: 7 kg, berat *volumetric* ( P x L x T ): 45 cm x 45 cm x 20 cm.
+3. #### S﻿yarat dan Ketentuan.
+
+   3﻿.1 Kemasan Barang
+
+   *
+   * P﻿astikan bahwa Barang yang diberikan kepada Kurir untuk dikirim wajib dilengkapi dengan kemasan yang baik, dalam keadaan tertutup, dan layak untuk memastikan Barang dalam keadaan baik dan/atau tidak rusak pada saat pengantaran. 
+   * K﻿urir berhak untuk meminta Pengirim untuk memperbaiki kemasan Barang atau mengemas ulang Barang apabila Kurir atas pertimbangannya yang wajar menentukan bahwa kemasan Barang tidak dalam kondisi sebagaimana ditentukan dalam point (1) diatas.
+
+   3﻿.2 Penjemputan, Pengiriman dan Penerimaan Barang
