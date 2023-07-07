@@ -7,3 +7,9 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
    ![](/img/10.1-cara-aktivasi-kurir-lalamove-dropdown-.png)
 
    * P﻿ilih bagian kurir lalamove, kemudian pilih / centang yang ingin Anda aktifkan.
+
+
+2. #### D﻿eskripsi Layanan & Jam Operasional
+
+   *
+   * J﻿enis Armada Pengiriman Lalamove
