@@ -102,4 +102,8 @@ sidebar_label: 10.3 Aktivasi Kurir GoSend
 
    ● Sertifikat Bank Deposit Obligasi barang-barang lainnya yang didefinisikan oleh Kami sebagai Dokume Berharga.
 
-   d﻿. Barang yang melebihi dimensi.
+   d﻿. Barang yang melebihi dimensi. 
+
+   3﻿.3 *Drop-Off Failure Scenario.* 
+
+   * Untuk segala jenis skenario Drop-Off Failure (DOF), karena kami tidak memiliki hub untuk saat ini, DOF akan berubah menjadi pengiriman "Ditunda" di mana pengemudi akan mencoba mengirim ulang selama perjalanan yang sama (baik kembali ke penerima, atau kembali ke pengirim - GRATIS). Jika tidak, pengemudi akan mencoba mengirimkan paket kembali ke penerima atau pengirim dalam perjalanannya di masa mendatang. skenario terburuk, seperti: toko penjual tutup atau penjual/pembeli tidak dapat dihubungi, driver akan mengirimkannya keesokan harinya. Jika akhirnya kembali ke pengirim, pengemudi akan menandai pemesanan itu dari status Ditahan ke status Ditolak. Semua pemesanan dengan status Selesai/Ditolak akan dikenakan biaya setiap bulan
