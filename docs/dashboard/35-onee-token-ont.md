@@ -21,7 +21,9 @@ P﻿ada nilai Onee Token (ONT) terdapat 2 angka yang nominalnya berbeda:
 
 P﻿enjelasan status / jenis ONT: 
 
-* O﻿N_HOLD: Token ditahan untuk pesanan dan pengiriman
+* O﻿N_HOLD: Token ditahan untuk pesanan dan pengiriman ( token yang ditahan yang ada bacaannya Dapat digunakan ).
 
   s﻿tatus on_hold ini akan muncul ketika Anda membuat tagihan pesanan dan pada saat Anda klik Request Pickup. 
 * R﻿ELEASED: Token yang ditahan akan kembali ke saldo yang dapat digunakan. Status released ini akan muncul jika Anda atau kurir instant yang membatalkan pengiriman.
+* C﻿OURIER FEE: Token akan terpotong jika status pesanan sudah Complete ( token yang terpotong yang angkanya berwarna hijau )
+* P﻿LATFORM FEE: Token akan terpotong jika status pesanan sudah Complete ( token yang terpotong yang angkanya berwarna hijau )
