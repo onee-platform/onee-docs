@@ -9,3 +9,5 @@ C﻿ontoh: A﻿nda membuat kategori "**Elektronik Kantor**"
 k﻿emudian di tab marketplace Anda isi dan pilih marketplace Tokopedia, lalu cari ID kategori yang menurut Anda pas dengan kategori yang Anda buat, kemudian klik submit.
 
 ![](/img/5.3-tab-marketplace-di-kategori-produk.png)
+
+U﻿ntuk satu kategori yang Anda buat, hanya mempunyai satu ID kategori marketplace.
