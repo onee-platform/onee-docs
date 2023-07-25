@@ -10,4 +10,4 @@ k﻿emudian di tab marketplace Anda isi dan pilih marketplace Tokopedia, lalu ca
 
 ![](/img/5.3-tab-marketplace-di-kategori-produk.png)
 
-U﻿ntuk satu kategori yang Anda buat, hanya mempunyai satu ID kategori marketplace.
+U﻿ntuk kategori yang Anda buat, hanya dapat menginput 1 ID kategori marketplace.
