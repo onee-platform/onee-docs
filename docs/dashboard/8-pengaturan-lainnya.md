@@ -6,7 +6,9 @@ sidebar_label: 8. Pengaturan Lainnya
 
    a﻿. Logo Print Resi ( 200 x 100 ) px: Logo ini akan ditampilkan di cetak resi. Gambar harus diubah terlebih dahulu ke dalam bentuk link.
 
-   b﻿. Logo E-mail ( 200 x 100 ) px: Logo ini akan ditampilkan ketika pelanggan menerima Email dari toko Anda. Gambar harus diubah terlebih dahulu kedalam bentuk link. 
+   b﻿. Logo E-mail ( 200 x 100 ) px: Logo ini akan ditampilkan ketika pelanggan menerima Email dari toko Anda. Gambar harus diubah terlebih dahulu ke dalam bentuk link. 
+
+   c﻿. Logo Pesanan ( 250 x 125 ) px: Logo ini akan ditampilkan di invoice atau cetak pesanan. Gambar harus diubah terlebih dahulu ke dalam bentuk link.
 2. ﻿**Tab Pesanan.**
 
    M﻿engatur pesanan sebelum memulai jualan. Atur semua field yang tersedia sesuai dengan SOP Anda.
@@ -44,8 +46,6 @@ sidebar_label: 8. Pengaturan Lainnya
    ![](/img/8.-update_pengaturan-lainnya-tab-pesanan-bagian-syarat-ketentuan.jpeg)
 
    ![](/img/8.-update_pengaturan-lainnya-tab-pesanan-2.png)
-
-
 3. **Tab Booking.** 
 
    A﻿turan booking ini berlaku untuk berjualan live ( Live Shopping ).
