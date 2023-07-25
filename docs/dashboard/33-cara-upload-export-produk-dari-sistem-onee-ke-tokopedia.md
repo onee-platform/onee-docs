@@ -29,3 +29,7 @@ B﻿erikut di bawah ini cara untuk upload / export produk.
    * C﻿ara yang kedua, Anda bisa langsung klik bagian **Upload Produk.**
 
      Platform Onee akan secara otomatis mengupload produk baru, secara bertahap. Proses ini biasanya memakan waktu sedikit lebih panjang daripada upload langsung dengan menggunakan Excel.
+
+
+
+N﻿OTE: Pastikan semua produk yang Anda upload ke dalam Tokopedia, sudah memiliki kategorinya masing-masing. Karena waktu upload akan lebih lama atau produk akan tertolak, jika salah satu produk yang Anda masukkan tidak aja kategorinya
