@@ -16,6 +16,16 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
        \- Berat Maksimal: 20 kg
 
        \- Batas Ukuran (P x L x T): 40 cm x 40 cm x 50 cm
+
+       \-﻿ Biaya Minimal: 9.200
+
+       \-﻿ Jarak Dasar : 4 km
+
+       \-﻿ Tarif : >4 km Rp. 2.300/km
+
+       \-﻿ Pengiriman Antarkota: -
+
+       \-﻿ Catatan: Tarif jasa tersebut didasarikan pada beberapa faktor seperti situasi lalulintas
      * **S﻿edan:**
 
        \- Berat Maksimal: 100 kg
