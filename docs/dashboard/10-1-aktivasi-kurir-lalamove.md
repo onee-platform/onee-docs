@@ -507,7 +507,7 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
        \>﻿300 km: Rp. 2.100/km
 
-       **\-﻿ Catatan:** Tarif jasa tersebut didasarikan pada beberapa faktor seperti situasi lalulintas, volumen pemesanan, ketersediaan mitra pengirim, toll yang dapat diaplikasikan, biaya tambahan dan lain-lain. Maka total tarif jasa tersebut dapat bervariasi. Tarif yang diperlihatkan pada saat adanya permintaan mungkin tidak akan sama jika adanya perubahan pada rincian pemesanan.
+       **\-﻿ Catatan:** Harap perhatikan bahwa tarif untuk beberapa jenis armada pengiriman didasarkan pada beberapa faktor seperti volume pesanan, ketersediaan pengemudi, dll. Tarif total dari jenis armada pengiriman tersebut dapat berbeda dan mungkin lebih tinggi atau lebih rendah dari yang disebutkan di atas.
      * **C﻿DD Bak:**
 
        **\-﻿ Berat Maksimal:** 5000 kg
@@ -573,14 +573,82 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
        **\-﻿ Catatan:** Tarif jasa tersebut didasarikan pada beberapa faktor seperti situasi lalulintas, volumen pemesanan, ketersediaan mitra pengirim, toll yang dapat diaplikasikan, biaya tambahan dan lain-lain. Maka total tarif jasa tersebut dapat bervariasi. Tarif yang diperlihatkan pada saat adanya permintaan mungkin tidak akan sama jika adanya perubahan pada rincian pemesanan.
      * **F﻿uso Box:**
 
-       \-﻿ Berat Maksimal: 8000 kg
+       **\-﻿ Berat Maksimal**: 8000 kg
 
-       \- Batas Ukuran (P x L x T): 720 cm x 250 cm x 250 cm
+       **\- Batas Ukuran (P x L x T)**: 570 cm x 250 cm x 250 cm
+
+       **\- ﻿ Biaya Minimal** : 
+
+       ‣ Rp. 765.000 (Jakarta)
+
+       ‣ R﻿p. 722.500 (Bekasi, Depok, Tangsel, Tangerang - Kota)
+
+       ‣ R﻿p. 680.000 (Bekasi, Bogor, Tangerang - Kabupaten)
+
+       **\-﻿ Jarak Dasar** : 2 km
+
+       **\-﻿ Tarif:**
+
+       **‣ Jakarta:**
+
+       0﻿-2 km: Rp. 765.000
+
+       \>2 km: Rp. 10.800/km
+
+       **‣ B﻿ekasi, Depok, Tangsel, Tangerang - Kota:**
+
+       0﻿-2 km: Rp. 722.500
+
+       \>2 km: Rp. 10.500/km
+
+       **‣ B﻿ekasi, Bogor, Tangerang - Kabupaten:**
+
+       0﻿-2 km: Rp. 680.000
+
+       \>2 km: Rp. 9.900/km
+
+       **\- P﻿engiriman Antarkota:** -
+
+       **\-﻿ Catatan:** Harap perhatikan bahwa tarif untuk beberapa jenis armada pengiriman didasarkan pada beberapa faktor seperti volume pesanan, ketersediaan pengemudi, dll. Tarif total dari jenis armada pengiriman tersebut dapat berbeda dan mungkin lebih tinggi atau lebih rendah dari yang disebutkan di atas.
      * **F﻿uso Bak:**
 
-       \-﻿ Berat Maksimal: 8000 kg
+       **\-﻿ Berat Maksimal:** 8000 kg
 
-       \- Batas Ukuran (P x L x T): 720 cm x 250 cm x 200 cm
+       **\- Batas Ukuran (P x L x T)**: 570 cm x 250 cm x 200 cm
+
+       **\- ﻿ Biaya Minimal** : 
+
+       ‣ Rp. 765.000 (Jakarta)
+
+       ‣ R﻿p. 722.500 (Bekasi, Depok, Tangsel, Tangerang - Kota)
+
+       ‣ R﻿p. 680.000 (Bekasi, Bogor, Tangerang - Kabupaten)
+
+       **\-﻿ Jarak Dasar** : 2 km
+
+       **\-﻿ Tarif:**
+
+       **‣ Jakarta:**
+
+       0﻿-2 km: Rp. 765.000
+
+       \>2 km: Rp. 10.800/km
+
+       **‣ B﻿ekasi, Depok, Tangsel, Tangerang - Kota:**
+
+       0﻿-2 km: Rp. 722.500
+
+       \>2 km: Rp. 10.500/km
+
+       **‣ B﻿ekasi, Bogor, Tangerang - Kabupaten:**
+
+       0﻿-2 km: Rp. 680.000
+
+       \>2 km: Rp. 9.900/km
+
+       **\- P﻿engiriman Antarkota:** -
+
+       **\-﻿ Catatan:** Harap perhatikan bahwa tarif untuk beberapa jenis armada pengiriman didasarkan pada beberapa faktor seperti volume pesanan, ketersediaan pengemudi, dll. Tarif total dari jenis armada pengiriman tersebut dapat berbeda dan mungkin lebih tinggi atau lebih rendah dari yang disebutkan di atas.
    * J﻿am Operasional Pengiriman Lalamove: 
 
      * P﻿ertanyaan yang sering diajukan, seperti: Kapan barang akan dikirim?
