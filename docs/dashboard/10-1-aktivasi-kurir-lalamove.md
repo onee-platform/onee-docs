@@ -649,7 +649,159 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
        **\- P﻿engiriman Antarkota:** -
 
        **\-﻿ Catatan:** Harap perhatikan bahwa tarif untuk beberapa jenis armada pengiriman didasarkan pada beberapa faktor seperti volume pesanan, ketersediaan pengemudi, dll. Tarif total dari jenis armada pengiriman tersebut dapat berbeda dan mungkin lebih tinggi atau lebih rendah dari yang disebutkan di atas.
-   * J﻿am Operasional Pengiriman Lalamove: 
+   * ##### **B﻿iaya Tambahan**
+
+     1. **M﻿otor:** 
+
+        **P﻿erhentian Tambahan**: +Rp5.000/perhentian
+
+        **P﻿erjalanan pulang pergi**: +Rp12.000 biaya tetap
+
+        **P﻿engiriman Pintu ke Pintu**: +Rp3.000
+
+        **W﻿aktu tunggu (lebih dari 1 jam)**: > 60 menit: Rp12.500
+
+        **P﻿enting!**
+
+        L﻿ayanan Sepeda Motor tidak direkomendasikan untuk pengiriman:
+
+        * K﻿ue/cake ulang tahun (wholecake) dan sejenisnya
+        * B﻿enda tajam
+        * P﻿erabotan yang terbuat dari kaca
+        * B﻿arang pecah belah
+
+        J﻿ika Anda ingin melakukan pengiriman barang - barang di atas, silakan menggunakan **Armada Roda Empat,** karena** *Lalamove tidak akan bertanggung jawab atas kerusakan yang terjadi jika barang yang dikirimkan diluar dari barang yang direkomendasikan di atas.***
+     2. **S﻿edan:**
+
+        **P﻿erhentian Tambahan**: +Rp8.000/perhentian
+
+        **P﻿erjalanan pulang pergi**: +Rp40.000 biaya tetap 
+
+        **P﻿engiriman Pintu ke Pintu**: +Rp10.000 biaya tetap
+
+        **T﻿ol**: +Rp25.000 biaya tetap
+
+        **W﻿aktu Tunggu:**
+
+        \>﻿ 60 menit: +Rp36.000
+
+        **P﻿engiriman Antarkota:**
+
+        * P﻿erhentian Tambahan: Rp12.500
+        * B﻿iaya Tol:
+
+          ‣ Tol ke Malang: Rp970.000
+
+          ‣ Tol ke Cirebon: Rp198.000
+
+          ‣ Tol ke Surabaya: Rp970.000
+
+          ‣ Tol ke Bandung: Rp100.000
+
+          ‣ Tol ke Semarang: Rp450.000
+
+          ‣ Tol ke Yogyakarta: Rp550.000
+        * W﻿aktu tunggu (lebih dari 1 jam): Rp30.000
+     3. **M﻿obil**:
+
+        **P﻿erhentian Tambahan**: +Rp10.000/perhentian
+
+        **P﻿erjalanan pulang pergi**: +Rp55.000 biaya tetap
+
+        **P﻿engiriman Pintu ke Pintu**: +Rp10.000 biaya tetap
+
+        **T﻿ol**: +Rp25.000 biaya tetap
+
+        **W﻿aktu Tunggu:**
+
+        \>﻿ 60 menit: +Rp36.000
+
+        **P﻿engiriman Antarkota:**
+
+        * P﻿erhentian Tambahan: Rp12.500
+        * B﻿iaya Tol:
+
+          ‣ Tol ke Malang: Rp970.000
+
+          ‣ Tol ke Cirebon: Rp198.000
+
+          ‣ Tol ke Surabaya: Rp970.000
+
+          ‣ Tol ke Bandung: Rp100.000
+
+          ‣ Tol ke Semarang: Rp450.000
+
+          ‣ Tol ke Yogyakarta: Rp550.000
+        * W﻿aktu tunggu (lebih dari 1 jam): Rp30.000
+     4. **V﻿AN:**
+
+        **P﻿erhentian Tambahan**: +Rp10.000/perhentian
+
+        **P﻿erjalanan pulang pergi**: +Rp80.000 biaya tetap
+
+        **P﻿engiriman Pintu ke Pintu**: +Rp15.000 biaya tetap
+
+        **T﻿ol**: +Rp25.000 biaya tetap
+
+        **P﻿engangkut untuk bongkar muat barang:** +Rp75.000 biaya tetap
+
+        **W﻿aktu Tunggu (lebih dari 1 jam):**
+
+        \>﻿ 60 menit: +Rp36.000
+
+        **P﻿engiriman Antarkota:**
+
+        * P﻿erhentian Tambahan: +Rp15.000/perhentian
+        * B﻿iaya Tol:
+
+          ‣ Tol ke Malang: Rp970.000
+
+          ‣ Tol ke Cirebon: Rp198.000
+
+          ‣ Tol ke Surabaya: Rp970.000
+
+          ‣ Tol ke Bandung: Rp100.000
+
+          ‣ Tol ke Semarang: Rp450.000
+
+          ‣ Tol ke Yogyakarta: Rp550.000
+        * P﻿engangkut untuk bongkar muat barang: Rp100.000
+        * W﻿aktu tunggu (lebih dari 1 jam): Rp35.000
+     5. **P﻿ick Up Bak**
+
+        **P﻿erhentian Tambahan**: +Rp10.000/perhentian
+
+        **P﻿erjalanan pulang pergi**: +Rp80.000 biaya tetap
+
+        **P﻿engiriman Pintu ke Pintu**: +Rp15.000 biaya tetap
+
+        **T﻿ol**: +Rp25.000 biaya tetap
+
+        **P﻿engangkut untuk bongkar muat barang:** +Rp75.000 biaya tetap
+
+        **W﻿aktu Tunggu (lebih dari 60 menit):**
+
+        \>﻿ 60 menit: +Rp50.000
+
+        **P﻿engiriman Antarkota:**
+
+        * P﻿erhentian Tambahan: +Rp15.000/perhentian
+        * B﻿iaya Tol:
+
+          ‣ Tol ke Malang: Rp970.000
+
+          ‣ Tol ke Cirebon: Rp198.000
+
+          ‣ Tol ke Surabaya: Rp970.000
+
+          ‣ Tol ke Bandung: Rp100.000
+
+          ‣ Tol ke Semarang: Rp450.000
+
+          ‣ Tol ke Yogyakarta: Rp550.000
+        * P﻿engangkut untuk bongkar muat barang: Rp100.000
+        * W﻿aktu tunggu (lebih dari 1 jam): Rp35.000
+   * ##### **J﻿am Operasional Pengiriman Lalamove:** 
 
      * P﻿ertanyaan yang sering diajukan, seperti: Kapan barang akan dikirim?
 
