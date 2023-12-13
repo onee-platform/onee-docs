@@ -28,6 +28,42 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
        \-﻿ Catatan: Tarif jasa tersebut didasarikan pada beberapa faktor seperti situasi lalulintas, volumen pemesanan, ketersediaan mitra pengirim, toll yang dapat diaplikasikan, biaya tambahan dan lain-lain. Maka total tarif jasa tersebut dapat bervariasi. Tarif yang diperlihatkan pada saat adanya permintaan mungkin tidak akan sama jika adanya perubahan pada rincian pemesanan.
 
 
+     * <!--StartFragment-->
+
+       Berat Maksimal
+
+       Batas Ukuran (PxLxT)
+
+       Biaya Minimal
+
+       Jarak Dasar
+
+       Tarif
+
+       Pengiriman Antarkota
+
+       Catatan
+
+        
+
+       Motor
+
+       20 kg
+
+       40 x 40 x 50 cm
+
+       Rp9.200
+
+       4 km
+
+       \> 4 km\
+       Rp2.300 / km
+
+       \-
+
+       Tarif jasa tersebut didasarikan pada beberapa faktor seperti situasi lalulintas, volume pemesanan, ketersediaan mitra pengirim, toll yang dapat diaplikasikan, biaya tambahan dan lain-lain. Maka total tarif jasa tersebut dapat bervariasi. Tarif yang diperlihatkan pada saat adanya permintaan mungkin tidak akan sama jika adanya perubahan pada rincian pemesanan.
+
+       <!--EndFragment-->
      * **S﻿edan:**
 
        \- Berat Maksimal: 100 kg
