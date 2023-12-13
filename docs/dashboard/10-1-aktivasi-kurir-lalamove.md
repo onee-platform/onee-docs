@@ -378,9 +378,73 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
        **\-﻿ Catatan:** Tarif jasa tersebut didasarikan pada beberapa faktor seperti situasi lalulintas, volumen pemesanan, ketersediaan mitra pengirim, toll yang dapat diaplikasikan, biaya tambahan dan lain-lain. Maka total tarif jasa tersebut dapat bervariasi. Tarif yang diperlihatkan pada saat adanya permintaan mungkin tidak akan sama jika adanya perubahan pada rincian pemesanan.
      * **E﻿ngkel Bak:**
 
-       \-﻿ Berat Maksimal: 2500 kg
+       **\-﻿ Berat Maksimal**: 2500 kg
 
-       \- Batas Ukuran (P x L x T): 310 cm x 170 cm x 170 cm
+       **\- Batas Ukuran (P x L x T)**: 310 cm x 170 cm x 170 cm
+
+       **\- ﻿ Biaya Minimal** : 
+
+       ‣ Rp. 280.000 (Jakarta)
+
+       ‣ R﻿p. 238.000 (Bekasi, Depok, Tangsel, Tangerang - Kota)
+
+       ‣ R﻿p. 224.000 (Bekasi, Bogor, Tangerang - Kabupaten)
+
+       **\-﻿ Jarak Dasar** : 1 km
+
+       **\-﻿ Tarif:**
+
+       **‣ Jakarta:**
+
+       0﻿-1 km: Rp. 280.000
+
+       1﻿-3 km: Rp. 3.600/km
+
+       \>3 km: Rp. 4.300/km
+
+       **‣ B﻿ekasi, Depok, Tangsel, Tangerang - Kota:**
+
+       0﻿-1 km: Rp. 238.000
+
+       1﻿-3 km: Rp. 3.500/km
+
+       \>3 km: Rp. 4.200/km
+
+       **‣ B﻿ekasi, Bogor, Tangerang - Kabupaten:**
+
+       0﻿-1 km: Rp. 224.000
+
+       1﻿-3 km: Rp. 3.400/km
+
+       \>3 km: Rp. 4.100/km
+
+       **\- P﻿engiriman Antarkota:**
+
+       **‣ Jakarta :**
+
+       0﻿-150 km: Rp. 675.000
+
+       1﻿50-300 km: Rp. 2.700/km
+
+       \>﻿300 km: Rp. 2.300/km
+
+       **‣ Bekasi, Depok, Tangsel, Tangerang - Kota :**
+
+       0﻿-150 km: Rp. 637.500
+
+       1﻿50-300 km: Rp. 2.600/km
+
+       \>﻿300 km: Rp. 2.200/km
+
+       **‣** **Bekasi, Bogor, Tangerang - Kabupaten:**
+
+       0﻿-150 km: Rp. 599.000
+
+       1﻿50-300 km: Rp. 2.500/km
+
+       \>﻿300 km: Rp. 2.100/km
+
+       **\-﻿ Catatan:** Tarif jasa tersebut didasarikan pada beberapa faktor seperti situasi lalulintas, volumen pemesanan, ketersediaan mitra pengirim, toll yang dapat diaplikasikan, biaya tambahan dan lain-lain. Maka total tarif jasa tersebut dapat bervariasi. Tarif yang diperlihatkan pada saat adanya permintaan mungkin tidak akan sama jika adanya perubahan pada rincian pemesanan.
      * **C﻿DD Box:**
 
        \- Berat Maksimal: 5000 kg
