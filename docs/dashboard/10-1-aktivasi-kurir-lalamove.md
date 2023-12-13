@@ -215,7 +215,7 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
        ‣ B﻿ekasi, Bogor, Tangerang - Kabupaten:
 
-       0﻿-5 km: Rp. 76.00
+       0﻿-5 km: Rp. 76.000
 
        \>﻿5 km: Rp. 3.100/km
 
@@ -250,9 +250,71 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
        **\-﻿ Catatan:** Tarif jasa tersebut didasarikan pada beberapa faktor seperti situasi lalulintas, volumen pemesanan, ketersediaan mitra pengirim, toll yang dapat diaplikasikan, biaya tambahan dan lain-lain. Maka total tarif jasa tersebut dapat bervariasi. Tarif yang diperlihatkan pada saat adanya permintaan mungkin tidak akan sama jika adanya perubahan pada rincian pemesanan.
      * **P﻿ick Up Box:**
 
-       \-﻿ Berat Maksimal: 1000 kg
+       **\-﻿ Berat Maksimal**: 1000 kg
 
-       \- Batas Ukuran (P x L x T): 240 cm x 160 cm x 120 cm
+       **\- Batas Ukuran (P x L x T)**: 240 cm x 160 cm x 120 cm
+
+       **\- ﻿ Biaya Minimal** : 
+
+       ‣ Rp. 124.000 (Jakarta) 
+
+       ‣ R﻿p. 105.400 (Bekasi, Depok, Tangsel, Tangerang - Kota)
+
+       ‣ R﻿p. 99.200 (Bekasi, Bogor, Tangerang - Kabupaten)
+
+       **\-﻿ Jarak Dasar** : 2 km
+
+       **\-﻿ Tarif:**
+
+       ‣ Jakarta:
+
+       0﻿-2 km: Rp. 124.000
+
+       2﻿-120 km: Rp. 3.300/km
+
+       \>﻿120 km: Rp. 3.700/km
+
+       ‣ B﻿ekasi, Depok, Tangsel, Tangerang - Kota:
+
+       0﻿-2 km: Rp. 105.400
+
+       \>﻿2 km: Rp. 3.200/km
+
+       ‣ B﻿ekasi, Bogor, Tangerang - Kabupaten:
+
+       0﻿-2 km: Rp. 99.200
+
+       \>﻿2 km: Rp. 3.100/km
+
+       **\- P﻿engiriman Antarkota:**
+
+       ‣ Jakarta :
+
+       0﻿-150 km: Rp. 576.000
+
+       1﻿50-300 km: Rp. 2.700/km
+
+       \>﻿300 km: Rp. 1.800/km
+
+       ‣ Bekasi, Depok, Tangsel, Tangerang - Kota :
+
+       0﻿-150 km: Rp. 544.800
+
+       1﻿50-300 km: Rp. 2.600/km
+
+       \>﻿300 km: Rp. 1.700/km
+
+       ‣ Bekasi, Bogor, Tangerang - Kabupaten:
+
+       0﻿-150 km: Rp. 525.000
+
+       1﻿50-300 km: Rp. 2.500/km
+
+       1﻿50-300 km: Rp. 2.500/km
+
+       \>﻿300 km: Rp. 1.600/km
+
+       **\-﻿ Catatan:** Tarif jasa tersebut didasarikan pada beberapa faktor seperti situasi lalulintas, volumen pemesanan, ketersediaan mitra pengirim, toll yang dapat diaplikasikan, biaya tambahan dan lain-lain. Maka total tarif jasa tersebut dapat bervariasi. Tarif yang diperlihatkan pada saat adanya permintaan mungkin tidak akan sama jika adanya perubahan pada rincian pemesanan.
      * **E﻿ngkel Box:**
 
        \-﻿ Berat Maksimal: 2000 kg
