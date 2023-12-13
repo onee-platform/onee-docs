@@ -243,8 +243,6 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
        1﻿50-300 km: Rp. 2.500/km
 
-       1﻿50-300 km: Rp. 2.500/km
-
        \>﻿300 km: Rp. 1.600/km
 
        **\-﻿ Catatan:** Tarif jasa tersebut didasarikan pada beberapa faktor seperti situasi lalulintas, volumen pemesanan, ketersediaan mitra pengirim, toll yang dapat diaplikasikan, biaya tambahan dan lain-lain. Maka total tarif jasa tersebut dapat bervariasi. Tarif yang diperlihatkan pada saat adanya permintaan mungkin tidak akan sama jika adanya perubahan pada rincian pemesanan.
@@ -290,7 +288,7 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
        ‣ Jakarta :
 
-       0﻿-150 km: Rp. 576.000
+       0﻿-150 km: Rp. 612.000
 
        1﻿50-300 km: Rp. 2.700/km
 
@@ -298,17 +296,15 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
        ‣ Bekasi, Depok, Tangsel, Tangerang - Kota :
 
-       0﻿-150 km: Rp. 544.800
+       0﻿-150 km: Rp. 579.000
 
-       1﻿50-300 km: Rp. 2.600/km
+       1﻿50-300 km: Rp. 2.700/km
 
-       \>﻿300 km: Rp. 1.700/km
+       \>﻿300 km: Rp. 1.800/km
 
        ‣ Bekasi, Bogor, Tangerang - Kabupaten:
 
-       0﻿-150 km: Rp. 525.000
-
-       1﻿50-300 km: Rp. 2.500/km
+       0﻿-150 km: Rp. 558.000
 
        1﻿50-300 km: Rp. 2.500/km
 
