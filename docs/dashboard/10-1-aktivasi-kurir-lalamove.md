@@ -38,11 +38,11 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
        **\-**﻿ **Tarif :**
 
-       Jakarta : Rp. 3.300 / km
+       ‣ Jakarta : Rp. 3.300 / km
 
-       Bekasi, Depok, Tangsel, Tangerang - Kota : Rp. 3.200 / km
+       ‣ Bekasi, Depok, Tangsel, Tangerang - Kota : Rp. 3.200 / km
 
-       Bekasi, Bogor, Tangerang - Kabupaten : Rp. 3.100 / km
+       ‣ Bekasi, Bogor, Tangerang - Kabupaten : Rp. 3.100 / km
 
        **\-﻿ Pengiriman Antarkota :**
 
