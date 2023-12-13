@@ -937,6 +937,70 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
           ‣ Tol ke Yogyakarta: Rp740.000
         * P﻿engangkut untuk bongkar muat barang: Rp175.000
         * W﻿aktu tunggu (lebih dari 1 jam): Rp100.000
+     10. **CDD Box:**
+
+         **P﻿erhentian Tambahan**: +Rp20.000/perhentian
+
+         **P﻿erjalanan pulang pergi**: +Rp200.000 biaya tetap
+
+         **P﻿engiriman Pintu ke Pintu**: +Rp30.000 biaya tetap 
+
+         **T﻿ol**: +Rp45.000 biaya tetap
+
+         **P﻿engangkut untuk bongkar muat barang:** +Rp110.000 biaya tetap
+
+         **W﻿aktu Tunggu (lebih dari 60 menit):**
+
+         \>﻿ 60 menit: +Rp100.000
+
+         **P﻿engiriman Antarkota:**
+
+         * P﻿erhentian Tambahan: +Rp20.000/perhentian
+         * B﻿iaya Tol:
+
+           ‣ Tol ke Malang: Rp1.460.000
+
+           ‣ Tol ke Cirebon: Rp318.000
+
+           ‣ Tol ke Surabaya: Rp1.295.000
+
+           ‣ Tol ke Bandung: Rp165.000
+
+           ‣ Tol ke Semarang: Rp650.000
+
+           ‣ Tol ke Yogyakarta: Rp740.000
+         * P﻿engangkut untuk bongkar muat barang: Rp175.000
+         * W﻿aktu tunggu (lebih dari 1 jam): Rp100.000
+     11. **Fuso Bak:**
+
+         **P﻿erhentian Tambahan**: +Rp20.000/perhentian
+
+         **P﻿erjalanan pulang pergi**: +Rp200.000 biaya tetap
+
+         **T﻿ol**: +Rp45.000 biaya tetap
+
+         **P﻿engangkut untuk bongkar muat barang:** +Rp135.000 biaya tetap
+
+         **W﻿aktu Tunggu:**
+
+         L﻿ebih dari 1 jam: +Rp150.000
+
+         L﻿ebih dari 2 jam: +Rp200.000
+     12. **Fuso Box:**
+
+         **P﻿erhentian Tambahan**: +Rp20.000/perhentian
+
+         **P﻿erjalanan pulang pergi**: +Rp200.000 biaya tetap
+
+         **T﻿ol**: +Rp45.000 biaya tetap
+
+         **P﻿engangkut untuk bongkar muat barang:** +Rp135.000 biaya tetap
+
+         **W﻿aktu Tunggu:**
+
+         L﻿ebih dari 1 jam: +Rp150.000
+
+         L﻿ebih dari 2 jam: +Rp200.000
    * ##### **J﻿am Operasional Pengiriman Lalamove:** 
 
      * P﻿ertanyaan yang sering diajukan, seperti: Kapan barang akan dikirim?
