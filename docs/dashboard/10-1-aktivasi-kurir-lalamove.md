@@ -38,15 +38,15 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
        **\-**﻿ **Tarif :**
 
-       ‣ Jakarta : Rp. 3.300 / km
+       **‣ Jakarta** : Rp. 3.300 / km
 
-       ‣ Bekasi, Depok, Tangsel, Tangerang - Kota : Rp. 3.200 / km
+       **‣ Bekasi, Depok, Tangsel, Tangerang - Kota :** Rp. 3.200 / km
 
-       ‣ Bekasi, Bogor, Tangerang - Kabupaten : Rp. 3.100 / km
+       **‣ Bekasi, Bogor, Tangerang - Kabupaten :** Rp. 3.100 / km
 
        **\-﻿ Pengiriman Antarkota :**
 
-       ‣ Jakarta :
+       **‣ Jakarta :**
 
        0﻿-150 km: Rp. 507.000
 
@@ -54,7 +54,7 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
        \>﻿300 km: Rp. 1.800/km
 
-       ‣ Bekasi, Depok, Tangsel, Tangerang - Kota :
+       **‣ Bekasi, Depok, Tangsel, Tangerang - Kota :**
 
        0﻿-150 km: Rp. 492.000
 
@@ -62,7 +62,7 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
        \>﻿300 km: Rp. 1.700/km
 
-       ‣ Bekasi, Bogor, Tangerang - Kabupaten:
+       **‣ Bekasi, Bogor, Tangerang - Kabupaten:**
 
        0﻿-150 km: Rp. 477.700
 
@@ -83,15 +83,15 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
        **\-﻿ Tarif**:
 
-       ‣ Jakarta : Rp. 3.300 / km
+       **‣ Jakarta** : Rp. 3.300 / km
 
-       ‣ Bekasi, Depok, Tangsel, Tangerang - Kota : Rp. 3.200 / km
+       **‣ Bekasi, Depok, Tangsel, Tangerang - Kota** : Rp. 3.200 / km
 
-       ‣ Bekasi, Bogor, Tangerang - Kabupaten : Rp. 3.100 / km
+       **‣ Bekasi, Bogor, Tangerang - Kabupaten** : Rp. 3.100 / km
 
        **\-﻿ Pengiriman Antarkota:**
 
-       ‣ Jakarta :
+       **‣ Jakarta :**
 
        0﻿-150 km: Rp. 509.000
 
@@ -99,7 +99,7 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
        \>﻿300 km: Rp. 1.800/km
 
-       ‣ Bekasi, Depok, Tangsel, Tangerang - Kota :
+       **‣ Bekasi, Depok, Tangsel, Tangerang - Kota :**
 
        0﻿-150 km: Rp. 494.000
 
@@ -107,7 +107,7 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
        \>﻿300 km: Rp. 1.700/km
 
-       ‣ Bekasi, Bogor, Tangerang - Kabupaten:
+       **‣ Bekasi, Bogor, Tangerang - Kabupaten:**
 
        0﻿-150 km: Rp. 479.700
 
@@ -134,7 +134,7 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
        **\-﻿ Tarif:** 
 
-       ‣ Jakarta:
+       **‣ Jakarta:**
 
        0﻿-5km: Rp. 76.500
 
@@ -142,13 +142,13 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
        \>﻿120 km: Rp. 3.700/km
 
-       ‣ B﻿ekasi, Depok, Tangsel, Tangerang - Kota:
+       **‣ B﻿ekasi, Depok, Tangsel, Tangerang - Kota:**
 
        0﻿-5 km: Rp. 72.000
 
        \>﻿5 km: Rp. 3.200/km
 
-       ‣ B﻿ekasi, Bogor, Tangerang - Kabupaten:
+       **‣ B﻿ekasi, Bogor, Tangerang - Kabupaten:**
 
        0﻿-5 km: Rp. 68.000
 
@@ -156,7 +156,7 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
        **\- P﻿engiriman Antarkota:**
 
-       ‣ Jakarta :
+       **‣ Jakarta :**
 
        0﻿-150 km: Rp. 540.000
 
@@ -164,7 +164,7 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
        \>﻿300 km: Rp. 1.800/km
 
-       ‣ Bekasi, Depok, Tangsel, Tangerang - Kota :
+       **‣ Bekasi, Depok, Tangsel, Tangerang - Kota :**
 
        0﻿-150 km: Rp. 510.000
 
@@ -172,7 +172,7 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
        \>﻿300 km: Rp. 1.800/km
 
-       ‣ Bekasi, Bogor, Tangerang - Kabupaten:
+       **‣ Bekasi, Bogor, Tangerang - Kabupaten:**
 
        0﻿-150 km: Rp. 480.000
 
@@ -199,7 +199,7 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
        **\-﻿ Tarif:**
 
-       ‣ Jakarta:
+       **‣ Jakarta:**
 
        0﻿-5km: Rp. 85.500
 
@@ -207,13 +207,13 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
        \>﻿120 km: Rp. 3.700/km
 
-       ‣ B﻿ekasi, Depok, Tangsel, Tangerang - Kota:
+       **‣ B﻿ekasi, Depok, Tangsel, Tangerang - Kota:**
 
        0﻿-5 km: Rp. 80.800
 
        \>﻿5 km: Rp. 3.200/km
 
-       ‣ B﻿ekasi, Bogor, Tangerang - Kabupaten:
+       **‣ B﻿ekasi, Bogor, Tangerang - Kabupaten:**
 
        0﻿-5 km: Rp. 76.000
 
@@ -221,7 +221,7 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
        **\- P﻿engiriman Antarkota:**
 
-       ‣ Jakarta :
+       **‣ Jakarta :**
 
        0﻿-150 km: Rp. 576.000
 
@@ -229,7 +229,7 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
        \>﻿300 km: Rp. 1.800/km
 
-       ‣ Bekasi, Depok, Tangsel, Tangerang - Kota :
+       **‣ Bekasi, Depok, Tangsel, Tangerang - Kota :**
 
        0﻿-150 km: Rp. 544.800
 
@@ -237,7 +237,7 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
        \>﻿300 km: Rp. 1.700/km
 
-       ‣ Bekasi, Bogor, Tangerang - Kabupaten:
+       **‣ Bekasi, Bogor, Tangerang - Kabupaten:**
 
        0﻿-150 km: Rp. 525.000
 
@@ -264,7 +264,7 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
        **\-﻿ Tarif:**
 
-       ‣ Jakarta:
+       **‣ Jakarta:**
 
        0﻿-2 km: Rp. 124.000
 
@@ -272,13 +272,13 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
        \>﻿120 km: Rp. 3.700/km
 
-       ‣ B﻿ekasi, Depok, Tangsel, Tangerang - Kota:
+       **‣ B﻿ekasi, Depok, Tangsel, Tangerang - Kota:**
 
        0﻿-2 km: Rp. 105.400
 
        \>﻿2 km: Rp. 3.200/km
 
-       ‣ B﻿ekasi, Bogor, Tangerang - Kabupaten:
+       **‣ B﻿ekasi, Bogor, Tangerang - Kabupaten:**
 
        0﻿-2 km: Rp. 99.200
 
@@ -286,7 +286,7 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
        **\- P﻿engiriman Antarkota:**
 
-       ‣ Jakarta :
+       **‣ Jakarta :**
 
        0﻿-150 km: Rp. 612.000
 
@@ -294,7 +294,7 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
        \>﻿300 km: Rp. 1.800/km
 
-       ‣ Bekasi, Depok, Tangsel, Tangerang - Kota :
+       **‣ Bekasi, Depok, Tangsel, Tangerang - Kota :**
 
        0﻿-150 km: Rp. 579.000
 
@@ -302,7 +302,7 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
        \>﻿300 km: Rp. 1.800/km
 
-       ‣ Bekasi, Bogor, Tangerang - Kabupaten:
+       **‣ Bekasi, Bogor, Tangerang - Kabupaten:**
 
        0﻿-150 km: Rp. 558.000
 
@@ -313,9 +313,69 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
        **\-﻿ Catatan:** Tarif jasa tersebut didasarikan pada beberapa faktor seperti situasi lalulintas, volumen pemesanan, ketersediaan mitra pengirim, toll yang dapat diaplikasikan, biaya tambahan dan lain-lain. Maka total tarif jasa tersebut dapat bervariasi. Tarif yang diperlihatkan pada saat adanya permintaan mungkin tidak akan sama jika adanya perubahan pada rincian pemesanan.
      * **E﻿ngkel Box:**
 
-       \-﻿ Berat Maksimal: 2000 kg
+       **\-﻿ Berat Maksimal**: 2000 kg
 
-       \- Batas Ukuran (P x L x T): 310 cm x 170 cm x 170 cm
+       **\- Batas Ukuran (P x L x T):** 310 cm x 170 cm x 170 cm
+
+       **\- ﻿ Biaya Minimal** : 
+
+       ‣ Rp. 240.000 (Jakarta)
+
+       ‣ R﻿p. 204.000 (Bekasi, Depok, Tangsel, Tangerang - Kota)
+
+       ‣ R﻿p. 192.000 (Bekasi, Bogor, Tangerang - Kabupaten)
+
+       **\-﻿ Jarak Dasar** : 2 km
+
+       **\-﻿ Tarif:**
+
+       **‣ Jakarta:**
+
+       0﻿-2 km: Rp. 240.000
+
+       2﻿-120 km: Rp. 3.300/km
+
+       \>﻿120 km: Rp. 4.000/km
+
+       **‣ B﻿ekasi, Depok, Tangsel, Tangerang - Kota:**
+
+       0﻿-2 km: Rp. 204.000
+
+       \>﻿2 km: Rp. 3.200/km
+
+       **‣ B﻿ekasi, Bogor, Tangerang - Kabupaten:**
+
+       0﻿-2 km: Rp. 192.000
+
+       \>﻿2 km: Rp. 3.100/km
+
+       **\- P﻿engiriman Antarkota:**
+
+       **‣ Jakarta :**
+
+       0﻿-150 km: Rp. 675.000
+
+       1﻿50-300 km: Rp. 2.700/km
+
+       \>﻿300 km: Rp. 2.300/km
+
+       **‣ Bekasi, Depok, Tangsel, Tangerang - Kota :**
+
+       0﻿-150 km: Rp. 637.500
+
+       1﻿50-300 km: Rp. 2.600/km
+
+       \>﻿300 km: Rp. 2.200/km
+
+       **‣** **Bekasi, Bogor, Tangerang - Kabupaten:**
+
+       0﻿-150 km: Rp. 599.000
+
+       1﻿50-300 km: Rp. 2.500/km
+
+       \>﻿300 km: Rp. 2.100/km
+
+       **\-﻿ Catatan:** Tarif jasa tersebut didasarikan pada beberapa faktor seperti situasi lalulintas, volumen pemesanan, ketersediaan mitra pengirim, toll yang dapat diaplikasikan, biaya tambahan dan lain-lain. Maka total tarif jasa tersebut dapat bervariasi. Tarif yang diperlihatkan pada saat adanya permintaan mungkin tidak akan sama jika adanya perubahan pada rincian pemesanan.
      * **E﻿ngkel Bak:**
 
        \-﻿ Berat Maksimal: 2500 kg
