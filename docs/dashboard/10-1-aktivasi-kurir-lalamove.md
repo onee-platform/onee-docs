@@ -26,8 +26,6 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
        \-﻿ Pengiriman Antarkota: -
 
        \-﻿ Catatan: Tarif jasa tersebut didasarikan pada beberapa faktor seperti situasi lalulintas, volumen pemesanan, ketersediaan mitra pengirim, toll yang dapat diaplikasikan, biaya tambahan dan lain-lain. Maka total tarif jasa tersebut dapat bervariasi. Tarif yang diperlihatkan pada saat adanya permintaan mungkin tidak akan sama jika adanya perubahan pada rincian pemesanan.
-
-
      * **S﻿edan:**
 
        \- Berat Maksimal: 100 kg
@@ -40,15 +38,15 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
        \-﻿ Tarif : 
 
-       ● **Jakarta** : Rp. 3.300 / km
+       Jakarta : Rp. 3.300 / km
 
-       ● **Bekasi, Depok, Tangsel, Tangerang - Kota** : Rp. 3.200 / km
+       Bekasi, Depok, Tangsel, Tangerang - Kota : Rp. 3.200 / km
 
-       ● **Bekasi, Bogor, Tangerang - Kabupaten** : Rp. 3.100 / km
+       Bekasi, Bogor, Tangerang - Kabupaten : Rp. 3.100 / km
 
        \-﻿ Pengiriman Antarkota : 
 
-       **Jakarta** :
+       Jakarta :
 
        0﻿-150 km: Rp. 507.000
 
@@ -56,7 +54,7 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
        \>﻿300 km: Rp. 1.800/km
 
-       **Bekasi, Depok, Tangsel, Tangerang - Kota :**
+       Bekasi, Depok, Tangsel, Tangerang - Kota :
 
        0﻿-150 km: Rp. 492.000
 
@@ -64,7 +62,7 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
        \>﻿300 km: Rp. 1.700/km
 
-       **Bekasi, Bogor, Tangerang - Kabupaten:**
+       Bekasi, Bogor, Tangerang - Kabupaten:
 
        0﻿-150 km: Rp. 477.700
 
