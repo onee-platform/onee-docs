@@ -73,8 +73,6 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
        \>﻿300 km: Rp. 1.600/km
 
        \-﻿ Catatan: Tarif jasa tersebut didasarikan pada beberapa faktor seperti situasi lalulintas, volumen pemesanan, ketersediaan mitra pengirim, toll yang dapat diaplikasikan, biaya tambahan dan lain-lain. Maka total tarif jasa tersebut dapat bervariasi. Tarif yang diperlihatkan pada saat adanya permintaan mungkin tidak akan sama jika adanya perubahan pada rincian pemesanan.
-
-
      * **M﻿obil:**
 
        \-﻿ Berat Maksimal: 200 kg
@@ -120,8 +118,6 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
        \>﻿300 km: Rp. 1.600/km
 
        \-﻿ Catatan: Tarif jasa tersebut didasarikan pada beberapa faktor seperti situasi lalulintas, volumen pemesanan, ketersediaan mitra pengirim, toll yang dapat diaplikasikan, biaya tambahan dan lain-lain. Maka total tarif jasa tersebut dapat bervariasi. Tarif yang diperlihatkan pada saat adanya permintaan mungkin tidak akan sama jika adanya perubahan pada rincian pemesanan.
-
-
      * **VAN:**
 
        \- Berat Maksimal: 600 kg
@@ -187,8 +183,6 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
        \>﻿300 km: Rp. 1.600/km
 
        \-﻿ Catatan: Tarif jasa tersebut didasarikan pada beberapa faktor seperti situasi lalulintas, volumen pemesanan, ketersediaan mitra pengirim, toll yang dapat diaplikasikan, biaya tambahan dan lain-lain. Maka total tarif jasa tersebut dapat bervariasi. Tarif yang diperlihatkan pada saat adanya permintaan mungkin tidak akan sama jika adanya perubahan pada rincian pemesanan.
-
-
      * **P﻿ick Up Bak:**
 
        \-﻿ Berat Maksimal: 800 kg
@@ -202,8 +196,6 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
        R﻿p. 80.500 (Bekasi, Depok, Tangsel, Tangerang - Kota)
 
        R﻿p. 76.000 (Bekasi, Bogor, Tangerang - Kabupaten)
-
-
      * **P﻿ick Up Box:**
 
        \-﻿ Berat Maksimal: 1000 kg
