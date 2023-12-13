@@ -11,7 +11,7 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
    * Berikut dibawah ini k﻿etentuan yang ada pada setiap jenis Armada Pengiriman:
 
-     * **M﻿otor:** 
+     * **M﻿OTOR:**
 
        \- Berat Maksimal: 20 kg
 
@@ -26,6 +26,9 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
        \-﻿ Pengiriman Antarkota: -
 
        \-﻿ Catatan: Tarif jasa tersebut didasarikan pada beberapa faktor seperti situasi lalulintas, volumen pemesanan, ketersediaan mitra pengirim, toll yang dapat diaplikasikan, biaya tambahan dan lain-lain. Maka total tarif jasa tersebut dapat bervariasi. Tarif yang diperlihatkan pada saat adanya permintaan mungkin tidak akan sama jika adanya perubahan pada rincian pemesanan.
+     * **S﻿EDAN:**
+
+
      * **VAN:**
 
        \- Berat Maksimal: 600 kg
