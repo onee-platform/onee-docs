@@ -767,7 +767,7 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
           ‣ Tol ke Yogyakarta: Rp550.000
         * P﻿engangkut untuk bongkar muat barang: Rp100.000
         * W﻿aktu tunggu (lebih dari 1 jam): Rp35.000
-     5. **P﻿ick Up Bak**
+     5. **P﻿ick Up Bak:**
 
         **P﻿erhentian Tambahan**: +Rp10.000/perhentian
 
@@ -800,7 +800,41 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
           ‣ Tol ke Yogyakarta: Rp550.000
         * P﻿engangkut untuk bongkar muat barang: Rp100.000
-        * W﻿aktu tunggu (lebih dari 1 jam): Rp35.000
+        * W﻿aktu tunggu (lebih dari 1 jam): Rp50.000
+     6. **P﻿ick Up Box:**
+
+        **P﻿erhentian Tambahan**: +Rp10.000/perhentian
+
+        **P﻿erjalanan pulang pergi**: +Rp100.000 biaya tetap
+
+        **P﻿engiriman Pintu ke Pintu**: +Rp20.000 biaya tetap 
+
+        **T﻿ol**: +Rp25.000 biaya tetap
+
+        **P﻿engangkut untuk bongkar muat barang:** +Rp85.000 biaya tetap
+
+        **W﻿aktu Tunggu (lebih dari 60 menit):**
+
+        \>﻿ 60 menit: +Rp50.000
+
+        **P﻿engiriman Antarkota:**
+
+        * P﻿erhentian Tambahan: +Rp15.000/perhentian
+        * B﻿iaya Tol:
+
+          ‣ Tol ke Malang: Rp1.067.000
+
+          ‣ Tol ke Cirebon: Rp198.000
+
+          ‣ Tol ke Surabaya: Rp970.000
+
+          ‣ Tol ke Bandung: Rp100.000
+
+          ‣ Tol ke Semarang: Rp450.000
+
+          ‣ Tol ke Yogyakarta: Rp550.000
+        * P﻿engangkut untuk bongkar muat barang: Rp100.000
+        * W﻿aktu tunggu (lebih dari 1 jam): Rp50.000
    * ##### **J﻿am Operasional Pengiriman Lalamove:** 
 
      * P﻿ertanyaan yang sering diajukan, seperti: Kapan barang akan dikirim?
