@@ -450,6 +450,64 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
        \- Berat Maksimal: 5000 kg
 
        \- Batas Ukuran (P x L x T): 450 cm x 200 cm x 200 cm
+
+       **\- ﻿ Biaya Minimal** : 
+
+       ‣ Rp. 432.000 (Jakarta)
+
+       ‣ R﻿p. 408.000 (Bekasi, Depok, Tangsel, Tangerang - Kota) 
+
+       ‣ R﻿p. 384.000 (Bekasi, Bogor, Tangerang - Kabupaten) 
+
+       **\-﻿ Jarak Dasar** : 2 km
+
+       **\-﻿ Tarif:**
+
+       **‣ Jakarta:**
+
+       0﻿-2 km: Rp. 432.000
+
+       \>2 km: Rp. 6.300/km
+
+       **‣ B﻿ekasi, Depok, Tangsel, Tangerang - Kota:**
+
+       0﻿-2 km: Rp. 408.000
+
+       \>2 km: Rp. 6.200/km
+
+       **‣ B﻿ekasi, Bogor, Tangerang - Kabupaten:**
+
+       0﻿-2 km: Rp. 384.000
+
+       \>2 km: Rp. 5.800/km
+
+       **\- P﻿engiriman Antarkota:**
+
+       **‣ Jakarta :**
+
+       0﻿-150 km: Rp. 783.000
+
+       1﻿50-300 km: Rp. 2.700/km
+
+       \>﻿300 km: Rp. 2.300/km
+
+       **‣ Bekasi, Depok, Tangsel, Tangerang - Kota :**
+
+       0﻿-150 km: Rp. 739.500
+
+       1﻿50-300 km: Rp. 2.600/km
+
+       \>﻿300 km: Rp. 2.200/km
+
+       **‣** **Bekasi, Bogor, Tangerang - Kabupaten:**
+
+       0﻿-150 km: Rp. 696.000
+
+       1﻿50-300 km: Rp. 2.500/km
+
+       \>﻿300 km: Rp. 2.100/km
+
+       **\-﻿ Catatan:** Tarif jasa tersebut didasarikan pada beberapa faktor seperti situasi lalulintas, volumen pemesanan, ketersediaan mitra pengirim, toll yang dapat diaplikasikan, biaya tambahan dan lain-lain. Maka total tarif jasa tersebut dapat bervariasi. Tarif yang diperlihatkan pada saat adanya permintaan mungkin tidak akan sama jika adanya perubahan pada rincian pemesanan.
      * **C﻿DD Bak:**
 
        \-﻿ Berat Maksimal: 5000 kg
