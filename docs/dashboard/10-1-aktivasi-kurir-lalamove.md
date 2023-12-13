@@ -118,23 +118,23 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
        **\-﻿ Catatan**: Tarif jasa tersebut didasarikan pada beberapa faktor seperti situasi lalulintas, volumen pemesanan, ketersediaan mitra pengirim, toll yang dapat diaplikasikan, biaya tambahan dan lain-lain. Maka total tarif jasa tersebut dapat bervariasi. Tarif yang diperlihatkan pada saat adanya permintaan mungkin tidak akan sama jika adanya perubahan pada rincian pemesanan.
      * **VAN:**
 
-       \- Berat Maksimal: 600 kg
+       **\- Berat Maksimal:** 600 kg
 
-       \- Batas Ukuran (P x L x T): 210 cm x 150 cm x 120 cm
+       **\- Batas Ukuran (P x L x T):** 210 cm x 150 cm x 120 cm
 
-       \- ﻿ Biaya Minimal : 
+       **\- ﻿ Biaya Minimal :** 
 
-       Rp. 76.500 (Jakarta)
+       ‣ Rp. 76.500 (Jakarta)
 
-       R﻿p. 72.300 (Bekasi, Depok, Tangsel, Tangerang - Kota)
+       ‣ R﻿p. 72.300 (Bekasi, Depok, Tangsel, Tangerang - Kota)
 
-       R﻿p. 68.000 (Bekasi, Bogor, Tangerang - Kabupaten)
+       ‣ R﻿p. 68.000 (Bekasi, Bogor, Tangerang - Kabupaten)
 
-       \-﻿ Jarak Dasar : 5 km
+       **\-﻿ Jarak Dasar : 5 km**
 
-       \-﻿ Tarif: 
+       **\-﻿ Tarif:** 
 
-       **Jakarta**:
+       ‣ Jakarta:
 
        0﻿-5km: Rp. 76.500
 
@@ -142,21 +142,21 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
        \>﻿120 km: Rp. 3.700/km
 
-       **B﻿ekasi, Depok, Tangsel, Tangerang - Kota:**
+       ‣ B﻿ekasi, Depok, Tangsel, Tangerang - Kota:
 
        0﻿-5 km: Rp. 72.000
 
        \>﻿5 km: Rp. 3.200/km
 
-       **B﻿ekasi, Bogor, Tangerang - Kabupaten:**
+       ‣ B﻿ekasi, Bogor, Tangerang - Kabupaten:
 
        0﻿-5 km: Rp. 68.00
 
        \>﻿5 km: Rp. 3.100/km
 
-       P﻿engiriman Antarkota:
+       **\- P﻿engiriman Antarkota:**
 
-       **Jakarta** :
+       ‣ Jakarta :
 
        0﻿-150 km: Rp. 540.000
 
@@ -164,7 +164,7 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
        \>﻿300 km: Rp. 1.800/km
 
-       **Bekasi, Depok, Tangsel, Tangerang - Kota :**
+       ‣ Bekasi, Depok, Tangsel, Tangerang - Kota :
 
        0﻿-150 km: Rp. 510.000
 
@@ -172,7 +172,7 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
        \>﻿300 km: Rp. 1.800/km
 
-       **Bekasi, Bogor, Tangerang - Kabupaten:**
+       ‣ Bekasi, Bogor, Tangerang - Kabupaten:
 
        0﻿-150 km: Rp. 480.000
 
@@ -180,7 +180,7 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
        \>﻿300 km: Rp. 1.600/km
 
-       \-﻿ Catatan: Tarif jasa tersebut didasarikan pada beberapa faktor seperti situasi lalulintas, volumen pemesanan, ketersediaan mitra pengirim, toll yang dapat diaplikasikan, biaya tambahan dan lain-lain. Maka total tarif jasa tersebut dapat bervariasi. Tarif yang diperlihatkan pada saat adanya permintaan mungkin tidak akan sama jika adanya perubahan pada rincian pemesanan.
+       **\-﻿ Catatan:** Tarif jasa tersebut didasarikan pada beberapa faktor seperti situasi lalulintas, volumen pemesanan, ketersediaan mitra pengirim, toll yang dapat diaplikasikan, biaya tambahan dan lain-lain. Maka total tarif jasa tersebut dapat bervariasi. Tarif yang diperlihatkan pada saat adanya permintaan mungkin tidak akan sama jika adanya perubahan pada rincian pemesanan.
      * **P﻿ick Up Bak:**
 
        \-﻿ Berat Maksimal: 800 kg
