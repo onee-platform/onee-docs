@@ -649,7 +649,7 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
        **\- P﻿engiriman Antarkota:** -
 
        **\-﻿ Catatan:** Harap perhatikan bahwa tarif untuk beberapa jenis armada pengiriman didasarkan pada beberapa faktor seperti volume pesanan, ketersediaan pengemudi, dll. Tarif total dari jenis armada pengiriman tersebut dapat berbeda dan mungkin lebih tinggi atau lebih rendah dari yang disebutkan di atas.
-   * ##### **B﻿iaya Tambahan**
+   * #### **B﻿iaya Tambahan**
 
      1. **M﻿otor:** 
 
@@ -1001,7 +1001,7 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
          L﻿ebih dari 1 jam: +Rp150.000
 
          L﻿ebih dari 2 jam: +Rp200.000
-   * ##### **J﻿am Operasional Pengiriman Lalamove:** 
+   * #### **J﻿am Operasional Pengiriman Lalamove:**
 
      * P﻿ertanyaan yang sering diajukan, seperti: Kapan barang akan dikirim?
 
@@ -1043,7 +1043,5 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
    * P﻿astikan bahwa Barang yang diberikan kepada Kurir untuk dikirim wajib dilengkapi dengan kemasan yang baik, dalam keadaan tertutup, dan layak untuk memastikan Barang dalam keadaan baik dan/atau tidak rusak pada saat pengantaran. 
    * K﻿urir berhak untuk meminta Pengirim untuk memperbaiki kemasan Barang atau mengemas ulang Barang apabila Kurir atas pertimbangannya yang wajar menentukan bahwa kemasan Barang tidak dalam kondisi sebagaimana ditentukan dalam point (1) diatas.
-
-
 
 *\*﻿Update: 13 Desember 2023*
