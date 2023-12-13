@@ -26,6 +26,8 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
        \-﻿ Pengiriman Antarkota: -
 
        \-﻿ Catatan: Tarif jasa tersebut didasarikan pada beberapa faktor seperti situasi lalulintas, volumen pemesanan, ketersediaan mitra pengirim, toll yang dapat diaplikasikan, biaya tambahan dan lain-lain. Maka total tarif jasa tersebut dapat bervariasi. Tarif yang diperlihatkan pada saat adanya permintaan mungkin tidak akan sama jika adanya perubahan pada rincian pemesanan.
+
+
      * **S﻿edan:**
 
        \- Berat Maksimal: 100 kg
