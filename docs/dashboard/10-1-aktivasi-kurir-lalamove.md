@@ -140,7 +140,7 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
        \-﻿ Tarif: 
 
-       **Jakarta** :
+       **Jakarta**:
 
        0﻿-5km: Rp. 76.500
 
@@ -187,11 +187,23 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
        \>﻿300 km: Rp. 1.600/km
 
        \-﻿ Catatan: Tarif jasa tersebut didasarikan pada beberapa faktor seperti situasi lalulintas, volumen pemesanan, ketersediaan mitra pengirim, toll yang dapat diaplikasikan, biaya tambahan dan lain-lain. Maka total tarif jasa tersebut dapat bervariasi. Tarif yang diperlihatkan pada saat adanya permintaan mungkin tidak akan sama jika adanya perubahan pada rincian pemesanan.
+
+
      * **P﻿ick Up Bak:**
 
        \-﻿ Berat Maksimal: 800 kg
 
        \- Batas Ukuran (P x L x T): 200 cm x 160 cm x 120 cm
+
+       \- ﻿ Biaya Minimal : 
+
+       Rp. 85.500 (Jakarta)
+
+       R﻿p. 80.500 (Bekasi, Depok, Tangsel, Tangerang - Kota)
+
+       R﻿p. 76.000 (Bekasi, Bogor, Tangerang - Kabupaten)
+
+
      * **P﻿ick Up Box:**
 
        \-﻿ Berat Maksimal: 1000 kg
