@@ -10,7 +10,7 @@ Berikut adalah contoh penggunaan filter di menu **Semua Pelanggan** ( list custo
 
    ![](/img/button-filter.png)
 
-   * T﻿ampilan list yang bisa di filter.
+   * T﻿ampilan list kolom yang bisa di filter.
 
    ![](/img/tampilan-list-filter.png)
 
@@ -27,3 +27,4 @@ Berikut adalah contoh penggunaan filter di menu **Semua Pelanggan** ( list custo
    * **S﻿ama Dengan (=)**: Keyword yang Anda ketik harus sama dengan yang ingin Anda cari. Contoh, ketik keyword "**Testing**", maka hasil yang dimunculkan hanya pelanggan **Testing**. Pelanggan dengan nama Testing A/Testing B dll tidak akan muncul.
    * **D﻿imulai Kata**: ketik keyword huruf "**T**" maka nama pelanggan yang diawali dengan huruf **T** akan dimunculkan.
    * **D﻿iakhiri Kata**: ketik keyword huruf "**T**" maka nama pelanggan yang diakhiri dengan huruf **T** akan dimunculkan.
+3.
