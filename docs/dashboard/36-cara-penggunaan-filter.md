@@ -31,4 +31,5 @@ sidebar_label: 36. Cara Penggunaan Filter
 
    * **S﻿ama dengan (=)**: ketik di kolom Kata Pencarian angka 100, maka semua pelanggan yang reputasinya 100, akan ditampilkan.
    * **L﻿ebih besar (>)**: ketik di kolom Kata Pencarian angka 100, maka hasil filternya 0/kosong. Karena nilai reputasi paling besar adalah 100.
-   * **B﻿esar sama dengan (>=)**: ketik di kolom Kata Pencarian angka 100, maka semua pelanggan yang reputasinya di angka 100, akan ditampilkan.
+   * **B﻿esar sama dengan (>=)**: ketik di kolom Kata Pencarian angka 100, maka semua pelanggan yang reputasinya di angka 100, akan ditampilkan. 
+   * **K﻿urang dari (<)**: ketik di kolom Kata Pencarian angka 100, maka pelanggan yang reputasinya di bawah 100, akan ditampilkan. Reputasi yang ditampilkan dari angka 1-99.
