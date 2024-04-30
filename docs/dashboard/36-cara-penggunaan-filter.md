@@ -25,8 +25,9 @@ sidebar_label: 36. Cara Penggunaan Filter
    * **D﻿imulai Kata**: ketik keyword huruf "**T**" maka nama pelanggan yang diawali dengan huruf **T** akan dimunculkan.
    * **D﻿iakhiri Kata**: ketik keyword huruf "**T**" maka nama pelanggan yang diakhiri dengan huruf **T** akan dimunculkan.
 
-   b﻿. Angka pada reputasi ini dimulai dari angka 1-100, dan tidak bisa lebih dari 100. Dibawah ini adalah contoh jika ingin memfilter angka reputasi pelanggan yang nilainya 100, berikut penjelasannya.
+   b﻿. Angka pada reputasi ini dimulai dari angka 1-100, dan tidak bisa lebih dari 100. Di bawah ini adalah contoh jika ingin memfilter angka reputasi pelanggan yang nilainya 100, berikut penjelasannya.
 
    ![](/img/filter-kolom-reputasi.png)
 
    * **S﻿ama dengan (=)**: ketik di kolom Kata Pencarian angka 100, maka semua pelanggan yang reputasinya 100, akan ditampilkan.
+   * **L﻿ebih besar (>)**: ketik di kolom Kata Pencarian angka 100, maka hasil filternya 0/kosong. Karena nilai reputasi paling besar adalah 100.
