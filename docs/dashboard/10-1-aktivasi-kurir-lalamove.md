@@ -1041,8 +1041,21 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
    ##### 3.2 Kemasan Barang
 
-   *
    * P﻿astikan bahwa Barang yang diberikan kepada Kurir untuk dikirim wajib dilengkapi dengan kemasan yang baik, dalam keadaan tertutup, dan layak untuk memastikan Barang dalam keadaan baik dan/atau tidak rusak pada saat pengantaran. 
    * K﻿urir berhak untuk meminta Pengirim untuk memperbaiki kemasan Barang atau mengemas ulang Barang apabila Kurir atas pertimbangannya yang wajar menentukan bahwa kemasan Barang tidak dalam kondisi sebagaimana ditentukan dalam point (1) diatas.
 
+
+
    ##### 3.3 Jika driver nya idle tidak ada konfirmasi delivery / pod.
+
+   1. Secara operational dan order flow API (https://developers.lalamove.com/#order-flow), setelah PICKED_UP, expected status pengiriman setelahnya adalah COMPLETED. 
+
+   Dalam status PICKED_UP, pesanan tidak dapat dibatalkan (begitu saja) oleh CX Lalamove karena barang sudah dijemput. Apabila memang ada request 'pembatalan' dari sisi driver atau pengiriman dengan alasan kecelakaan, pengubahan alamat, dll., maka yang akan dilakukan dari CX Lalamove adalah CANCEL & CLONE.
+
+   Dalam hal ini, pesanan sebelumnya akan dibatalkan oleh CX Lalamove dan CX Lalamove akan membuat order baru (order ID baru) dengan menambahkan informasi tambahan (tergantung kebutuhan). Di tahap ini, event Webhook yang akan diterima adalah ORDER_REPLACED, dimana akan kelihatan order ID lama dan order ID baru. 
+
+   Artinya, akan menerima Webhook ORDER_STATUS_CHANGED (ASSIGNING_DRIVER) kembali dari order ID baru.
+
+   Di case ini, ini akan terdetect "order fiktif* dari sisi Tim Anti Fraud kami, sehingga orderan sebelumnya menjadi CANCELLED dan tidak ada order pengganti. Oleh karena itu, status POD yang akan diterima adalah FAILED dan tidak ada foto POD.
+
+   Dalam hal ini, akan ada investigasi dari sisi Lalamove, apakah ini fake completed atau ada case lost goods.
