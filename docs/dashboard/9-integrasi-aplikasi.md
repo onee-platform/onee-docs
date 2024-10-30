@@ -10,10 +10,10 @@ Onee.id menyediakan aplikasi Midtrans sebagai solusi payment gateway Anda. Jika 
 
    \-﻿ Kemudian, ketika Anda sudah berhasil login, pada bagian Environment terdapat 2 pilihan, ada *Production* ( untuk development ) dan ada *Sandbox* ( untuk Testing ). 
 
-   D﻿isini kami m﻿emilih *Sandbox* sebagai contoh untuk testing, lalu buka halaman <https://dashboard.sandbox.midtrans.com/settings/config_info>
+   D﻿isini kami m﻿emilih *Sandbox* sebagai contoh untuk testing, lalu buka menu *Settings* -> *Access Key*
 
    ![](/img/9.-integrasi-aplikasi-midtrans-sandbox-testing-.png)
-2. Di halaman tersebut akan menampilkan Merchant ID, Server Key & Client Key untuk Anda copy dan tempel di menu Integrasi > Aplikasi pada [dashboard.onee.id](dashboard.onee.id), lakukan seperti gambar dibawah kemudian simpan, maka aplikasi midtrans akan terhubung.
+2. Di halaman tersebut akan menampilkan Merchant ID, Server Key & Client Key untuk Anda copy dan tempel di menu Integrasi Aplikasi pada [dashboard.onee.id](dashboard.onee.id), lakukan seperti gambar dibawah kemudian simpan, maka aplikasi midtrans akan terhubung.
 
    ![](/img/9.1-integrasi-aplikasi.png)
 3. D﻿an langkah terakhir untuk integrasi, Anda perlu membuka halaman konfigurasi di midtrans: <https://dashboard.sandbox.midtrans.com/settings/vtweb_configuration> kemudian masukan link <https://api.onee.id/midtrans/notification> pada kolom Payment Notification URL*.
