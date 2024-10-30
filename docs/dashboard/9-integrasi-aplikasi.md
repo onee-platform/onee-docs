@@ -8,7 +8,7 @@ Onee.id menyediakan aplikasi Midtrans sebagai solusi payment gateway Anda. Jika 
 
    \- S﻿ebelum Anda membuka menu Integrasi > Aplikasi pada dashboard.onee.id, langkah awal yang harus dilakukan adalah login ke dalam midtrans.com bagi Anda yang sudah mempunyai akun. Dan bagi Anda yang belum mempunyai akun, maka bisa register terlebih dahulu di <https://dashboard.midtrans.com/register>
 
-   \-﻿ Ketika Anda sudah berhasil login, pada tampilan dashboard midtrans bagian **Environment** terdapat 2 pilihan, ada *Production* ( untuk development ) dan ada *Sandbox* ( untuk Testing ). Pastikan dashboard midtrans Anda berada di dashboard *Production.*
+   \-﻿ Ketika Anda sudah berhasil login, pada tampilan dashboard midtrans bagian **Environment** terdapat 2 pilihan, ada *Production* ( untuk development ) dan ada *Sandbox* ( untuk Testing ). Pilih sesuai dengan kebutuhan Anda*Production.*
 
    \-﻿ Selanjutnya Anda bisa langsung klik menu *Settings* -> *Access Key*
 
