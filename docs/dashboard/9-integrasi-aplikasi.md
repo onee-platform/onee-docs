@@ -16,5 +16,6 @@ Onee.id menyediakan aplikasi Midtrans sebagai solusi payment gateway Anda. Jika 
 2. Di halaman tersebut akan menampilkan Merchant ID, Server Key & Client Key untuk Anda copy dan tempel di menu Integrasi Aplikasi pada [dashboard.onee.id](dashboard.onee.id), lakukan seperti gambar dibawah kemudian simpan, maka aplikasi midtrans akan terhubung.
 
    ![](/img/9.1-integrasi-aplikasi.png)
-3. D﻿an langkah terakhir untuk integrasi aplikasi midtrans, Anda buka kembali dashboard midtrans, kemudian masuk ke menu Settings -> Payment. ﻿Kemudian masukan link https://api.onee.id/midtrans/notification pada kolom Payment Notification URL*.
-4.
+3. D﻿an langkah terakhir untuk integrasi aplikasi midtrans, Anda buka kembali dashboard midtrans, kemudian masuk ke menu *Settings* -> *Payment* -> pilih/klik *Notification URL*.
+
+   K﻿emudian masukan link https://midtrans.onee.id
