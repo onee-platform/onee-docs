@@ -1,6 +1,6 @@
 ---
-title: 26. Pengaturan Notifikasi WA
-sidebar_label: 26. Pengaturan Notifikasi WA
+title: 26. Pengaturan Notifikasi WhatsApp (WA)
+sidebar_label: 26. Pengaturan Notifikasi WhatsApp (WA)
 ---
 U﻿ntuk pengaturan notifikasi di [dashboard.onee.id](dashboard.onee.id) ini terdapat 2 pilihan, bisa Anda atur di E-mail(s) atau WhatsApp.
 
