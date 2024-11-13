@@ -16,8 +16,7 @@ B﻿erikut dibawah ini adalah cara dan penjelasan tentang pengaturan notifikasi 
    K﻿emudian Anda perlu masukan kode OTP yang Anda dapatkan di nomor WhatsApp yang telah didaftarkan.
 
    ![](/img/pengaturan-notifikasi-wa-masukan-kode-otp.png)
-3. S﻿etelah kode OTP sudah berhasil terverifikasi, Anda akan diminta untuk scan barcode. Anda bisa scan barcode tersebut di aplikasi whatsApp buka menu settings WA -> buka linked devices -> kemudian arahkan kamera scan ke barcode tersebut.
-4.
+3. S﻿etelah kode OTP sudah berhasil terverifikasi, Anda akan diminta untuk scan barcode. Anda bisa scan barcode tersebut di aplikasi whatsApp dengan cara buka menu settings WA -> linked devices -> kemudian arahkan kamera scan ke barcode tersebut. 
 
 D﻿i pengaturan notifikasi whatsapp ini untuk template atau isi pesannya sudah disiapkan oleh system. 
 
