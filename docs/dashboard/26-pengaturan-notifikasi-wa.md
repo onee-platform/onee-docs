@@ -2,9 +2,15 @@
 title: 26. Pengaturan Notifikasi WhatsApp (WA)
 sidebar_label: 26. Pengaturan Notifikasi WhatsApp (WA)
 ---
-U﻿ntuk pengaturan notifikasi di [dashboard.onee.id](dashboard.onee.id) ini terdapat 2 pilihan, bisa Anda atur di E-mail(s) atau WhatsApp.
+Pengaturan notifikasi di [dashboard.onee.id](dashboard.onee.id) ini terdapat 2 pilihan, yaitu:  E-mail(s) & WhatsApp. 
 
-B﻿erikut dibawah ini adalah penjelasan tentang pengaturan notifikasi WhatsApp ( WA ). 
+U﻿ntuk menyalakan notifikasi whatsapp, Anda harus menghubungkan terlebih dahulu nomor whatsapp yang akan menjadi nomor untuk mengirim pesan ke customer.
+
+B﻿erikut dibawah ini adalah cara dan penjelasan tentang pengaturan notifikasi WhatsApp ( WA ).
+
+1. B﻿uka menu Notifikasi WA -> Pengaturan WA -> Tambah
+
+   ![](/img/pengaturan-notifikasi-wa-awal-daftar-no-wa.png)
 
 D﻿i pengaturan notifikasi whatsapp ini untuk template atau isi pesannya sudah disiapkan oleh system. 
 
