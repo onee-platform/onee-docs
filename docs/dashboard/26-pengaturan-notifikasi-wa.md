@@ -2,15 +2,22 @@
 title: 26. Pengaturan Notifikasi WhatsApp (WA)
 sidebar_label: 26. Pengaturan Notifikasi WhatsApp (WA)
 ---
-Pengaturan notifikasi di [dashboard.onee.id](dashboard.onee.id) ini terdapat 2 pilihan, yaitu:  E-mail(s) & WhatsApp. 
-
-U﻿ntuk menyalakan notifikasi whatsapp, Anda harus menghubungkan terlebih dahulu nomor whatsapp yang akan menjadi nomor untuk mengirim pesan ke customer.
+U﻿ntuk menyalakan notifikasi whatsapp, Anda harus menghubungkan terlebih dahulu nomor whatsapp yang akan dijadikan untuk mengirim pesan / notifikasi ke customer.
 
 B﻿erikut dibawah ini adalah cara dan penjelasan tentang pengaturan notifikasi WhatsApp ( WA ).
 
 1. B﻿uka menu Notifikasi WA -> Pengaturan WA -> Tambah
 
    ![](/img/pengaturan-notifikasi-wa-awal-daftar-no-wa.png)
+2. M﻿asukan No HP -> check box syarat & ketentuan -> klik kirim OTP.
+
+   ![](/img/pengaturan-notifikasi-wa-menambahkan-no-tlp-yg-ingin-didaftarkan-sbg-no-tlp-toko.png)
+
+   K﻿emudian Anda perlu masukan kode OTP yang Anda dapatkan di nomor WhatsApp yang telah didaftarkan.
+
+   ![](/img/pengaturan-notifikasi-wa-masukan-kode-otp.png)
+3. S﻿etelah kode OTP sudah berhasil terverifikasi, Anda akan diminta untuk scan barcode. Anda bisa scan barcode tersebut di aplikasi whatsApp buka menu settings WA -> buka linked devices -> kemudian arahkan kamera scan ke barcode tersebut.
+4.
 
 D﻿i pengaturan notifikasi whatsapp ini untuk template atau isi pesannya sudah disiapkan oleh system. 
 
