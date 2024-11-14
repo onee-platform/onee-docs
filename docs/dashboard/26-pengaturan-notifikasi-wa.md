@@ -52,6 +52,19 @@ B﻿erikut dibawah ini adalah cara dan penjelasan tentang pengaturan notifikasi 
 
      ![](/img/notif-wa-pesanan-selesai.png)
 3. U﻿ntuk nomor whatsapp yang sama, jika di salah satu toko Anda keluarkan whatsappnya, maka semua toko akan ikut terlepas.
-4. B﻿erikut adalah pop up yang muncul di menu pesanan jika whatsapp tidak terhubung / terlepas.
+
+   \-﻿ Whatsapp disconnect bisa dengan 2 cara:
+
+   \    1. Bisa melalui dari onee, dengan cara klik tombol Terhubung -> klik Yes ( seperti gambar dibawah )
+
+   ![](/img/tampilan-konfirmasi-keluar-whatsapp.png)
+
+   \    2. Logout atau disconnect dari HP
+
+   U﻿ntuk cara yang ke 2 ini, sistem Onee / OWA tidak akan tahu kalau koneksinya masih ada di HP atau sudah di putus oleh user. 
+
+   Maka dari itu ketika Anda klik tombol **Kirim Ke WhatsApp** di menu pesanan, maka pop up yang muncul masih berhasil ( tetapi pembeli sudah tidak menerima notifnya ). 
+
+   B﻿erikut adalah pop up yang muncul ketika sistem Onee / OWA telah mengetahui kalau sudah tidak terhubung.
 
    ![](/img/notifikasi-whatsapp-yang-terlepas.png)
