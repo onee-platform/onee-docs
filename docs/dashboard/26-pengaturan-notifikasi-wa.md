@@ -1,6 +1,6 @@
 ---
-title: 26. Pengaturan Notifikasi WhatsApp (WA)
-sidebar_label: 26. Pengaturan Notifikasi WhatsApp (WA)
+title: 26. Pengaturan Notifikasi Onee WhatsApp (OWA)
+sidebar_label: 26. Pengaturan Notifikasi Onee WhatsApp (OWA)
 ---
 U﻿ntuk menyalakan notifikasi whatsapp, Anda harus menghubungkan terlebih dahulu nomor whatsapp yang akan dijadikan untuk mengirim pesan / notifikasi ke customer.
 
