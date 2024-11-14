@@ -42,15 +42,13 @@ B﻿erikut dibawah ini adalah cara dan penjelasan tentang pengaturan notifikasi 
      \-﻿ N﻿otif tagihan ini juga akan langsung terkirim pada saat customer melakukan pembelian langsung dari website. 
 
      ![](/img/notif-wa-tagihan.png)
+   * W﻿hatsapp Order Payment Received: Otomatis mengirimkan notifikasi ke nomor whatsapp pembeli pada saat pembayaran tagihan diterima. 
+
+     ![](/img/notif-wa-terima-pembayaran.png)
+   * W﻿hatsapp Order Ready to Pickup: Notifikasi ini hanya dikirimkan untuk pesanan dengan metode pengiriman (self-pickup).
+
+     ![](/img/notif-wa-pesanan-siap-diambil.png)
 3. U﻿ntuk nomor whatsapp yang sama, jika di salah satu toko Anda keluarkan whatsappnya, maka semua toko akan ikut terlepas.
 4. B﻿erikut adalah pop up yang muncul di menu pesanan jika whatsapp tidak terhubung / terlepas.
 
    ![](/img/notifikasi-whatsapp-yang-terlepas.png)
-5. W﻿hatsapp New Order Billing: Ketika Anda klik Buat Tagihan pada pesanan pelanggan, maka pelanggan akan langsung mendapatkan notifikasi whatsapp yang berisikan pesanan dan info untuk melakukan pembayaran.
-6. ![](/img/26.-notif-wa-buat-tagihan.png)
-7. W﻿hatsapp Order Payment Received: Otomatis mengirimkan notifikasi ke nomor whatsapp pembeli pada saat pembayaran tagihan diterima. 
-
-   ![](/img/26.-notif-wa-pembayaran-diterima.png)
-8. W﻿hatsapp Order Ready to Pickup: Notifikasi ini hanya dikirimkan untuk pesanan dengan metode pengiriman (self-pickup).
-
-   ![](/img/26.-notif-wa-siap-untuk-dipickup-self-pickup-.png)
