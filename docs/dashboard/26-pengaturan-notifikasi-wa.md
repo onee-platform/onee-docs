@@ -23,10 +23,13 @@ B﻿erikut dibawah ini adalah cara dan penjelasan tentang pengaturan notifikasi 
 
 
 
-**P﻿enjelasan:**
+**P﻿enjelasan:** 
 
-1. J﻿ika Anda memiliki lebih dari 1 toko dan ingin di aktifkan notifikasi WA nya dengan nomor yang sama, maka Anda hanya perlu masukan n﻿omor whatsapp dan kode OTP di onee tanpa melakukan scan barcode lagi.
+1. J﻿ika Anda memiliki lebih dari 1 toko dan ingin aktifkan notifikasi WA nya dengan nomor yang sama, maka Anda hanya perlu masukan n﻿omor whatsapp dan kode OTP di onee tanpa melakukan scan barcode lagi.
 2. U﻿ntuk nomor whatsapp yang sama, jika di salah satu toko Anda keluarkan whatsappnya, maka semua toko akan ikut terlepas.
+3. B﻿erikut adalah pop up yang muncul di menu pesanan jika whatsapp tidak terhubung / terlepas.
+
+   ![](/img/notifikasi-whatsapp-yang-terlepas.png)
 
 D﻿i pengaturan notifikasi whatsapp ini untuk template atau isi pesannya sudah disiapkan oleh system. 
 
