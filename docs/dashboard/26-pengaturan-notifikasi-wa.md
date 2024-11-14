@@ -34,15 +34,20 @@ B﻿erikut dibawah ini adalah cara dan penjelasan tentang pengaturan notifikasi 
 
    * W﻿hatsapp New Order: Notifikasi ini hanya didapatkan untuk pelanggan yang melakukan pembelian melalui website.
 
-     ![]()
+     ![](/img/notif-wa-new-order-billing.png)
+   * W﻿hatsapp New Order Billing: 
+
+     \- Ketika Anda klik Buat Tagihan pada pesanan pelanggan, maka pelanggan akan langsung mendapatkan notifikasi whatsapp yang berisikan pesanan dan info untuk melakukan pembayaran. 
+
+     \-﻿ N﻿otif tagihan ini juga akan langsung terkirim pada saat customer melakukan pembelian langsung dari website. 
+
+     ![](/img/notif-wa-tagihan.png)
 3. U﻿ntuk nomor whatsapp yang sama, jika di salah satu toko Anda keluarkan whatsappnya, maka semua toko akan ikut terlepas.
 4. B﻿erikut adalah pop up yang muncul di menu pesanan jika whatsapp tidak terhubung / terlepas.
 
    ![](/img/notifikasi-whatsapp-yang-terlepas.png)
-5. W﻿hatsapp New Order: Notifikasi ini hanya didapatkan untuk pelanggan yang melakukan pembelian melalui website.
-6. W﻿hatsapp New Order Billing: Ketika Anda klik Buat Tagihan pada pesanan pelanggan, maka pelanggan akan langsung mendapatkan notifikasi whatsapp yang berisikan pesanan dan info untuk melakukan pembayaran.
-
-   ![](/img/26.-notif-wa-buat-tagihan.png)
+5. W﻿hatsapp New Order Billing: Ketika Anda klik Buat Tagihan pada pesanan pelanggan, maka pelanggan akan langsung mendapatkan notifikasi whatsapp yang berisikan pesanan dan info untuk melakukan pembayaran.
+6. ![](/img/26.-notif-wa-buat-tagihan.png)
 7. W﻿hatsapp Order Payment Received: Otomatis mengirimkan notifikasi ke nomor whatsapp pembeli pada saat pembayaran tagihan diterima. 
 
    ![](/img/26.-notif-wa-pembayaran-diterima.png)
