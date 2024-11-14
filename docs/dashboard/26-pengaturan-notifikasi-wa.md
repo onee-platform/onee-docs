@@ -45,9 +45,12 @@ B﻿erikut dibawah ini adalah cara dan penjelasan tentang pengaturan notifikasi 
    * W﻿hatsapp Order Payment Received: Otomatis mengirimkan notifikasi ke nomor whatsapp pembeli pada saat pembayaran tagihan diterima. 
 
      ![](/img/notif-wa-terima-pembayaran.png)
-   * W﻿hatsapp Order Ready to Pickup: Notifikasi ini hanya dikirimkan untuk pesanan dengan metode pengiriman (self-pickup).
+   * W﻿hatsapp Order Ready to Pickup: Otomatis mengirimkan notifikasi ke nomor whatsapp pembeli pada saat pesanan telah siap untuk diambil (pickup), notifikasi ini hanya dikirimkan untuk pesanan dengan metode pengiriman (self-pickup).
 
      ![](/img/notif-wa-pesanan-siap-diambil.png)
+   * W﻿hatsApp Order Finished: Otomatis mengirimkan notifikasi ke nomor whatsapp pembeli pada saat pesanan telah selesai ( diambil langsung oleh pembeli / dikonfirmasi oleh sistem pengiriman sudah tiba di lokasi pembeli ).
+
+     ![](/img/notif-wa-pesanan-selesai.png)
 3. U﻿ntuk nomor whatsapp yang sama, jika di salah satu toko Anda keluarkan whatsappnya, maka semua toko akan ikut terlepas.
 4. B﻿erikut adalah pop up yang muncul di menu pesanan jika whatsapp tidak terhubung / terlepas.
 
