@@ -17,7 +17,7 @@ B﻿erikut dibawah ini adalah cara dan penjelasan tentang pengaturan notifikasi 
 
    K﻿emudian Anda perlu masukan kode OTP yang Anda dapatkan di nomor WhatsApp yang telah didaftarkan.
 
-   ![](/img/pengaturan-notifikasi-wa-masukan-kode-otp.png)
+   ![](/img/pengaturan-notifikasi-wa-kode-otp.png)
 3. S﻿etelah kode OTP sudah berhasil terverifikasi, Anda akan diminta untuk scan barcode. Anda bisa scan barcode tersebut di aplikasi whatsApp dengan cara buka menu settings WA -> linked devices -> kemudian arahkan kamera scan ke barcode yang muncul di layar dashboard onee.
 4. S﻿elesai, onee whatsapp telah terhubung dengan whatsapp Anda.
 
@@ -26,24 +26,26 @@ B﻿erikut dibawah ini adalah cara dan penjelasan tentang pengaturan notifikasi 
 **P﻿enjelasan:** 
 
 1. J﻿ika Anda memiliki lebih dari 1 toko dan ingin aktifkan notifikasi WA nya dengan nomor yang sama, maka Anda hanya perlu masukan n﻿omor whatsapp dan kode OTP di onee tanpa melakukan scan barcode lagi.
-2. U﻿ntuk nomor whatsapp yang sama, jika di salah satu toko Anda keluarkan whatsappnya, maka semua toko akan ikut terlepas.
-3. B﻿erikut adalah pop up yang muncul di menu pesanan jika whatsapp tidak terhubung / terlepas.
+2. D﻿i pengaturan notifikasi whatsapp ini untuk template atau isi pesannya sudah disiapkan oleh system. 
+
+   Anda hanya perlu memilih Yes/No ( *seperti gambar dibawah* ).
+
+   ![](/img/26.-pengaturan-notifikasi-wa.png)
+
+   * W﻿hatsapp New Order: Notifikasi ini hanya didapatkan untuk pelanggan yang melakukan pembelian melalui website.
+
+     ![]()
+3. U﻿ntuk nomor whatsapp yang sama, jika di salah satu toko Anda keluarkan whatsappnya, maka semua toko akan ikut terlepas.
+4. B﻿erikut adalah pop up yang muncul di menu pesanan jika whatsapp tidak terhubung / terlepas.
 
    ![](/img/notifikasi-whatsapp-yang-terlepas.png)
-
-D﻿i pengaturan notifikasi whatsapp ini untuk template atau isi pesannya sudah disiapkan oleh system. 
-
-Anda hanya perlu memilih Yes/No ( *seperti gambar dibawah* ).
-
-![](/img/26.-pengaturan-notifikasi-wa.png)
-
-1. W﻿hatsapp New Order: Notifikasi ini hanya didapatkan untuk pelanggan yang melakukan pembelian melalui website.
-2. W﻿hatsapp New Order Billing: Ketika Anda klik Buat Tagihan pada pesanan pelanggan, maka pelanggan akan langsung mendapatkan notifikasi whatsapp yang berisikan pesanan dan info untuk melakukan pembayaran.
+5. W﻿hatsapp New Order: Notifikasi ini hanya didapatkan untuk pelanggan yang melakukan pembelian melalui website.
+6. W﻿hatsapp New Order Billing: Ketika Anda klik Buat Tagihan pada pesanan pelanggan, maka pelanggan akan langsung mendapatkan notifikasi whatsapp yang berisikan pesanan dan info untuk melakukan pembayaran.
 
    ![](/img/26.-notif-wa-buat-tagihan.png)
-3. W﻿hatsapp Order Payment Received: Otomatis mengirimkan notifikasi ke nomor whatsapp pembeli pada saat pembayaran tagihan diterima. 
+7. W﻿hatsapp Order Payment Received: Otomatis mengirimkan notifikasi ke nomor whatsapp pembeli pada saat pembayaran tagihan diterima. 
 
    ![](/img/26.-notif-wa-pembayaran-diterima.png)
-4. W﻿hatsapp Order Ready to Pickup: Notifikasi ini hanya dikirimkan untuk pesanan dengan metode pengiriman (self-pickup).
+8. W﻿hatsapp Order Ready to Pickup: Notifikasi ini hanya dikirimkan untuk pesanan dengan metode pengiriman (self-pickup).
 
    ![](/img/26.-notif-wa-siap-untuk-dipickup-self-pickup-.png)
