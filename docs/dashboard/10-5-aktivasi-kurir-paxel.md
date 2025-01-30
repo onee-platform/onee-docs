@@ -17,22 +17,29 @@ sidebar_label: 10.5 Aktivasi Kurir Paxel
 
    L﻿ayanan pengiriman same day dengan keunggulan sebagai berikut:
 
-   \- Pengiriman Sameday dalam dan luar kota
-
+   * Pengiriman Sameday dalam dan luar kota
    * Flat tarif s/d 5kg
    * Fleksibel atur waktu pick-up dan delivery
    * Menjangkau Jawa, Bali, Sulawesi, dan Sumatera
    * Ongkir kembali jika pengiriman terlambat
-   * Gratis asuransi pengiriman s/d Rp 1.000.000 
+   * Gratis asuransi pengiriman s/d Rp 1.000.000
 
    b﻿. **Next Day Delivery** (pengiriman dengan durasi maksimal H+1)
 
    c﻿. **Paxel Big** (Paket dijemput dan diantar sampai tujuan, sehari sampai, dan bekerja sama dengan Bluebird Group).
 3. **K﻿etentuan ukuran, dimensi, dan berat Paket/Barang:**
 
-   a. Untuk layanan Same Day dan Next Day ketentuan Paket maksimal 5kg dan dimensi maksimal 50x50x50cm per air waybill (AWB).
+   a. Untuk layanan Same Day dan Next Day ketentuan Paket maksimal 5kg dengan dimensi sebagai berikut:
 
-   b﻿. Untuk layanan Paxel Big ketentuan berat paket adalah 6-25kg dan dimensi 80cm di salah satu sisinya per air waybill (AWB).
+   S﻿: 20x20x8 cm
+
+   M﻿: 30x22x12 cm
+
+   L﻿: 35x30x25 cm
+
+   C﻿: 50x50x50 cm (Maksimal)
+
+   b﻿. Untuk layanan Paxel Big ketentuan berat paket adalah 6-25kg dan dimensi 80x50x50 cm per air waybill (AWB).
 4. **S﻿yarat & Ketentuan Pengemasan Paket**
 
    a﻿. Paket Frozen:
