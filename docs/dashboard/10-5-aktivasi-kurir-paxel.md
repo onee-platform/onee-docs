@@ -61,7 +61,7 @@ sidebar_label: 10.5 Aktivasi Kurir Paxel
 
    \-﻿ Penjual harus memastikan paket sudah dikemas sebelum memanggil kurir. Karena waktu tunggu kurir maks. 7 menit.
 
-   b﻿. Penjemputan Paket - Pengiriman
+   **b﻿. Penjemputan Paket - Pengiriman**
 
    * P﻿aket diterima kurir -> Proses Pengiriman -> Kurir sampai di alamat Penerima -> Paket diterima oleh pembeli -> Transaksi selesai.
 
