@@ -4,7 +4,7 @@ sidebar_label: 10.5 Aktivasi Kurir Paxel
 ---
 1. **C﻿ara Aktivasi Kurir Paxel**
 
-   B﻿uka dashboard.onee.id -> buka menu Integrasi -> pilih/klik Kurir Pengiriman
+   B﻿uka [dashboard.onee.id](dashboard.onee.id/login) -> buka menu Integrasi -> pilih/klik Kurir Pengiriman
 
    ![](/img/10.5.1-aktivasi-kurir-paxel.png)
 
@@ -18,11 +18,12 @@ sidebar_label: 10.5 Aktivasi Kurir Paxel
    L﻿ayanan pengiriman same day dengan keunggulan sebagai berikut:
 
    \- Pengiriman Sameday dalam dan luar kota
-   - Flat tarif s/d 5kg
-   - Fleksibel atur waktu pick-up dan delivery
-   - Menjangkau Jawa, Bali, Sulawesi, dan Sumatera
-   - Ongkir kembali jika pengiriman terlambat
-   - Gratis asuransi pengiriman s/d Rp 1.000.000 
+
+   * Flat tarif s/d 5kg
+   * Fleksibel atur waktu pick-up dan delivery
+   * Menjangkau Jawa, Bali, Sulawesi, dan Sumatera
+   * Ongkir kembali jika pengiriman terlambat
+   * Gratis asuransi pengiriman s/d Rp 1.000.000 
 
    b﻿. **Next Day Delivery** (pengiriman dengan durasi maksimal H+1)
 
@@ -32,8 +33,6 @@ sidebar_label: 10.5 Aktivasi Kurir Paxel
    a. Untuk layanan Same Day dan Next Day ketentuan Paket maksimal 5kg dan dimensi maksimal 50x50x50cm per air waybill (AWB).
 
    b﻿. Untuk layanan Paxel Big ketentuan berat paket adalah 6-25kg dan dimensi 80cm di salah satu sisinya per air waybill (AWB).
-
-
 4. **S﻿yarat & Ketentuan Pengemasan Paket**
 
    a﻿. Paket Frozen:
