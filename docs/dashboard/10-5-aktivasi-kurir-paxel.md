@@ -15,6 +15,8 @@ sidebar_label: 10.5 Aktivasi Kurir Paxel
 
    a﻿. **Same Day Delivery** (pengiriman dihari yang sama dengan durasi 6-14 jam)
 
+   Jenis kendaraan pickup/dropoff : Motor
+
    L﻿ayanan pengiriman same day dengan keunggulan sebagai berikut:
 
    * Pengiriman Sameday dalam dan luar kota
@@ -26,7 +28,13 @@ sidebar_label: 10.5 Aktivasi Kurir Paxel
 
    b﻿. **Next Day Delivery** (pengiriman dengan durasi maksimal H+1)
 
+   Jenis kendaraan pickup/dropoff : Motor
+
    c﻿. **Paxel Big** (Paket dijemput dan diantar sampai tujuan, sehari sampai, dan bekerja sama dengan Bluebird Group).
+
+   J﻿enis kendaraan pickup/dropoff : Mobil
+
+
 3. **K﻿etentuan ukuran, dimensi, dan berat Paket/Barang:**
 
    a. Untuk layanan Same Day dan Next Day ketentuan Paket maksimal 5kg dengan dimensi sebagai berikut:
@@ -40,6 +48,8 @@ sidebar_label: 10.5 Aktivasi Kurir Paxel
    C﻿: 50x50x50 cm (Maksimal)
 
    b﻿. Untuk layanan Paxel Big ketentuan berat paket adalah 6-25kg dan dimensi 80x50x50 cm per air waybill (AWB).
+
+
 4. **S﻿yarat & Ketentuan Pengemasan Paket**
 
    a﻿. Paket Frozen:
