@@ -49,5 +49,9 @@ D﻿i menu ini hanya menampilkan pesanan yang sudah dibayarkan atau dalam status
 
    ![](/img/siap-diambil-secara-bersamaan.png)
 
+   * K﻿onfirmasi Pickup atau Pengambilan -> klik tombol **Kirim Notifikasi.**
+
+   ![](/img/konfirmasi-pickup-atau-pengambilan.png)
+
 
 4.
