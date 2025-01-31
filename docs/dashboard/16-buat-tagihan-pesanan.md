@@ -1,6 +1,6 @@
 ---
-title: 17. Membuat Tagihan Pesanan
-sidebar_label: 17. Membuat Tagihan Pesanan
+title: 17. Cara Membuat Tagihan Pesanan
+sidebar_label: 17. Cara Membuat Tagihan Pesanan
 ---
 1. P﻿ada menu Pesanan > Daftar Pesanan > Tab Semua Pesanan > klik pesanan yang ingin dibuat tagihan.
 
