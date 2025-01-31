@@ -1,6 +1,6 @@
 ---
-title: 8.1 Pengaturan Branding
-sidebar_label: 8.1 Pengaturan Branding
+title: 8.1 Pengaturan Branding atau Logo Toko
+sidebar_label: 8.1 Pengaturan Branding atau Logo Toko
 ---
 1. ﻿**Tab Branding.**
 
