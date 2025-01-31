@@ -1,6 +1,6 @@
 ---
-title: 16. Mengatur Alokasi Barang / Stock untuk pesanan
-sidebar_label: 16. Mengatur Alokasi Barang / Stock untuk pesanan
+title: 16.  Cara Mengatur Alokasi Barang / Stock untuk pesanan
+sidebar_label: 16. Cara Mengatur Alokasi Barang / Stock untuk pesanan
 ---
 S﻿ecara default barang yang memiliki stock atau tersedia untuk dijual akan langsung otomatis teralokasi. 
 
