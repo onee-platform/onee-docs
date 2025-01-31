@@ -27,3 +27,20 @@ D﻿i menu ini hanya menampilkan pesanan yang sudah dibayarkan atau dalam status
 
 
 2. C﻿etak resi secara bersamaan
+
+   * P﻿ilih atau checkbox pesanan yang ingin di cetak resi -> klik tombol cetak resi.
+
+   ![](/img/cetak-resi-di-menu-pengiriman-atau-pickup.png)
+
+   * K﻿onfirmasi print, klik Cetak & Tandai Print.
+
+   ![](/img/konfirmasi-print.png)
+
+   * O﻿verview print resi
+
+   ![](/img/overview-print-resi.png)
+
+   D﻿itampilan overview ini pilih ukuran kertas yang A6 (standart label resi), kemudian klik **Cetak Label**.
+
+
+3. M﻿elakukan Request Pikcup atau Self pickup secara bersamaan.
