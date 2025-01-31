@@ -1,6 +1,6 @@
 ---
-title: 3. Isi Data Informasi Usaha dan Lokasi Pengiriman & Penjemputan
-sidebar_label: 3. Isi Data Informasi Usaha dan Lokasi Pengiriman & Penjemputan
+title: 3. Buat Toko
+sidebar_label: 3. Buat Toko
 ---
 S﻿etelah berhasil Konfirmasi E-mail, maka langsung di arahkan untuk mengisi data **Informasi Usaha** dan **Lokasi Pengiriman & Penjemputan.** ( *seperti gambar dibawah* ).
 
