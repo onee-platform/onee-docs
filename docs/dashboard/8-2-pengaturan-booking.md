@@ -1,6 +1,6 @@
 ---
-title: 8.2 Pengaturan Booking
-sidebar_label: 8.2 Pengaturan Booking
+title: 8.2 Pengaturan Booking Pesanan ( saat Live )
+sidebar_label: 8.2 Pengaturan Booking Pesanan ( saat Live )
 ---
 1. ﻿**Tab Booking.**
 
