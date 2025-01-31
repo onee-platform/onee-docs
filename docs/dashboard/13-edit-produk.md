@@ -1,6 +1,6 @@
 ---
-title: 13. Semua Produk & Jasa - Edit Produk
-sidebar_label: 13. Semua Produk & Jasa - Edit Produk
+title: 13. Produk & Jasa - Edit Produk
+sidebar_label: 13. Produk & Jasa - Edit Produk
 ---
 1. M﻿enambahkan variant warna produk baju.
 
