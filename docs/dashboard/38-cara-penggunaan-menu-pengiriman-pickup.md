@@ -43,4 +43,11 @@ D﻿i menu ini hanya menampilkan pesanan yang sudah dibayarkan atau dalam status
    D﻿itampilan overview ini pilih ukuran kertas yang A6 (standart label resi), kemudian klik **Cetak Label**.
 
 
-3. M﻿elakukan Request Pikcup atau Self pickup secara bersamaan.
+3. M﻿elakukan Request Pikcup atau Self pickup secara bersamaan. 
+
+   * P﻿ilih atau checkbox pesanan yang sudah siap dan ingin dipickup -> kemudian klik tombol **Siap Diambil**
+
+   ![](/img/siap-diambil-secara-bersamaan.png)
+
+
+4.
