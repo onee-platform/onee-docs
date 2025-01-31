@@ -1,6 +1,6 @@
 ---
-title: 18. Membatalkan Tagihan Pesanan
-sidebar_label: 18. Membatalkan Tagihan Pesanan
+title: 18. Cara Membatalkan Tagihan Pesanan
+sidebar_label: 18. Cara Membatalkan Tagihan Pesanan
 ---
 ### **18.1. Batalkan Tagihan Pesanan dengan case masih menunggu pembayaran / status unpaid.**
 
