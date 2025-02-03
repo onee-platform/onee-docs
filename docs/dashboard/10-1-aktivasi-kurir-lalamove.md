@@ -21,56 +21,20 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
        **\-**﻿ **Jarak Dasar** : 4 km
 
-       **\-**﻿ **Tarif** : >4 km Rp. 2.300/km
-
        **\-**﻿ **Pengiriman Antarkota**: -
 
-       **\-**﻿ **Catatan**: Tarif jasa tersebut didasarikan pada beberapa faktor seperti situasi lalulintas, volumen pemesanan, ketersediaan mitra pengirim, toll yang dapat diaplikasikan, biaya tambahan dan lain-lain. Maka total tarif jasa tersebut dapat bervariasi. Tarif yang diperlihatkan pada saat adanya permintaan mungkin tidak akan sama jika adanya perubahan pada rincian pemesanan.
+
      * **S﻿EDAN:**
 
        **\-** **Berat Maksimal**: 100 kg
 
        **\-** **Batas Ukuran (P x L x T)**: 150 cm x 80 cm x 80 cm
 
-       **\-**﻿ **Biaya Minimal** : Rp. 22.000 (Jabodetabek)
-
        **\-**﻿ **Jarak Dasar**: 3 km
-
-       **\-**﻿ **Tarif :**
-
-       **‣ Jakarta** : Rp. 3.300 / km
-
-       **‣ Bekasi, Depok, Tangsel, Tangerang - Kota :** Rp. 3.200 / km
-
-       **‣ Bekasi, Bogor, Tangerang - Kabupaten :** Rp. 3.100 / km
 
        **\-﻿ Pengiriman Antarkota :**
 
-       **‣ Jakarta :**
 
-       0﻿-150 km: Rp. 507.000
-
-       1﻿50-300 km: Rp. 2.500/km
-
-       \>﻿300 km: Rp. 1.800/km
-
-       **‣ Bekasi, Depok, Tangsel, Tangerang - Kota :**
-
-       0﻿-150 km: Rp. 492.000
-
-       1﻿50-300 km: Rp. 2.500/km
-
-       \>﻿300 km: Rp. 1.700/km
-
-       **‣ Bekasi, Bogor, Tangerang - Kabupaten:**
-
-       0﻿-150 km: Rp. 477.700
-
-       1﻿50-300 km: Rp. 2.500/km
-
-       \>﻿300 km: Rp. 1.600/km
-
-       **\-﻿ Catatan**: Tarif jasa tersebut didasarikan pada beberapa faktor seperti situasi lalulintas, volumen pemesanan, ketersediaan mitra pengirim, toll yang dapat diaplikasikan, biaya tambahan dan lain-lain. Maka total tarif jasa tersebut dapat bervariasi. Tarif yang diperlihatkan pada saat adanya permintaan mungkin tidak akan sama jika adanya perubahan pada rincian pemesanan.
      * **M﻿OBIL**
 
        **\-﻿ Berat Maksimal**: 200 kg
@@ -81,932 +45,96 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
        **\-﻿ Jarak Dasar** : 3 km
 
-       **\-﻿ Tarif**:
 
-       **‣ Jakarta** : Rp. 3.300 / km
-
-       **‣ Bekasi, Depok, Tangsel, Tangerang - Kota** : Rp. 3.200 / km
-
-       **‣ Bekasi, Bogor, Tangerang - Kabupaten** : Rp. 3.100 / km
-
-       **\-﻿ Pengiriman Antarkota:**
-
-       **‣ Jakarta :**
-
-       0﻿-150 km: Rp. 509.000
-
-       1﻿50-300 km: Rp. 2.700/km
-
-       \>﻿300 km: Rp. 1.800/km
-
-       **‣ Bekasi, Depok, Tangsel, Tangerang - Kota :**
-
-       0﻿-150 km: Rp. 494.000
-
-       1﻿50-300 km: Rp. 2.600/km
-
-       \>﻿300 km: Rp. 1.700/km
-
-       **‣ Bekasi, Bogor, Tangerang - Kabupaten:**
-
-       0﻿-150 km: Rp. 479.700
-
-       1﻿50-300 km: Rp. 2.500/km
-
-       \>﻿300 km: Rp. 1.600/km
-
-       **\-﻿ Catatan**: Tarif jasa tersebut didasarikan pada beberapa faktor seperti situasi lalulintas, volumen pemesanan, ketersediaan mitra pengirim, toll yang dapat diaplikasikan, biaya tambahan dan lain-lain. Maka total tarif jasa tersebut dapat bervariasi. Tarif yang diperlihatkan pada saat adanya permintaan mungkin tidak akan sama jika adanya perubahan pada rincian pemesanan.
      * **VAN:**
 
        **\- Berat Maksimal:** 600 kg
 
        **\- Batas Ukuran (P x L x T):** 210 cm x 150 cm x 120 cm
 
-       **\- ﻿ Biaya Minimal :** 
-
-       ‣ Rp. 76.500 (Jakarta)
-
-       ‣ R﻿p. 72.300 (Bekasi, Depok, Tangsel, Tangerang - Kota)
-
-       ‣ R﻿p. 68.000 (Bekasi, Bogor, Tangerang - Kabupaten)
-
        **\-﻿ Jarak Dasar :** 5 km
 
-       **\-﻿ Tarif:** 
 
-       **‣ Jakarta:**
-
-       0﻿-5km: Rp. 76.500
-
-       5﻿-120 km: Rp. 3.300/km
-
-       \>﻿120 km: Rp. 3.700/km
-
-       **‣ B﻿ekasi, Depok, Tangsel, Tangerang - Kota:**
-
-       0﻿-5 km: Rp. 72.000
-
-       \>﻿5 km: Rp. 3.200/km
-
-       **‣ B﻿ekasi, Bogor, Tangerang - Kabupaten:**
-
-       0﻿-5 km: Rp. 68.000
-
-       \>﻿5 km: Rp. 3.100/km
-
-       **\- P﻿engiriman Antarkota:**
-
-       **‣ Jakarta :**
-
-       0﻿-150 km: Rp. 540.000
-
-       1﻿50-300 km: Rp. 2.700/km
-
-       \>﻿300 km: Rp. 1.800/km
-
-       **‣ Bekasi, Depok, Tangsel, Tangerang - Kota :**
-
-       0﻿-150 km: Rp. 510.000
-
-       1﻿50-300 km: Rp. 2.700/km
-
-       \>﻿300 km: Rp. 1.800/km
-
-       **‣ Bekasi, Bogor, Tangerang - Kabupaten:**
-
-       0﻿-150 km: Rp. 480.000
-
-       1﻿50-300 km: Rp. 2.500/km
-
-       \>﻿300 km: Rp. 1.600/km
-
-       **\-﻿ Catatan:** Tarif jasa tersebut didasarikan pada beberapa faktor seperti situasi lalulintas, volumen pemesanan, ketersediaan mitra pengirim, toll yang dapat diaplikasikan, biaya tambahan dan lain-lain. Maka total tarif jasa tersebut dapat bervariasi. Tarif yang diperlihatkan pada saat adanya permintaan mungkin tidak akan sama jika adanya perubahan pada rincian pemesanan.
      * **P﻿ick Up Bak:**
 
        **\-﻿ Berat Maksimal**: 800 kg
 
        **\- Batas Ukuran (P x L x T)**: 200 cm x 160 cm x 120 cm
 
-       **\- ﻿ Biaya Minimal** : 
-
-       ‣ Rp. 85.500 (Jakarta)
-
-       ‣ R﻿p. 80.500 (Bekasi, Depok, Tangsel, Tangerang - Kota)
-
-       ‣ R﻿p. 76.000 (Bekasi, Bogor, Tangerang - Kabupaten)
-
        **\-﻿ Jarak Dasar** : 5 km
 
-       **\-﻿ Tarif:**
 
-       **‣ Jakarta:**
-
-       0﻿-5km: Rp. 85.500
-
-       5﻿-120 km: Rp. 3.300/km
-
-       \>﻿120 km: Rp. 3.700/km
-
-       **‣ B﻿ekasi, Depok, Tangsel, Tangerang - Kota:**
-
-       0﻿-5 km: Rp. 80.800
-
-       \>﻿5 km: Rp. 3.200/km
-
-       **‣ B﻿ekasi, Bogor, Tangerang - Kabupaten:**
-
-       0﻿-5 km: Rp. 76.000
-
-       \>﻿5 km: Rp. 3.100/km
-
-       **\- P﻿engiriman Antarkota:**
-
-       **‣ Jakarta :**
-
-       0﻿-150 km: Rp. 576.000
-
-       1﻿50-300 km: Rp. 2.700/km
-
-       \>﻿300 km: Rp. 1.800/km
-
-       **‣ Bekasi, Depok, Tangsel, Tangerang - Kota :**
-
-       0﻿-150 km: Rp. 544.800
-
-       1﻿50-300 km: Rp. 2.600/km
-
-       \>﻿300 km: Rp. 1.700/km
-
-       **‣ Bekasi, Bogor, Tangerang - Kabupaten:**
-
-       0﻿-150 km: Rp. 525.000
-
-       1﻿50-300 km: Rp. 2.500/km
-
-       \>﻿300 km: Rp. 1.600/km
-
-       **\-﻿ Catatan:** Tarif jasa tersebut didasarikan pada beberapa faktor seperti situasi lalulintas, volumen pemesanan, ketersediaan mitra pengirim, toll yang dapat diaplikasikan, biaya tambahan dan lain-lain. Maka total tarif jasa tersebut dapat bervariasi. Tarif yang diperlihatkan pada saat adanya permintaan mungkin tidak akan sama jika adanya perubahan pada rincian pemesanan.
      * **P﻿ick Up Box:**
 
        **\-﻿ Berat Maksimal**: 1000 kg
 
        **\- Batas Ukuran (P x L x T)**: 240 cm x 160 cm x 120 cm
 
-       **\- ﻿ Biaya Minimal** : 
-
-       ‣ Rp. 124.000 (Jakarta) 
-
-       ‣ R﻿p. 105.400 (Bekasi, Depok, Tangsel, Tangerang - Kota)
-
-       ‣ R﻿p. 99.200 (Bekasi, Bogor, Tangerang - Kabupaten)
-
        **\-﻿ Jarak Dasar** : 2 km
 
-       **\-﻿ Tarif:**
 
-       **‣ Jakarta:**
-
-       0﻿-2 km: Rp. 124.000
-
-       2﻿-120 km: Rp. 3.300/km
-
-       \>﻿120 km: Rp. 3.700/km
-
-       **‣ B﻿ekasi, Depok, Tangsel, Tangerang - Kota:**
-
-       0﻿-2 km: Rp. 105.400
-
-       \>﻿2 km: Rp. 3.200/km
-
-       **‣ B﻿ekasi, Bogor, Tangerang - Kabupaten:**
-
-       0﻿-2 km: Rp. 99.200
-
-       \>﻿2 km: Rp. 3.100/km
-
-       **\- P﻿engiriman Antarkota:**
-
-       **‣ Jakarta :**
-
-       0﻿-150 km: Rp. 612.000
-
-       1﻿50-300 km: Rp. 2.700/km
-
-       \>﻿300 km: Rp. 1.800/km
-
-       **‣ Bekasi, Depok, Tangsel, Tangerang - Kota :**
-
-       0﻿-150 km: Rp. 579.000
-
-       1﻿50-300 km: Rp. 2.700/km
-
-       \>﻿300 km: Rp. 1.800/km
-
-       **‣ Bekasi, Bogor, Tangerang - Kabupaten:**
-
-       0﻿-150 km: Rp. 558.000
-
-       1﻿50-300 km: Rp. 2.500/km
-
-       \>﻿300 km: Rp. 1.600/km
-
-       **\-﻿ Catatan:** Tarif jasa tersebut didasarikan pada beberapa faktor seperti situasi lalulintas, volumen pemesanan, ketersediaan mitra pengirim, toll yang dapat diaplikasikan, biaya tambahan dan lain-lain. Maka total tarif jasa tersebut dapat bervariasi. Tarif yang diperlihatkan pada saat adanya permintaan mungkin tidak akan sama jika adanya perubahan pada rincian pemesanan.
      * **E﻿ngkel Box:**
 
        **\-﻿ Berat Maksimal**: 2000 kg
 
        **\- Batas Ukuran (P x L x T):** 310 cm x 170 cm x 170 cm
 
-       **\- ﻿ Biaya Minimal** : 
-
-       ‣ Rp. 240.000 (Jakarta)
-
-       ‣ R﻿p. 204.000 (Bekasi, Depok, Tangsel, Tangerang - Kota)
-
-       ‣ R﻿p. 192.000 (Bekasi, Bogor, Tangerang - Kabupaten)
-
        **\-﻿ Jarak Dasar** : 2 km
 
-       **\-﻿ Tarif:**
 
-       **‣ Jakarta:**
-
-       0﻿-2 km: Rp. 240.000
-
-       2﻿-120 km: Rp. 3.300/km
-
-       \>﻿120 km: Rp. 4.000/km
-
-       **‣ B﻿ekasi, Depok, Tangsel, Tangerang - Kota:**
-
-       0﻿-2 km: Rp. 204.000
-
-       \>﻿2 km: Rp. 3.200/km
-
-       **‣ B﻿ekasi, Bogor, Tangerang - Kabupaten:**
-
-       0﻿-2 km: Rp. 192.000
-
-       \>﻿2 km: Rp. 3.100/km
-
-       **\- P﻿engiriman Antarkota:**
-
-       **‣ Jakarta :**
-
-       0﻿-150 km: Rp. 675.000
-
-       1﻿50-300 km: Rp. 2.700/km
-
-       \>﻿300 km: Rp. 2.300/km
-
-       **‣ Bekasi, Depok, Tangsel, Tangerang - Kota :**
-
-       0﻿-150 km: Rp. 637.500
-
-       1﻿50-300 km: Rp. 2.600/km
-
-       \>﻿300 km: Rp. 2.200/km
-
-       **‣** **Bekasi, Bogor, Tangerang - Kabupaten:**
-
-       0﻿-150 km: Rp. 599.000
-
-       1﻿50-300 km: Rp. 2.500/km
-
-       \>﻿300 km: Rp. 2.100/km
-
-       **\-﻿ Catatan:** Tarif jasa tersebut didasarikan pada beberapa faktor seperti situasi lalulintas, volumen pemesanan, ketersediaan mitra pengirim, toll yang dapat diaplikasikan, biaya tambahan dan lain-lain. Maka total tarif jasa tersebut dapat bervariasi. Tarif yang diperlihatkan pada saat adanya permintaan mungkin tidak akan sama jika adanya perubahan pada rincian pemesanan.
      * **E﻿ngkel Bak:**
 
        **\-﻿ Berat Maksimal**: 2500 kg
 
        **\- Batas Ukuran (P x L x T)**: 310 cm x 170 cm x 170 cm
 
-       **\- ﻿ Biaya Minimal** : 
-
-       ‣ Rp. 280.000 (Jakarta)
-
-       ‣ R﻿p. 238.000 (Bekasi, Depok, Tangsel, Tangerang - Kota)
-
-       ‣ R﻿p. 224.000 (Bekasi, Bogor, Tangerang - Kabupaten)
-
        **\-﻿ Jarak Dasar** : 1 km
 
-       **\-﻿ Tarif:**
 
-       **‣ Jakarta:**
-
-       0﻿-1 km: Rp. 280.000
-
-       1﻿-3 km: Rp. 3.600/km
-
-       \>3 km: Rp. 4.300/km
-
-       **‣ B﻿ekasi, Depok, Tangsel, Tangerang - Kota:**
-
-       0﻿-1 km: Rp. 238.000
-
-       1﻿-3 km: Rp. 3.500/km
-
-       \>3 km: Rp. 4.200/km
-
-       **‣ B﻿ekasi, Bogor, Tangerang - Kabupaten:**
-
-       0﻿-1 km: Rp. 224.000
-
-       1﻿-3 km: Rp. 3.400/km
-
-       \>3 km: Rp. 4.100/km
-
-       **\- P﻿engiriman Antarkota:**
-
-       **‣ Jakarta :**
-
-       0﻿-150 km: Rp. 720.000
-
-       1﻿50-300 km: Rp. 2.700/km
-
-       \>﻿300 km: Rp. 2.300/km
-
-       **‣ Bekasi, Depok, Tangsel, Tangerang - Kota :**
-
-       0﻿-150 km: Rp. 680.000
-
-       1﻿50-300 km: Rp. 2.600/km
-
-       \>﻿300 km: Rp. 2.200/km
-
-       **‣** **Bekasi, Bogor, Tangerang - Kabupaten:**
-
-       0﻿-150 km: Rp. 640.000
-
-       1﻿50-300 km: Rp. 2.500/km
-
-       \>﻿300 km: Rp. 2.100/km
-
-       **\-﻿ Catatan:** Tarif jasa tersebut didasarikan pada beberapa faktor seperti situasi lalulintas, volumen pemesanan, ketersediaan mitra pengirim, toll yang dapat diaplikasikan, biaya tambahan dan lain-lain. Maka total tarif jasa tersebut dapat bervariasi. Tarif yang diperlihatkan pada saat adanya permintaan mungkin tidak akan sama jika adanya perubahan pada rincian pemesanan.
      * **C﻿DD Box:**
 
        **\- Berat Maksimal:** 5000 kg
 
        **\- Batas Ukuran (P x L x T):** 450 cm x 200 cm x 200 cm
 
-       **\- ﻿ Biaya Minimal** : 
-
-       ‣ Rp. 432.000 (Jakarta)
-
-       ‣ R﻿p. 408.000 (Bekasi, Depok, Tangsel, Tangerang - Kota) 
-
-       ‣ R﻿p. 384.000 (Bekasi, Bogor, Tangerang - Kabupaten) 
-
        **\-﻿ Jarak Dasar** : 2 km
 
-       **\-﻿ Tarif:**
 
-       **‣ Jakarta:**
-
-       0﻿-2 km: Rp. 432.000
-
-       \>2 km: Rp. 6.300/km
-
-       **‣ B﻿ekasi, Depok, Tangsel, Tangerang - Kota:**
-
-       0﻿-2 km: Rp. 408.000
-
-       \>2 km: Rp. 6.200/km
-
-       **‣ B﻿ekasi, Bogor, Tangerang - Kabupaten:**
-
-       0﻿-2 km: Rp. 384.000
-
-       \>2 km: Rp. 5.800/km
-
-       **\- P﻿engiriman Antarkota:**
-
-       **‣ Jakarta :**
-
-       0﻿-150 km: Rp. 783.000
-
-       1﻿50-300 km: Rp. 2.700/km
-
-       \>﻿300 km: Rp. 2.300/km
-
-       **‣ Bekasi, Depok, Tangsel, Tangerang - Kota :**
-
-       0﻿-150 km: Rp. 739.500
-
-       1﻿50-300 km: Rp. 2.600/km
-
-       \>﻿300 km: Rp. 2.200/km
-
-       **‣** **Bekasi, Bogor, Tangerang - Kabupaten:**
-
-       0﻿-150 km: Rp. 696.000
-
-       1﻿50-300 km: Rp. 2.500/km
-
-       \>﻿300 km: Rp. 2.100/km
-
-       **\-﻿ Catatan:** Harap perhatikan bahwa tarif untuk beberapa jenis armada pengiriman didasarkan pada beberapa faktor seperti volume pesanan, ketersediaan pengemudi, dll. Tarif total dari jenis armada pengiriman tersebut dapat berbeda dan mungkin lebih tinggi atau lebih rendah dari yang disebutkan di atas.
      * **C﻿DD Bak:**
 
        **\-﻿ Berat Maksimal:** 5000 kg
 
-       **\- Batas Ukuran (P x L x T):** 450 cm x 200 cm x 200 cm
-
-       **\- ﻿ Biaya Minimal** : 
-
-       ‣ Rp. 432.000 (Jakarta)
-
-       ‣ R﻿p. 408.000 (Bekasi, Depok, Tangsel, Tangerang - Kota) 
-
-       ‣ R﻿p. 384.000 (Bekasi, Bogor, Tangerang - Kabupaten) 
+       **\- Batas Ukuran (P x L x T):** 450 cm x 200 cm x 200 cm 
 
        **\-﻿ Jarak Dasar** : 2 km
 
-       **\-﻿ Tarif:**
 
-       **‣ Jakarta:**
-
-       0﻿-2 km: Rp. 432.000
-
-       \>2 km: Rp. 6.300/km
-
-       **‣ B﻿ekasi, Depok, Tangsel, Tangerang - Kota:**
-
-       0﻿-2 km: Rp. 408.000
-
-       \>2 km: Rp. 6.200/km
-
-       **‣ B﻿ekasi, Bogor, Tangerang - Kabupaten:**
-
-       0﻿-2 km: Rp. 384.000
-
-       \>2 km: Rp. 5.800/km
-
-       **\- P﻿engiriman Antarkota:**
-
-       **‣ Jakarta :**
-
-       0﻿-150 km: Rp. 819.000
-
-       1﻿50-300 km: Rp. 2.700/km
-
-       \>﻿300 km: Rp. 2.300/km
-
-       **‣ Bekasi, Depok, Tangsel, Tangerang - Kota :**
-
-       0﻿-150 km: Rp. 773.500
-
-       1﻿50-300 km: Rp. 2.600/km
-
-       \>﻿300 km: Rp. 2.200/km
-
-       **‣** **Bekasi, Bogor, Tangerang - Kabupaten:**
-
-       0﻿-150 km: Rp. 728.000
-
-       1﻿50-300 km: Rp. 2.600/km
-
-       \>﻿300 km: Rp. 2.200/km
-
-       **\-﻿ Catatan:** Tarif jasa tersebut didasarikan pada beberapa faktor seperti situasi lalulintas, volumen pemesanan, ketersediaan mitra pengirim, toll yang dapat diaplikasikan, biaya tambahan dan lain-lain. Maka total tarif jasa tersebut dapat bervariasi. Tarif yang diperlihatkan pada saat adanya permintaan mungkin tidak akan sama jika adanya perubahan pada rincian pemesanan.
      * **F﻿uso Box:**
 
        **\-﻿ Berat Maksimal**: 8000 kg
 
        **\- Batas Ukuran (P x L x T)**: 570 cm x 250 cm x 250 cm
 
-       **\- ﻿ Biaya Minimal** : 
-
-       ‣ Rp. 765.000 (Jakarta)
-
-       ‣ R﻿p. 722.500 (Bekasi, Depok, Tangsel, Tangerang - Kota)
-
-       ‣ R﻿p. 680.000 (Bekasi, Bogor, Tangerang - Kabupaten)
-
        **\-﻿ Jarak Dasar** : 2 km
 
-       **\-﻿ Tarif:**
 
-       **‣ Jakarta:**
-
-       0﻿-2 km: Rp. 765.000
-
-       \>2 km: Rp. 10.800/km
-
-       **‣ B﻿ekasi, Depok, Tangsel, Tangerang - Kota:**
-
-       0﻿-2 km: Rp. 722.500
-
-       \>2 km: Rp. 10.500/km
-
-       **‣ B﻿ekasi, Bogor, Tangerang - Kabupaten:**
-
-       0﻿-2 km: Rp. 680.000
-
-       \>2 km: Rp. 9.900/km
-
-       **\- P﻿engiriman Antarkota:** -
-
-       **\-﻿ Catatan:** Harap perhatikan bahwa tarif untuk beberapa jenis armada pengiriman didasarkan pada beberapa faktor seperti volume pesanan, ketersediaan pengemudi, dll. Tarif total dari jenis armada pengiriman tersebut dapat berbeda dan mungkin lebih tinggi atau lebih rendah dari yang disebutkan di atas.
      * **F﻿uso Bak:**
 
        **\-﻿ Berat Maksimal:** 8000 kg
 
        **\- Batas Ukuran (P x L x T)**: 570 cm x 250 cm x 200 cm
 
-       **\- ﻿ Biaya Minimal** : 
-
-       ‣ Rp. 765.000 (Jakarta)
-
-       ‣ R﻿p. 722.500 (Bekasi, Depok, Tangsel, Tangerang - Kota)
-
-       ‣ R﻿p. 680.000 (Bekasi, Bogor, Tangerang - Kabupaten)
-
        **\-﻿ Jarak Dasar** : 2 km
 
-       **\-﻿ Tarif:**
 
-       **‣ Jakarta:**
-
-       0﻿-2 km: Rp. 765.000
-
-       \>2 km: Rp. 10.800/km
-
-       **‣ B﻿ekasi, Depok, Tangsel, Tangerang - Kota:**
-
-       0﻿-2 km: Rp. 722.500
-
-       \>2 km: Rp. 10.500/km
-
-       **‣ B﻿ekasi, Bogor, Tangerang - Kabupaten:**
-
-       0﻿-2 km: Rp. 680.000
-
-       \>2 km: Rp. 9.900/km
-
-       **\- P﻿engiriman Antarkota:** -
-
-       **\-﻿ Catatan:** Harap perhatikan bahwa tarif untuk beberapa jenis armada pengiriman didasarkan pada beberapa faktor seperti volume pesanan, ketersediaan pengemudi, dll. Tarif total dari jenis armada pengiriman tersebut dapat berbeda dan mungkin lebih tinggi atau lebih rendah dari yang disebutkan di atas.
-   * #### **B﻿iaya Tambahan**
-
-     1. **M﻿otor:** 
-
-        **P﻿erhentian Tambahan**: +Rp5.000/perhentian
-
-        **P﻿erjalanan pulang pergi**: +Rp12.000 biaya tetap
-
-        **P﻿engiriman Pintu ke Pintu**: +Rp3.000
-
-        **W﻿aktu tunggu (lebih dari 1 jam)**: > 60 menit: Rp12.500
-
-        **P﻿enting!**
-
-        L﻿ayanan Sepeda Motor tidak direkomendasikan untuk pengiriman:
-
-        * K﻿ue/cake ulang tahun (wholecake) dan sejenisnya
-        * B﻿enda tajam
-        * P﻿erabotan yang terbuat dari kaca
-        * B﻿arang pecah belah
-
-        J﻿ika Anda ingin melakukan pengiriman barang - barang di atas, silakan menggunakan **Armada Roda Empat,** karena** *Lalamove tidak akan bertanggung jawab atas kerusakan yang terjadi jika barang yang dikirimkan diluar dari barang yang direkomendasikan di atas.***
-     2. **S﻿edan:**
-
-        **P﻿erhentian Tambahan**: +Rp8.000/perhentian
-
-        **P﻿erjalanan pulang pergi**: +Rp40.000 biaya tetap 
-
-        **P﻿engiriman Pintu ke Pintu**: +Rp10.000 biaya tetap
-
-        **T﻿ol**: +Rp25.000 biaya tetap
-
-        **W﻿aktu Tunggu:**
-
-        \>﻿ 60 menit: +Rp36.000
-
-        **P﻿engiriman Antarkota:**
-
-        * P﻿erhentian Tambahan: Rp12.500
-        * B﻿iaya Tol:
-
-          ‣ Tol ke Malang: Rp970.000
-
-          ‣ Tol ke Cirebon: Rp198.000
-
-          ‣ Tol ke Surabaya: Rp970.000
-
-          ‣ Tol ke Bandung: Rp100.000
-
-          ‣ Tol ke Semarang: Rp450.000
-
-          ‣ Tol ke Yogyakarta: Rp550.000
-        * W﻿aktu tunggu (lebih dari 1 jam): Rp30.000
-     3. **M﻿obil**:
-
-        **P﻿erhentian Tambahan**: +Rp10.000/perhentian
-
-        **P﻿erjalanan pulang pergi**: +Rp55.000 biaya tetap
-
-        **P﻿engiriman Pintu ke Pintu**: +Rp10.000 biaya tetap
-
-        **T﻿ol**: +Rp25.000 biaya tetap
-
-        **W﻿aktu Tunggu:**
-
-        \>﻿ 60 menit: +Rp36.000
-
-        **P﻿engiriman Antarkota:**
-
-        * P﻿erhentian Tambahan: Rp12.500
-        * B﻿iaya Tol:
-
-          ‣ Tol ke Malang: Rp970.000
-
-          ‣ Tol ke Cirebon: Rp198.000
-
-          ‣ Tol ke Surabaya: Rp970.000
-
-          ‣ Tol ke Bandung: Rp100.000
-
-          ‣ Tol ke Semarang: Rp450.000
-
-          ‣ Tol ke Yogyakarta: Rp550.000
-        * W﻿aktu tunggu (lebih dari 1 jam): Rp30.000
-     4. **V﻿AN:**
-
-        **P﻿erhentian Tambahan**: +Rp10.000/perhentian
-
-        **P﻿erjalanan pulang pergi**: +Rp80.000 biaya tetap
-
-        **P﻿engiriman Pintu ke Pintu**: +Rp15.000 biaya tetap
-
-        **T﻿ol**: +Rp25.000 biaya tetap
-
-        **P﻿engangkut untuk bongkar muat barang:** +Rp75.000 biaya tetap
-
-        **W﻿aktu Tunggu (lebih dari 1 jam):**
-
-        \>﻿ 60 menit: +Rp36.000
-
-        **P﻿engiriman Antarkota:**
-
-        * P﻿erhentian Tambahan: +Rp15.000/perhentian
-        * B﻿iaya Tol:
-
-          ‣ Tol ke Malang: Rp970.000
-
-          ‣ Tol ke Cirebon: Rp198.000
-
-          ‣ Tol ke Surabaya: Rp970.000
-
-          ‣ Tol ke Bandung: Rp100.000
-
-          ‣ Tol ke Semarang: Rp450.000
-
-          ‣ Tol ke Yogyakarta: Rp550.000
-        * P﻿engangkut untuk bongkar muat barang: Rp100.000
-        * W﻿aktu tunggu (lebih dari 1 jam): Rp35.000
-     5. **P﻿ick Up Bak:**
-
-        **P﻿erhentian Tambahan**: +Rp10.000/perhentian
-
-        **P﻿erjalanan pulang pergi**: +Rp80.000 biaya tetap
-
-        **P﻿engiriman Pintu ke Pintu**: +Rp15.000 biaya tetap
-
-        **T﻿ol**: +Rp25.000 biaya tetap
-
-        **P﻿engangkut untuk bongkar muat barang:** +Rp75.000 biaya tetap
-
-        **W﻿aktu Tunggu (lebih dari 60 menit):**
-
-        \>﻿ 60 menit: +Rp50.000
-
-        **P﻿engiriman Antarkota:**
-
-        * P﻿erhentian Tambahan: +Rp15.000/perhentian
-        * B﻿iaya Tol:
-
-          ‣ Tol ke Malang: Rp970.000
-
-          ‣ Tol ke Cirebon: Rp198.000
-
-          ‣ Tol ke Surabaya: Rp970.000
-
-          ‣ Tol ke Bandung: Rp100.000
-
-          ‣ Tol ke Semarang: Rp450.000
-
-          ‣ Tol ke Yogyakarta: Rp550.000
-        * P﻿engangkut untuk bongkar muat barang: Rp100.000
-        * W﻿aktu tunggu (lebih dari 1 jam): Rp50.000
-     6. **P﻿ick Up Box:**
-
-        **P﻿erhentian Tambahan**: +Rp10.000/perhentian
-
-        **P﻿erjalanan pulang pergi**: +Rp100.000 biaya tetap
-
-        **P﻿engiriman Pintu ke Pintu**: +Rp20.000 biaya tetap 
-
-        **T﻿ol**: +Rp25.000 biaya tetap
-
-        **P﻿engangkut untuk bongkar muat barang:** +Rp85.000 biaya tetap
-
-        **W﻿aktu Tunggu (lebih dari 60 menit):**
-
-        \>﻿ 60 menit: +Rp50.000
-
-        **P﻿engiriman Antarkota:**
-
-        * P﻿erhentian Tambahan: +Rp15.000/perhentian
-        * B﻿iaya Tol:
-
-          ‣ Tol ke Malang: Rp1.067.000
-
-          ‣ Tol ke Cirebon: Rp198.000
-
-          ‣ Tol ke Surabaya: Rp970.000
-
-          ‣ Tol ke Bandung: Rp100.000
-
-          ‣ Tol ke Semarang: Rp450.000
-
-          ‣ Tol ke Yogyakarta: Rp550.000
-        * P﻿engangkut untuk bongkar muat barang: Rp100.000
-        * W﻿aktu tunggu (lebih dari 1 jam): Rp50.000
-     7. **Engkel Box:**
-
-        **P﻿erhentian Tambahan**: +Rp15.000/perhentian
-
-        **P﻿erjalanan pulang pergi**: +Rp150.000 biaya tetap
-
-        **P﻿engiriman Pintu ke Pintu**: +Rp20.000 biaya tetap 
-
-        **T﻿ol**: +Rp35.000 biaya tetap
-
-        **P﻿engangkut untuk bongkar muat barang:** +Rp95.000 biaya tetap
-
-        **W﻿aktu Tunggu (lebih dari 60 menit):**
-
-        \>﻿ 60 menit: +Rp70.000
-
-        **P﻿engiriman Antarkota:**
-
-        * P﻿erhentian Tambahan: +Rp15.000/perhentian
-        * B﻿iaya Tol:
-
-          ‣ Tol ke Malang: Rp1.460.000
-
-          ‣ Tol ke Cirebon: Rp318.000
-
-          ‣ Tol ke Surabaya: Rp1.295.000
-
-          ‣ Tol ke Bandung: Rp150.000
-
-          ‣ Tol ke Semarang: Rp650.000
-
-          ‣ Tol ke Yogyakarta: Rp740.000
-        * P﻿engangkut untuk bongkar muat barang: Rp120.000
-        * W﻿aktu tunggu (lebih dari 1 jam): Rp75.000
-     8. **Engkel Bak:**
-
-        **P﻿erhentian Tambahan**: +Rp15.000/perhentian
-
-        **P﻿erjalanan pulang pergi**: +Rp170.000 biaya tetap
-
-        **P﻿engiriman Pintu ke Pintu**: +Rp20.000 biaya tetap 
-
-        **T﻿ol**: +Rp35.000 biaya tetap
-
-        **P﻿engangkut untuk bongkar muat barang:** +Rp95.000 biaya tetap
-
-        **W﻿aktu Tunggu (lebih dari 60 menit):**
-
-        \>﻿ 60 menit: +Rp85.000
-
-        **P﻿engiriman Antarkota:**
-
-        * P﻿erhentian Tambahan: +Rp20.000/perhentian
-        * B﻿iaya Tol:
-
-          ‣ Tol ke Malang: Rp1.460.000
-
-          ‣ Tol ke Cirebon: Rp318.000
-
-          ‣ Tol ke Surabaya: Rp1.295.000
-
-          ‣ Tol ke Bandung: Rp150.000
-
-          ‣ Tol ke Semarang: Rp650.000
-
-          ‣ Tol ke Yogyakarta: Rp740.000
-        * P﻿engangkut untuk bongkar muat barang: Rp150.000
-        * W﻿aktu tunggu (lebih dari 1 jam): Rp75.000
-     9. **CDD Bak:**
-
-        **P﻿erhentian Tambahan**: +Rp20.000/perhentian
-
-        **P﻿erjalanan pulang pergi**: +Rp200.000 biaya tetap
-
-        **P﻿engiriman Pintu ke Pintu**: +Rp30.000 biaya tetap 
-
-        **T﻿ol**: +Rp45.000 biaya tetap
-
-        **P﻿engangkut untuk bongkar muat barang:** +Rp110.000 biaya tetap
-
-        **W﻿aktu Tunggu (lebih dari 60 menit):**
-
-        \>﻿ 60 menit: +Rp100.000
-
-        **P﻿engiriman Antarkota:**
-
-        * P﻿erhentian Tambahan: +Rp20.000/perhentian
-        * B﻿iaya Tol:
-
-          ‣ Tol ke Malang: Rp1.460.000
-
-          ‣ Tol ke Cirebon: Rp318.000
-
-          ‣ Tol ke Surabaya: Rp1.295.000
-
-          ‣ Tol ke Bandung: Rp165.000
-
-          ‣ Tol ke Semarang: Rp650.000
-
-          ‣ Tol ke Yogyakarta: Rp740.000
-        * P﻿engangkut untuk bongkar muat barang: Rp175.000
-        * W﻿aktu tunggu (lebih dari 1 jam): Rp100.000
-     10. **CDD Box:**
-
-         **P﻿erhentian Tambahan**: +Rp20.000/perhentian
-
-         **P﻿erjalanan pulang pergi**: +Rp200.000 biaya tetap
-
-         **P﻿engiriman Pintu ke Pintu**: +Rp30.000 biaya tetap 
-
-         **T﻿ol**: +Rp45.000 biaya tetap
-
-         **P﻿engangkut untuk bongkar muat barang:** +Rp110.000 biaya tetap
-
-         **W﻿aktu Tunggu (lebih dari 60 menit):**
-
-         \>﻿ 60 menit: +Rp100.000
-
-         **P﻿engiriman Antarkota:**
-
-         * P﻿erhentian Tambahan: +Rp20.000/perhentian
-         * B﻿iaya Tol:
-
-           ‣ Tol ke Malang: Rp1.460.000
-
-           ‣ Tol ke Cirebon: Rp318.000
-
-           ‣ Tol ke Surabaya: Rp1.295.000
-
-           ‣ Tol ke Bandung: Rp165.000
-
-           ‣ Tol ke Semarang: Rp650.000
-
-           ‣ Tol ke Yogyakarta: Rp740.000
-         * P﻿engangkut untuk bongkar muat barang: Rp175.000
-         * W﻿aktu tunggu (lebih dari 1 jam): Rp100.000
-     11. **Fuso Bak:**
-
-         **P﻿erhentian Tambahan**: +Rp20.000/perhentian
-
-         **P﻿erjalanan pulang pergi**: +Rp200.000 biaya tetap
-
-         **T﻿ol**: +Rp45.000 biaya tetap
-
-         **P﻿engangkut untuk bongkar muat barang:** +Rp135.000 biaya tetap
-
-         **W﻿aktu Tunggu:**
-
-         L﻿ebih dari 1 jam: +Rp150.000
-
-         L﻿ebih dari 2 jam: +Rp200.000
-     12. **Fuso Box:**
-
-         **P﻿erhentian Tambahan**: +Rp20.000/perhentian
-
-         **P﻿erjalanan pulang pergi**: +Rp200.000 biaya tetap
-
-         **T﻿ol**: +Rp45.000 biaya tetap
-
-         **P﻿engangkut untuk bongkar muat barang:** +Rp135.000 biaya tetap
-
-         **W﻿aktu Tunggu:**
-
-         L﻿ebih dari 1 jam: +Rp150.000
-
-         L﻿ebih dari 2 jam: +Rp200.000
    * #### **J﻿am Operasional Pengiriman Lalamove:**
 
      * P﻿ertanyaan yang sering diajukan, seperti: Kapan barang akan dikirim?
 
        \-﻿ Lalamove beroperasi 24/7 sehingga kamu dapat melakukan pengiriman kapanpun kamu butuh. Lalamove berspesialisasi dalam pengiriman instan (*on-demand*), mencocokkan pengguna dengan driver terdekat hanya dalam hitungan detik. Gunakan aplikasi pengiriman kami untuk menangani semua pengiriman ekspres dan mendesak, kapan saja sepanjang hari.
-   * U﻿ntuk penjelasan lebih lengkapnya, Anda bisa lihat [disini](https://www.lalamove.com/id/personal)
+     * U﻿ntuk penjelasan lebih lengkapnya, Anda bisa lihat [disini](https://www.lalamove.com/id/personal)
+
+
 3. #### **S﻿yarat dan Ketentuan:**
 
    ##### **3.1 K﻿etentuan Penjemputan & Pengiriman Barang Menggunakan LALAMOVE:**[​](https://onee.netlify.app/dashboard/jenis-barang-yang-tidak-dapat-dikirimkan-menggunakan-layanan-lalamove-grab-dan-gosend#ketentuan-penjemputan--pengiriman-barang-menggunakan-lalamove "Direct link to heading")
