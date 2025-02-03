@@ -50,9 +50,11 @@ sidebar_label: 10.5 Aktivasi Kurir Paxel
    C﻿: 50x50x50 cm (Maksimal)
 
    b﻿. Untuk layanan Paxel Big ketentuan berat paket adalah 6-25kg dan dimensi 80x50x50 cm per air waybill (AWB).
+
+
 4. **S﻿yarat & Ketentuan Pengemasan Paket**
 
-   a﻿. Paket Frozen:
+   **a﻿. Paket Frozen:**
 
    * Gunakan plastik berlapis untuk mencegah kebocoran air atau embun dari produk frozen food.
    * Gunakan tambahan thermal freeze atau ice gel untuk menjaga suhu produk frozen food saat proses pengiriman.
@@ -62,21 +64,23 @@ sidebar_label: 10.5 Aktivasi Kurir Paxel
    * Pastikan melaporkan paket sebagai item frozen food di dalam aplikasi Paxel. Selama proses pengiriman, sudah dipastikan paket akan terus bergerak. Kemasan yg baik akan membuat frozen food menjadi lebih aman.
    * Menggunakan kemasan vacuum akan lebih baik untuk menjaga daya tahan produk.
 
-   b﻿. Paket Fragile/Pecah Belah
+   b. **Paket Fragile/Pecah Belah:**
 
    * Gunakan box/dus dengan material yang aman dan kuat sebagai lapisan luar tambahan wadah produk/barang,Pastikan box/dus terisi penuh tidak ada ruang hampa agar dapat menahannya dari goncangan perjalanan, kamu juga bisa menggunakan tambahan bubble wrap/kertas untuk mengisi ruangan antara barangmu dengan sisi dalam box/dus,
    * Pastikan box/dus terisi penuh tidak ada ruang hampa agar dapat menahannya dari goncangan perjalanan, kamu juga bisa menggunakan tambahan bubble wrap/kertas untuk mengisi ruangan antara barangmu dengan sisi dalam box/dus,
    * Pastikan kamu melaporkan paket sebagai item Fragile, Makanan Tahan Lama/Makanan Mudah Rusak kepada hero/kurir Paxel,
-   * Selama proses pengiriman, sudah dipastikan paket akan terus bergerak. Packaging yg baik akan membuat makanan atau kue kering di dalam wadah menjadi lebih aman.
+   * Selama proses pengiriman, sudah dipastikan paket akan terus bergerak. Packaging yg baik akan membuat makanan atau kue kering di dalam wadah menjadi lebih aman
+
+
 5. **A﻿lur Operasional**
 
-   **a﻿. Transaksi Pembeli - Penjemputan Paket** 
+   **a. Transaksi Pembeli - Penjemputan Paket.** 
 
    * P﻿esanan masuk -> Konfirmasi terima pesanan -> lakukan pengemasan pesanan -> setelah pesanan siap panggil kurir (klik Request Pickup)
 
-   C﻿atatan: 
+     C﻿atatan: 
 
-   \-﻿ Penjual harus memastikan paket sudah dikemas sebelum memanggil kurir. Karena waktu tunggu kurir maks. 7 menit.
+     \-﻿ Penjual harus memastikan paket sudah dikemas sebelum memanggil kurir. Karena waktu tunggu kurir maks. 7 menit.
 
    **b﻿. Penjemputan Paket - Pengiriman**
 
