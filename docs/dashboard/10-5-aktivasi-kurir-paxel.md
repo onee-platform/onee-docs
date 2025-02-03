@@ -13,11 +13,17 @@ sidebar_label: 10.5 Aktivasi Kurir Paxel
 
    B﻿erikut dibawah ini ketentuan yang ada pada setiap jenis layanan paxel :
 
-   a﻿. **Same Day Delivery** (pengiriman dihari yang sama dengan durasi 6-14 jam)
+   **a﻿.** **Same Day Delivery** (pengiriman dihari yang sama dengan durasi 6-14 jam)
 
-   Jenis kendaraan pickup/dropoff : Motor
+   \- Jenis kendaraan pickup/dropoff : Motor
 
-   L﻿ayanan pengiriman same day dengan keunggulan sebagai berikut:
+   \-﻿ Waktu Pickup Slot1:  08:00 - 10:00
+
+   \-﻿ Waktu Pickup Slot2:  10:00 - 12:00
+
+   \-﻿ Waktu Delivery ( estimasi tiba ):  18.00 - 22.00
+
+   \- L﻿ayanan pengiriman same day dengan keunggulan sebagai berikut:
 
    * Pengiriman Sameday dalam dan luar kota
    * Flat tarif s/d 5kg
@@ -26,13 +32,38 @@ sidebar_label: 10.5 Aktivasi Kurir Paxel
    * Ongkir kembali jika pengiriman terlambat
    * Gratis asuransi pengiriman s/d Rp 1.000.000
 
-   b﻿. **Next Day Delivery** (pengiriman dengan durasi maksimal H+1)
+   **b﻿.** **Next Day Delivery** (pengiriman dengan durasi maksimal H+1)
 
-   Jenis kendaraan pickup/dropoff : Motor
+   \- Jenis kendaraan pickup/dropoff : Motor
 
-   c﻿. **Paxel Big** (Paket dijemput dan diantar sampai tujuan, sehari sampai, dan bekerja sama dengan Bluebird Group).
+   \-﻿ Waktu Pickup (Time slot) :
 
-   J﻿enis kendaraan pickup/dropoff : Mobil
+   | 08:00-10:00 |
+   | ----------- |
+   | 10:00-12:00 |
+   | 12:00-14:00 |
+   | 14:00-16:00 |
+   | 16:00-18:00 |
+   | 18:00-20:00 |
+
+
+
+   \-﻿ Waktu Delivery ( estimasi tiba ) :
+
+   | 10:00-14:00 |
+   | ----------- |
+   | 14:00-16:00 |
+   | 18:00-22:00 |
+
+
+
+   **c﻿.** **Paxel Big** (Paket dijemput dan diantar sampai tujuan, sehari sampai, dan bekerja sama dengan Bluebird Group).
+
+   \- J﻿enis kendaraan pickup/dropoff : Mobil
+
+   \-﻿ Waktu Pickup (time slot): 09:00-14:00 & 15:00-20:00
+
+   \-﻿ Waktu Delivery ( estimasi tiba ):  16:00-18:00 & 18:00-22:00
 
    **d﻿. Area Jangkauan Paxel : <https://paxel.co/id/berita-dan-promo/area-jangkauan-paxel>**
 
