@@ -34,6 +34,8 @@ sidebar_label: 10.5 Aktivasi Kurir Paxel
 
    J﻿enis kendaraan pickup/dropoff : Mobil
 
+   **d﻿. Area Jangkauan Paxel : <https://paxel.co/id/berita-dan-promo/area-jangkauan-paxel>**
+
 
 3. **K﻿etentuan ukuran, dimensi, dan berat Paket/Barang:**
 
@@ -48,8 +50,6 @@ sidebar_label: 10.5 Aktivasi Kurir Paxel
    C﻿: 50x50x50 cm (Maksimal)
 
    b﻿. Untuk layanan Paxel Big ketentuan berat paket adalah 6-25kg dan dimensi 80x50x50 cm per air waybill (AWB).
-
-
 4. **S﻿yarat & Ketentuan Pengemasan Paket**
 
    a﻿. Paket Frozen:
