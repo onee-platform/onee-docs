@@ -17,9 +17,7 @@ sidebar_label: 10.5 Aktivasi Kurir Paxel
 
    \- Jenis kendaraan pickup/dropoff : Motor
 
-   \-﻿ Waktu Pickup Slot1:  08:00 - 10:00
-
-   \-﻿ Waktu Pickup Slot2:  10:00 - 12:00
+   \-﻿ Waktu Pickup (time slot):  08:00 - 10:00 & 10:00 - 12:00 
 
    \-﻿ Waktu Delivery ( estimasi tiba ):  18.00 - 22.00
 
