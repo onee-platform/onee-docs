@@ -8,9 +8,9 @@ D﻿i menu ini hanya menampilkan pesanan yang sudah dibayarkan atau dalam status
 
 ![](/img/38.-tampilan-menu-pengiriman-atau-pickup.png)
 
-1. F﻿ilter tampilan:
+1. **F﻿ilter tampilan:**
 
-   \-﻿** Status persiapan pesanan** 
+   \-﻿ **Status persiapan pesanan** 
 
    * **P﻿acking** : Barang sedang dalam proses packing / Jasa dalam proses pengerjaan.
    * **M﻿enunggu Pickup/Ready** : Barang telah siap untuk dikirim menggunakan kurir / diambil langsung oleh pembeli (self pickup).**M﻿enunggu Pickup/Ready** : Barang telah siap untuk dikirim menggunakan kurir / diambil langsung oleh pembeli (self pickup).
@@ -24,9 +24,7 @@ D﻿i menu ini hanya menampilkan pesanan yang sudah dibayarkan atau dalam status
    \-﻿ **Filter Service Kurir Pengiriman**
 
    ![](/img/filter-kurir-di-menu-pengiriman-atau-pickup.png)
-
-
-2. C﻿etak resi secara bersamaan
+2. **Cara cetak resi secara bersamaan.**
 
    * P﻿ilih atau checkbox pesanan yang ingin di cetak resi -> klik tombol cetak resi.
 
@@ -41,9 +39,7 @@ D﻿i menu ini hanya menampilkan pesanan yang sudah dibayarkan atau dalam status
    ![](/img/overview-print-resi.png)
 
    D﻿itampilan overview ini pilih ukuran kertas yang A6 (standart label resi), kemudian klik **Cetak Label**.
-
-
-3. M﻿elakukan Request Pikcup atau Self pickup secara bersamaan. 
+3. **Mencoba M﻿elakukan Request Pikcup atau Self pickup secara bersamaan.**
 
    * P﻿ilih atau checkbox pesanan yang sudah siap dan ingin dipickup -> kemudian klik tombol **Siap Diambil**
 
