@@ -22,5 +22,5 @@ Onee.id menyediakan aplikasi Midtrans sebagai solusi payment gateway Anda. Jika 
 
    K﻿emudian masukan link <https://midtrans.onee.id> pada kolom Payment notification URL ( Notification URL endpoint -> klik *save.*
 
-   ![](/img/midtrans-update-notification-payment.png)
+   ![](/img/midtrans-update-notification-payment-1.png)
 4. S﻿elesai
