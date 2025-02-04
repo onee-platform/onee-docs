@@ -17,8 +17,6 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
        **\-** **Batas Ukuran (P x L x T)**: 40 cm x 40 cm x 50 cm
 
-       **\-**﻿ **Biaya Minimal**: 9.200
-
        **\-**﻿ **Jarak Dasar** : 4 km
 
        **\-**﻿ **Pengiriman Antarkota**: -
@@ -32,7 +30,7 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
        **\-**﻿ **Jarak Dasar**: 3 km
 
-       **\-﻿ Pengiriman Antarkota :**
+       **\-﻿ Pengiriman Antarkota :** -
 
 
      * **M﻿OBIL**
@@ -40,8 +38,6 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
        **\-﻿ Berat Maksimal**: 200 kg
 
        **\- Batas Ukuran (P x L x T)**: 175 cm x 100 cm x 85 cm
-
-       **\-﻿ Biaya Minimal** : Rp. 24.000 (Jabodetabek)
 
        **\-﻿ Jarak Dasar** : 3 km
 
@@ -171,8 +167,6 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
    * P﻿astikan bahwa Barang yang diberikan kepada Kurir untuk dikirim wajib dilengkapi dengan kemasan yang baik, dalam keadaan tertutup, dan layak untuk memastikan Barang dalam keadaan baik dan/atau tidak rusak pada saat pengantaran. 
    * K﻿urir berhak untuk meminta Pengirim untuk memperbaiki kemasan Barang atau mengemas ulang Barang apabila Kurir atas pertimbangannya yang wajar menentukan bahwa kemasan Barang tidak dalam kondisi sebagaimana ditentukan dalam point (1) diatas.
-
-
 
    ##### 3.3 Jika driver nya idle tidak ada konfirmasi delivery / pod.
 
