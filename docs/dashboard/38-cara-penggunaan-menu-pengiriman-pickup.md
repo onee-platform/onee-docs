@@ -6,7 +6,7 @@ P﻿ada menu pengiriman / pickup ini bertujuan untuk mempermudah proses kirim at
 
 D﻿i menu ini hanya menampilkan pesanan yang sudah dibayarkan atau dalam status pesanan PAID.
 
-![](/img/38.-tampilan-menu-pengiriman-atau-pickup.png)
+![](/img/menu-pengiriman-atau-ready-pickup.png)
 
 1. **F﻿ilter tampilan:**
 
@@ -38,7 +38,9 @@ D﻿i menu ini hanya menampilkan pesanan yang sudah dibayarkan atau dalam status
 
    ![](/img/overview-print-resi.png)
 
-   D﻿itampilan overview ini pilih ukuran kertas yang A6 (standart label resi), kemudian klik **Cetak Label**.
+   * D﻿itampilan overview ini pilih ukuran kertas yang A6 (standart label resi), kemudian klik **Cetak Label**.
+
+
 3. **Mencoba M﻿elakukan Request Pikcup atau Self pickup secara bersamaan.**
 
    * P﻿ilih atau checkbox pesanan yang sudah siap dan ingin dipickup -> kemudian klik tombol **Siap Diambil**
@@ -46,7 +48,14 @@ D﻿i menu ini hanya menampilkan pesanan yang sudah dibayarkan atau dalam status
    ![](/img/siap-diambil-secara-bersamaan.png)
 
    * K﻿onfirmasi Pickup atau Pengambilan -> klik tombol **Kirim Notifikasi.**
+   * U﻿ntuk yang metode dikirim / request pickup, harap pastikan token (ONT) Anda cukup. 
 
    ![](/img/konfirmasi-pickup-atau-pengambilan.png)
 
-   * S﻿elesai.
+   * S﻿etelah klik kirim notifikasi, semua pesanan yang sudah dipilih akan berpindah ke status persiapan pesanan **Menunggu Pickup/Ready.** 
+
+   ![](/img/pengiriman-atau-pickup.png)
+
+   * U﻿ntuk pesanan dengan metode dikirim, Anda hanya perlu menunggu sampai kurir datang dan barang dipickup - status pesanan completed.
+   * J﻿ika pesanan dengan metode dikirim/request pickup ini tidak tampil di status **Menunggu Pickup/Ready**, artinya request pickup gagal dan Anda harus melakukannya secara manual dengan cara buka pesanan detail, kemudian klik request pickup lagi.
+   * S﻿edangkan untuk self pickup, Anda perlu klik tombol **Barang Diserahkan** jika barang tersebut sudah diambil pembeli, dan status pesanan menjadi completed.
