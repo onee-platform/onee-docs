@@ -9,7 +9,7 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
    \-﻿ Pilih bagian kurir Lalamove, kemudian pilih / centang yang ingin Anda aktifkan.
 2. ### D﻿eskripsi Layanan & Jam Operasional
 
-   ● B﻿erikut dibawah ini ketentuan yang ada pada setiap jenis Armada Pengiriman:
+   #### 2.1 B﻿erikut dibawah ini ketentuan yang ada pada setiap jenis Armada Pengiriman:
 
    * **MOTOR:**
 
@@ -91,4 +91,4 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
 
 
-   ● **J﻿am Operasional Pengiriman Lalamove:**[​](https://onee.netlify.app/dashboard/10-1-aktivasi-kurir-lalamove/#jam-operasional-pengiriman-lalamove "Direct link to heading")
+   #### **2.2 J﻿am Operasional Pengiriman Lalamove:**[​](https://onee.netlify.app/dashboard/10-1-aktivasi-kurir-lalamove/#jam-operasional-pengiriman-lalamove "Direct link to heading")
