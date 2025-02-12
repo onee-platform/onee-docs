@@ -89,6 +89,18 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
      \-﻿ Jarak Dasar: 2 km
 
+     #### **2.2 J﻿am Operasional Pengiriman Lalamove:**
+   * P﻿ertanyaan yang sering diajukan, seperti: Kapan barang akan dikirim?
+
+     \-﻿ Lalamove beroperasi 24/7 sehingga kamu dapat melakukan pengiriman kapanpun kamu butuh. Lalamove berspesialisasi dalam pengiriman instan (*on-demand*), mencocokkan pengguna dengan driver terdekat hanya dalam hitungan detik. Gunakan aplikasi pengiriman kami untuk menangani semua pengiriman ekspres dan mendesak, kapan saja sepanjang hari.
+   * U﻿ntuk penjelasan lebih lengkapnya, Anda bisa lihat [disini](https://www.lalamove.com/id/personal)
+3. ### S﻿yarat dan Ketentuan:
+
+   **3﻿.1 Ketentuan Penjemputan & Pengiriman Barang Menggunakan LALAMOVE:**
+
+   Pengemudi yang berpartisipasi yang bertindak sebagai kontraktor independen dari Penyedia Layanan dapat mengirimkan makanan, minuman, barang dalam kemasan, paket surat, dll., kecuali yang menurut Penyedia Layanan tidak dapat dikirimkan dengan aman atau legal, termasuk, namun tidak terbatas pada hal-hal berikut ini:
+
+   B﻿arang yang tidak dapat dikirim:
 
 
-   #### **2.2 J﻿am Operasional Pengiriman Lalamove:**[​](https://onee.netlify.app/dashboard/10-1-aktivasi-kurir-lalamove/#jam-operasional-pengiriman-lalamove "Direct link to heading")
+4. f﻿sdfs
