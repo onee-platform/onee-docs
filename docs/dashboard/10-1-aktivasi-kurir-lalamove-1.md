@@ -102,5 +102,34 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
 
    B﻿arang yang tidak dapat dikirim:
 
+   * Semua “**barang berbahaya**” sebagaimana didefinisikan oleh Asosiasi Transportasi Udara Internasional (International Air Transport Association) dan Organisasi Penerbangan Sipil Internasional (International Civil Aviation Organization);Barang-barang yang dilarang atau dibatasi ekspor atau impornya oleh negara, negara bagian atau pemerintah mana pun;
+   * Barang-barang yang dilarang atau dibatasi ekspor atau impornya oleh negara, negara bagian atau pemerintah mana pun;
+   * Senjata api atau senjata lain, bahan peledak, gas bertekanan, bahan yang mudah terbakar, lampu kilat untuk peralatan fotografi atau zat magnetik;Zat yang mengandung merkuri, asam dan zat pengoksidasi, zat beracun atau zat yang dapat dengan mudah menguap atau jenis cairan serupa lainnya
+   * Zat yang mengandung merkuri, asam dan zat pengoksidasi, zat beracun atau zat yang dapat dengan mudah menguap atau jenis cairan serupa lainnya
+   * Barang-barang yang dilarang menurut hukum setempat;
+   * Sisa-sisa manusia atau hewan, tugu peringatan atau barang apa pun yang digunakan digunakan dalam upacara keagamaan;
+   * Hewan Hidup;
+   * Barang-barang yang tidak sehat dari pandangan Penyedia Layanan sendiri;
+   * Barang-barang yang ilegal untuk diproduksi atau didistribusikan, seperti narkotika atau obat-obatan terlarang;
+   * Barang-barang yang melebihi ukuran dan berat standar untuk setiap jenis kendaraan yang ditentukan di situs web Lalamove;
+   * Barang-barang yang membutuhkan wadah berpendingin;
+   * Dan Barang-barang yang dikemas dengan buruk atau tanpa jaminan yang dianggap tidak dapat dikirim oleh Penyedia Layanan.
 
-4. f﻿sdfs
+   #### 3﻿.2 Kemasan Barang
+
+   * P﻿astikan bahwa Barang yang diberikan kepada Kurir untuk dikirim wajib dilengkapi dengan kemasan yang baik, dalam keadaan tertutup, dan layak untuk memastikan Barang dalam keadaan baik dan/atau tidak rusak pada saat pengantaran.
+   * K﻿urir berhak untuk meminta Pengirim untuk memperbaiki kemasan Barang atau mengemas ulang Barang apabila Kurir atas pertimbangannya yang wajar menentukan bahwa kemasan Barang tidak dalam kondisi sebagaimana ditentukan dalam point (1) diatas.
+
+   #### 3﻿.3 Jika driver nya idle tidak ada konfirmasi delivery / pod.
+
+   i. Secara operational dan order flow API (<https://developers.lalamove.com/#order-flow>), setelah PICKED_UP, expected status pengiriman setelahnya adalah COMPLETED.
+
+   Dalam status PICKED_UP, pesanan tidak dapat dibatalkan (begitu saja) oleh CX Lalamove karena barang sudah dijemput. Apabila memang ada request 'pembatalan' dari sisi driver atau pengiriman dengan alasan kecelakaan, pengubahan alamat, dll., maka yang akan dilakukan dari CX Lalamove adalah CANCEL & CLONE.
+
+   Dalam hal ini, pesanan sebelumnya akan dibatalkan oleh CX Lalamove dan CX Lalamove akan membuat order baru (order ID baru) dengan menambahkan informasi tambahan (tergantung kebutuhan). Di tahap ini, event Webhook yang akan diterima adalah ORDER_REPLACED, dimana akan kelihatan order ID lama dan order ID baru.
+
+   Artinya, akan menerima Webhook ORDER_STATUS_CHANGED (ASSIGNING_DRIVER) kembali dari order ID baru.
+
+   Di case ini, ini akan terdetect "order fiktif* dari sisi Tim Anti Fraud kami, sehingga orderan sebelumnya menjadi CANCELLED dan tidak ada order pengganti. Oleh karena itu, status POD yang akan diterima adalah FAILED dan tidak ada foto POD.
+
+   Dalam hal ini, akan ada investigasi dari sisi Lalamove, apakah ini fake completed atau ada case lost goods.
