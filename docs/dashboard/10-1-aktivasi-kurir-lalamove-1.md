@@ -1,6 +1,6 @@
 ---
-title: 10.1 Aktivasi Kurir Lalamove
-sidebar_label: 10.1 Aktivasi Kurir Lalamove
+title: 10.1 Aktivasi Kurir Lalamove. 1
+sidebar_label: 10.1 Aktivasi Kurir Lalamove. 1
 ---
 1. C﻿ara Aktivasi Kurir Lalamove
 
@@ -39,4 +39,52 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove
      \-﻿ Batas Ukuran (P x L x T): 210 cm x 150 cm x 120 cm
 
      \-﻿ Jarak Dasar: 5 km
-   *
+   * **P﻿ICK UP BAK:**
+
+     \-﻿ Berat Maksimal: 800 kg
+
+     \-﻿ Batas Ukuran (P x L x T): 200 cm x 160 cm x 120 cm
+
+     \-﻿ Jarak Dasar: 5 km
+   * **P﻿ICK UP BOX:**
+
+     \-﻿ Berat Maksimal: 1000 kg
+
+     \-﻿ Batas Ukuran (P x L x T): 240 cm x 160 cm x 120 cm
+
+     \-﻿ Jarak Dasar: 2 km
+   * **E﻿NGKEL BOX:**
+
+     \-﻿ Berat Maksimal: 2500 kg
+
+     \-﻿ Batas Ukuran (P x L x T): 310 cm x 170 cm x 170 cm
+
+     \-﻿ Jarak Dasar: 1 km
+   * **C﻿DD BOX:**
+
+     \-﻿ Berat Maksimal: 5000 kg
+
+     \-﻿ Batas Ukuran (P x L x T): 450 cm x 200 cm x 200 cm
+
+     \-﻿ Jarak Dasar: 2 km
+   * **C﻿DD BAK:**
+
+     \-﻿ Berat Maksimal: 5000 kg
+
+     \-﻿ Batas Ukuran (P x L x T): 450 cm x 200 cm x 200 cm
+
+     \-﻿ Jarak Dasar: 2 km
+   * **F﻿USO BOX:**
+
+     \-﻿ Berat Maksimal: 8000 kg
+
+     \-﻿ Batas Ukuran (P x L x T): 570 cm x 250 cm x 250 cm
+
+     \-﻿ Jarak Dasar: 2 km
+   * **F﻿USO BAK:**
+
+     \-﻿ Berat Maksimal: 5000 kg
+
+     \-﻿ Batas Ukuran (P x L x T): 450 cm x 200 cm x 200 cm
+
+     \-﻿ Jarak Dasar: 2 km
