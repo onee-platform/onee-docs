@@ -1,15 +1,15 @@
 ---
-title: 10.1 Aktivasi Kurir Lalamove. 1
-sidebar_label: 10.1 Aktivasi Kurir Lalamove. 1
+title: 10.1 Aktivasi Kurir Lalamove
+sidebar_label: 10.1 Aktivasi Kurir Lalamove
 ---
-1. C﻿ara Aktivasi Kurir Lalamove
+1. ### C﻿ara Aktivasi Kurir Lalamove
 
    ![](/img/10.1-cara-aktivasi-kurir-lalamove-dropdown-.png)
 
    \-﻿ Pilih bagian kurir Lalamove, kemudian pilih / centang yang ingin Anda aktifkan.
-2. D﻿eskripsi Layanan & Jam Operasional
+2. ### D﻿eskripsi Layanan & Jam Operasional
 
-   B﻿erikut dibawah ini ketentuan yang ada pada setiap jenis Armada Pengiriman:
+   ● B﻿erikut dibawah ini ketentuan yang ada pada setiap jenis Armada Pengiriman:
 
    * **MOTOR:**
 
@@ -83,8 +83,12 @@ sidebar_label: 10.1 Aktivasi Kurir Lalamove. 1
      \-﻿ Jarak Dasar: 2 km
    * **F﻿USO BAK:**
 
-     \-﻿ Berat Maksimal: 5000 kg
+     \-﻿ Berat Maksimal: 8000 kg
 
-     \-﻿ Batas Ukuran (P x L x T): 450 cm x 200 cm x 200 cm
+     \-﻿ Batas Ukuran (P x L x T): 570 cm x 250 cm x 200 cm
 
      \-﻿ Jarak Dasar: 2 km
+
+
+
+   ● **J﻿am Operasional Pengiriman Lalamove:**[​](https://onee.netlify.app/dashboard/10-1-aktivasi-kurir-lalamove/#jam-operasional-pengiriman-lalamove "Direct link to heading")
