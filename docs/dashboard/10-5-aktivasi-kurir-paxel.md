@@ -17,9 +17,10 @@ sidebar_label: 10.5 Aktivasi Kurir Paxel
 
    \- Jenis kendaraan pickup/dropoff : Motor
 
-   \-﻿ Waktu Pickup (time slot):  08:00 - 10:00 & 10:00 - 12:00 
-
-   \-﻿ Waktu Delivery ( estimasi tiba ):  18.00 - 22.00
+   \-﻿ Paxel layanan service SAME_DAY
+     Jam pickup:
+     06:00 s/d jam 12:00 => Akan di proses/dikirimkan di hari yg sama (SAME_DAY)
+     12:00-18:00 => Paket tetap dapat di pickup, namun estimasi tiba di H+1 (keesokan hari nya) 
 
    \- L﻿ayanan pengiriman same day dengan keunggulan sebagai berikut:
 
@@ -44,16 +45,12 @@ sidebar_label: 10.5 Aktivasi Kurir Paxel
    | 16:00-18:00 |
    | 18:00-20:00 |
 
-
-
    \-﻿ Waktu Delivery ( estimasi tiba ) :
 
    | 10:00-14:00 |
    | ----------- |
    | 14:00-16:00 |
    | 18:00-22:00 |
-
-
 
    **c﻿.** **Paxel Big** (Paket dijemput dan diantar sampai tujuan, sehari sampai, dan bekerja sama dengan Bluebird Group).
 
@@ -64,8 +61,6 @@ sidebar_label: 10.5 Aktivasi Kurir Paxel
    \-﻿ Waktu Delivery ( estimasi tiba ):  16:00-18:00 & 18:00-22:00
 
    **d﻿. Area Jangkauan Paxel : <https://paxel.co/id/berita-dan-promo/area-jangkauan-paxel>**
-
-
 3. **K﻿etentuan ukuran, dimensi, dan berat Paket/Barang:**
 
    a. Untuk layanan Same Day dan Next Day ketentuan Paket maksimal 5kg dengan dimensi sebagai berikut:
@@ -79,8 +74,6 @@ sidebar_label: 10.5 Aktivasi Kurir Paxel
    C﻿: 50x50x50 cm (Maksimal)
 
    b﻿. Untuk layanan Paxel Big ketentuan berat paket adalah 6-25kg dan dimensi 80x50x50 cm per air waybill (AWB).
-
-
 4. **S﻿yarat & Ketentuan Pengemasan Paket**
 
    **a﻿. Paket Frozen:**
@@ -99,8 +92,6 @@ sidebar_label: 10.5 Aktivasi Kurir Paxel
    * Pastikan box/dus terisi penuh tidak ada ruang hampa agar dapat menahannya dari goncangan perjalanan, kamu juga bisa menggunakan tambahan bubble wrap/kertas untuk mengisi ruangan antara barangmu dengan sisi dalam box/dus,
    * Pastikan kamu melaporkan paket sebagai item Fragile, Makanan Tahan Lama/Makanan Mudah Rusak kepada hero/kurir Paxel,
    * Selama proses pengiriman, sudah dipastikan paket akan terus bergerak. Packaging yg baik akan membuat makanan atau kue kering di dalam wadah menjadi lebih aman
-
-
 5. **A﻿lur Operasional**
 
    **a. Transaksi Pembeli - Penjemputan Paket.** 
